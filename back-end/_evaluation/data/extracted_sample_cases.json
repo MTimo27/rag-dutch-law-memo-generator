@@ -1,0 +1,152 @@
+[
+  {
+    "case_id": "test-case-3",
+    "similarity_metric": "cosine",
+    "threshold": 0.7
+  },
+  {
+    "case_id": "test-case-3",
+    "similarity_metric": "cosine",
+    "threshold": 0.9
+  },
+  {
+    "case_id": "test-case-3",
+    "similarity_metric": "dot",
+    "threshold": 0.7
+  },
+  {
+    "case_id": "test-case-3",
+    "similarity_metric": "dot",
+    "threshold": 0.9
+  },
+  {
+    "case_id": "test-case-3",
+    "similarity_metric": "euclidean",
+    "threshold": 0.7
+  },
+  {
+    "case_id": "test-case-3",
+    "similarity_metric": "euclidean",
+    "threshold": 0.9
+  },
+  {
+    "case_id": "test-case-5",
+    "similarity_metric": "cosine",
+    "threshold": 0.7
+  },
+  {
+    "case_id": "test-case-5",
+    "similarity_metric": "cosine",
+    "threshold": 0.9
+  },
+  {
+    "case_id": "test-case-5",
+    "similarity_metric": "dot",
+    "threshold": 0.7
+  },
+  {
+    "case_id": "test-case-5",
+    "similarity_metric": "dot",
+    "threshold": 0.9
+  },
+  {
+    "case_id": "test-case-5",
+    "similarity_metric": "euclidean",
+    "threshold": 0.7
+  },
+  {
+    "case_id": "test-case-5",
+    "similarity_metric": "euclidean",
+    "threshold": 0.9
+  },
+  {
+    "case_id": "test-case-9",
+    "similarity_metric": "cosine",
+    "threshold": 0.7
+  },
+  {
+    "case_id": "test-case-9",
+    "similarity_metric": "cosine",
+    "threshold": 0.9
+  },
+  {
+    "case_id": "test-case-9",
+    "similarity_metric": "dot",
+    "threshold": 0.7
+  },
+  {
+    "case_id": "test-case-9",
+    "similarity_metric": "dot",
+    "threshold": 0.9
+  },
+  {
+    "case_id": "test-case-9",
+    "similarity_metric": "euclidean",
+    "threshold": 0.7
+  },
+  {
+    "case_id": "test-case-9",
+    "similarity_metric": "euclidean",
+    "threshold": 0.9
+  },
+  {
+    "case_id": "test-case-12",
+    "similarity_metric": "cosine",
+    "threshold": 0.7
+  },
+  {
+    "case_id": "test-case-12",
+    "similarity_metric": "cosine",
+    "threshold": 0.9
+  },
+  {
+    "case_id": "test-case-12",
+    "similarity_metric": "dot",
+    "threshold": 0.7
+  },
+  {
+    "case_id": "test-case-12",
+    "similarity_metric": "dot",
+    "threshold": 0.9
+  },
+  {
+    "case_id": "test-case-12",
+    "similarity_metric": "euclidean",
+    "threshold": 0.7
+  },
+  {
+    "case_id": "test-case-12",
+    "similarity_metric": "euclidean",
+    "threshold": 0.9
+  },
+  {
+    "case_id": "test-case-15",
+    "similarity_metric": "cosine",
+    "threshold": 0.7
+  },
+  {
+    "case_id": "test-case-15",
+    "similarity_metric": "cosine",
+    "threshold": 0.9
+  },
+  {
+    "case_id": "test-case-15",
+    "similarity_metric": "dot",
+    "threshold": 0.7
+  },
+  {
+    "case_id": "test-case-15",
+    "similarity_metric": "dot",
+    "threshold": 0.9
+  },
+  {
+    "case_id": "test-case-15",
+    "similarity_metric": "euclidean",
+    "threshold": 0.7
+  },
+  {
+    "case_id": "test-case-15",
+    "similarity_metric": "euclidean",
+    "threshold": 0.9
+  }
+]

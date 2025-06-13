@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "best_precision": {
+      "metric": "cosine",
+      "threshold": 0.6,
+      "value": 1.0
+    },
+    "best_recall": {
+      "metric": "cosine",
+      "threshold": 0.6,
+      "value": 0.79
+    },
+    "lowest_hallucination_rate": {
+      "metric": "cosine",
+      "threshold": 0.6,
+      "value": 0.0
+    },
+    "best_f1_score": {
+      "metric": "cosine",
+      "threshold": 0.6,
+      "value": 0.88
+    }
+  },
+  "results": [
+    {
+      "similarity_metric": "cosine",
+      "threshold": 0.6,
+      "citation_precision": 1.0,
+      "citation_recall": 0.7866666666666667,
+      "fabricated_eclis": 0.0,
+      "ungrounded_statements": 0.0,
+      "ungrounded_ratio": 0.0,
+      "hallucinated": 0.0,
+      "f1_score": 0.8805970149253732
+    },
+    {
+      "similarity_metric": "cosine",
+      "threshold": 0.7,
+      "citation_precision": 1.0,
+      "citation_recall": 0.7866666666666667,
+      "fabricated_eclis": 0.0,
+      "ungrounded_statements": 0.0,
+      "ungrounded_ratio": 0.0,
+      "hallucinated": 0.0,
+      "f1_score": 0.8805970149253732
+    },
+    {
+      "similarity_metric": "cosine",
+      "threshold": 0.8,
+      "citation_precision": 1.0,
+      "citation_recall": 0.7866666666666667,
+      "fabricated_eclis": 0.0,
+      "ungrounded_statements": 2.2,
+      "ungrounded_ratio": 0.09102169026856682,
+      "hallucinated": 0.9333333333333333,
+      "f1_score": 0.8805970149253732
+    },
+    {
+      "similarity_metric": "cosine",
+      "threshold": 0.9,
+      "citation_precision": 1.0,
+      "citation_recall": 0.7866666666666667,
+      "fabricated_eclis": 0.0,
+      "ungrounded_statements": 21.066666666666666,
+      "ungrounded_ratio": 0.8690843119898591,
+      "hallucinated": 1.0,
+      "f1_score": 0.8805970149253732
+    },
+    {
+      "similarity_metric": "dot",
+      "threshold": 0.6,
+      "citation_precision": 1.0,
+      "citation_recall": 0.7866666666666667,
+      "fabricated_eclis": 0.0,
+      "ungrounded_statements": 0.0,
+      "ungrounded_ratio": 0.0,
+      "hallucinated": 0.0,
+      "f1_score": 0.8805970149253732
+    },
+    {
+      "similarity_metric": "dot",
+      "threshold": 0.7,
+      "citation_precision": 1.0,
+      "citation_recall": 0.7866666666666667,
+      "fabricated_eclis": 0.0,
+      "ungrounded_statements": 0.0,
+      "ungrounded_ratio": 0.0,
+      "hallucinated": 0.0,
+      "f1_score": 0.8805970149253732
+    },
+    {
+      "similarity_metric": "dot",
+      "threshold": 0.8,
+      "citation_precision": 1.0,
+      "citation_recall": 0.7866666666666667,
+      "fabricated_eclis": 0.0,
+      "ungrounded_statements": 2.2,
+      "ungrounded_ratio": 0.09102169026856682,
+      "hallucinated": 0.9333333333333333,
+      "f1_score": 0.8805970149253732
+    },
+    {
+      "similarity_metric": "dot",
+      "threshold": 0.9,
+      "citation_precision": 1.0,
+      "citation_recall": 0.7866666666666667,
+      "fabricated_eclis": 0.0,
+      "ungrounded_statements": 21.066666666666666,
+      "ungrounded_ratio": 0.8690843119898591,
+      "hallucinated": 1.0,
+      "f1_score": 0.8805970149253732
+    },
+    {
+      "similarity_metric": "euclidean",
+      "threshold": 0.6,
+      "citation_precision": 1.0,
+      "citation_recall": 0.7866666666666667,
+      "fabricated_eclis": 0.0,
+      "ungrounded_statements": 16.2,
+      "ungrounded_ratio": 0.6705572763438831,
+      "hallucinated": 1.0,
+      "f1_score": 0.8805970149253732
+    },
+    {
+      "similarity_metric": "euclidean",
+      "threshold": 0.7,
+      "citation_precision": 1.0,
+      "citation_recall": 0.7866666666666667,
+      "fabricated_eclis": 0.0,
+      "ungrounded_statements": 23.0,
+      "ungrounded_ratio": 0.9472287241512629,
+      "hallucinated": 1.0,
+      "f1_score": 0.8805970149253732
+    },
+    {
+      "similarity_metric": "euclidean",
+      "threshold": 0.8,
+      "citation_precision": 1.0,
+      "citation_recall": 0.7866666666666667,
+      "fabricated_eclis": 0.0,
+      "ungrounded_statements": 24.333333333333332,
+      "ungrounded_ratio": 0.9972222222222222,
+      "hallucinated": 1.0,
+      "f1_score": 0.8805970149253732
+    },
+    {
+      "similarity_metric": "euclidean",
+      "threshold": 0.9,
+      "citation_precision": 1.0,
+      "citation_recall": 0.7866666666666667,
+      "fabricated_eclis": 0.0,
+      "ungrounded_statements": 24.4,
+      "ungrounded_ratio": 1.0,
+      "hallucinated": 1.0,
+      "f1_score": 0.8805970149253732
+    }
+  ]
+}

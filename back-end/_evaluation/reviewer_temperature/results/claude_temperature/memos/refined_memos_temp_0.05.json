@@ -1,0 +1,2057 @@
+[
+  {
+    "case_id": "test-case-1",
+    "created_at": "2025-05-26T07:07:02.841406",
+    "refined_at": "2025-05-30T11:39:50.416524+00:00",
+    "temperature": 0.05,
+    "model": "claude-4-sonnet",
+    "memo": "---\n**Juridisch Memorandum (Herzien op basis van opgehaalde uitspraken)**\n\n**1. Vraagstelling**\n\nDe vraag betreft de afwijzing van een WW-uitkering door het UWV, waarbij drie weken niet als gewerkte weken zijn meegeteld wegens vermeende ziekte. De cliënt stelt, met bevestiging van de werkgever, dat hij in deze weken wel heeft gewerkt. De vraag is of het UWV terecht deze weken buiten beschouwing heeft gelaten bij de beoordeling van het recht op WW-uitkering.\n\n**2. Analyse op basis van de geselecteerde uitspraken**\n\nDe geselecteerde uitspraken zien uitsluitend op de Wet werk en inkomen naar arbeidsvermogen (Wet WIA) en de Ziektewet (ZW). Geen van de uitspraken betreft direct de Werkloosheidswet (WW) of de specifieke situatie waarin het UWV gewerkte weken niet meetelt wegens vermeende ziekte, ondanks een werkgeversverklaring dat er wel is gewerkt. Wel bevatten de uitspraken relevante overwegingen over de wijze waarop het UWV feiten dient vast te stellen en waarop besluiten moeten worden gebaseerd.\n\n**Feitelijke vaststelling en onderbouwing van het UWV-besluit**\n\nUit de opgehaalde fragmenten blijkt dat het UWV bij de beoordeling van een uitkeringsaanvraag uitgaat van de feitelijke situatie, waarbij medische rapportages en verklaringen van derden (zoals de werkgever) een rol kunnen spelen. Zo wordt in ECLI:NL:CRVB:2021:761 overwogen dat aan het besluit van het UWV een rapport van een verzekeringsarts bezwaar en beroep ten grondslag lag, en dat de feitelijke situatie van arbeidsongeschiktheid centraal stond.\n\nIn ECLI:NL:CRVB:2020:2343 en ECLI:NL:CRVB:2020:2340 blijkt dat het UWV besluiten baseert op objectieve en controleerbare gegevens, waaronder medische rapportages en arbeidsdeskundige beoordelingen. In beide zaken werd het oordeel van het UWV getoetst aan de hand van de feitelijke situatie en de beschikbare bewijsstukken.\n\nIn ECLI:NL:CRVB:2021:768 en ECLI:NL:CRVB:2020:1364 wordt eveneens beschreven dat het UWV zijn besluiten onderbouwt met rapporten van verzekeringsartsen en arbeidsdeskundigen, en dat deze rapporten de feitelijke situatie in kaart brengen.\n\n**3. Toepassing op de casus**\n\nHoewel de uitspraken niet direct zien op de WW, volgt uit de fragmenten dat het UWV bij de beoordeling van het recht op uitkering de feitelijke situatie als uitgangspunt neemt en zijn besluiten onderbouwt met objectieve gegevens, zoals medische rapportages en verklaringen van derden (ECLI:NL:CRVB:2021:761; ECLI:NL:CRVB:2020:2343; ECLI:NL:CRVB:2020:2340).\n\nIndien in de onderhavige zaak de werkgever bevestigt dat de cliënt daadwerkelijk heeft gewerkt in de betreffende weken, en er geen objectieve medische rapportage is die het tegendeel aantoont, volgt uit de systematiek van de hierboven genoemde uitspraken dat het UWV zijn besluit deugdelijk dient te motiveren en te baseren op objectieve gegevens. Het enkele bestaan van een ziekmelding is, gelet op de aangehaalde fragmenten, niet zonder meer voldoende indien uit andere objectieve gegevens blijkt dat er arbeid is verricht.\n\n**4. Conclusie**\n\nOp basis van de opgehaalde fragmenten uit de geselecteerde uitspraken (ECLI:NL:CRVB:2021:761; ECLI:NL:CRVB:2020:2343; ECLI:NL:CRVB:2020:2340) kan worden geconcludeerd dat het UWV bij de beoordeling van het recht op uitkering de feitelijke situatie als uitgangspunt dient te nemen en zijn besluit dient te onderbouwen met objectieve gegevens, waaronder verklaringen van derden. Indien het UWV geen objectief bewijs heeft dat de cliënt in de betreffende weken niet heeft gewerkt, en de werkgever bevestigt dat er wel is gewerkt, dient het UWV zijn besluit nader te motiveren.\n\n**5. Advies**\n\nHet wordt aanbevolen om in bezwaar of beroep de werkgeversverklaring te overleggen en het UWV te verzoeken het besluit te onderbouwen met objectieve gegevens, conform de werkwijze zoals beschreven in de aangehaalde uitspraken.\n\n---",
+    "form_data": {
+      "disputedDecision": "Afwijzing van een WW-uitkering door het UWV",
+      "desiredOutcome": "Toekenning van WW-uitkering met terugwerkende kracht",
+      "criticalFacts": "Cliënt heeft 26 weken gewerkt, maar UWV telt 3 weken niet mee vanwege ziekte. Werkgever bevestigt echter dat cliënt deze weken gewoon heeft doorgewerkt.",
+      "applicableLaw": "ww",
+      "recipients": "lawyer"
+    },
+    "chunks": [
+      {
+        "id": "8d25c70d-561c-4b70-a8db-e48c0985b90c",
+        "chunk_index": 4,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2021:761",
+        "text": "Op 19 februari 2018 heeft appellant een uitkering aangevraagd op grond van de Wet werk en inkomen naar arbeidsvermogen (Wet WIA) wegens sinds 1 mei 2016 bestaande arbeidsongeschiktheid. Bij besluit van 21 februari 2018 heeft het Uwv geweigerd appellant per 23 april 2018 een WIA-uitkering toe te kennen omdat hij niet 104 weken arbeidsongeschikt is geweest. Het door appellant tegen dit besluit gemaakte bezwaar heeft het Uwv bij beslissing op bezwaar van 16 oktober 2018 (bestreden besluit 2) ongegrond verklaard. Aan bestreden besluit 2 ligt een rapport van een verzekeringsarts bezwaar en beroep van 12 oktober 2018 ten grondslag.",
+        "similarity": 0.8874,
+        "metadata": {
+          "date": "2021-04-06",
+          "ecli": "ECLI:NL:CRVB:2021:761",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2021:761 Centrale Raad van Beroep , 06-04-2021 / 18/1476 ZW",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 4,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "2a4a4d31-62bb-4c83-bfd4-4137fd5aec7f",
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2020:2343",
+        "text": "1. Appellante heeft gewerkt als keukenhulp voor gemiddeld 32 uur per week. Op 3 november 2015 heeft zij zich ziek gemeld wegens lichamelijke en psychische klachten. Zij had toen een uitkering op grond van de Werkloosheidswet. Bij besluit van 11 oktober 2017 heeft het Uwv geweigerd aan appellante met ingang van 31 oktober 2017 een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen (Wet WIA) toe te kennen, omdat appellante met ingang van die datum minder dan 35% arbeidsongeschikt is. Het Uwv heeft het bezwaar van appellante tegen dit besluit bij besluit van 22 februari 2018 (bestreden besluit) ongegrond verklaard. Aan het bestreden besluit liggen een rapport van een verzekeringsarts bezwaar en beroep van 15 februari 2018 en een rapport van een arbeidsdeskundige bezwaar en beroep van 22 februari 2018 ten grondslag.",
+        "similarity": 0.8872,
+        "metadata": {
+          "date": "2020-10-01",
+          "ecli": "ECLI:NL:CRVB:2020:2343",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2020:2343 Centrale Raad van Beroep , 01-10-2020 / 19/663 WIA",
+          "quarter": 4,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 0,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "16b1eda9-1fa5-4e95-9859-97811702b50e",
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2020:2340",
+        "text": "1. Appellante is laatstelijk werkzaam geweest als productiemedewerker voor gemiddeld 19,25 uur per week. Op 16 september 2014 heeft appellante zich ziek gemeld met armklachten en psychische klachten. Het Uwv heeft bij besluit van 9 september 2016 aan de werkgever van appellante een loonsanctie tot 12 september 2017 opgelegd. In het kader van een aanvraag op grond van de Wet werk en inkomen naar arbeidsvermogen (Wet WIA) heeft appellante op 9 oktober 2017 het spreekuur bezocht van een verzekeringsarts. Deze arts heeft vastgesteld dat appellante belastbaar is met inachtneming van de beperkingen die hij heeft neergelegd in een Functionele Mogelijkhedenlijst van 10 oktober 2017. Een arbeidsdeskundige heeft vastgesteld dat appellante niet meer geschikt is voor het laatstelijk verrichte werk. Vervolgens heeft hij functies geselecteerd en op basis van de drie functies met de hoogste lonen de mate van arbeidsongeschiktheid berekend. Bij besluit van 16 oktober 2017 heeft het Uwv geweigerd aan appellante met ingang van 13 september 2017 een WIA‑uitkering toe te kennen, omdat zij met ingang van die datum minder dan 35% arbeidsongeschikt is. Het bezwaar van appellante tegen dit besluit heeft het Uwv bij besluit van 13 april 2018 (bestreden besluit) ongegrond verklaard. Aan het bestreden besluit liggen rapporten van een verzekeringsarts bezwaar en beroep en van een arbeidsdeskundige bezwaar en beroep ten grondslag.",
+        "similarity": 0.884,
+        "metadata": {
+          "date": "2020-10-01",
+          "ecli": "ECLI:NL:CRVB:2020:2340",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2020:2340 Centrale Raad van Beroep , 01-10-2020 / 19/2155 WIA",
+          "quarter": 4,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 0,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "4277d16d-6d1c-44ab-924f-aa944b1f1f4d",
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2023:10",
+        "text": "Appellante is laatstelijk werkzaam geweest als verzorgende voor 36 uur per week. Op 4 juni 2010 heeft appellante zich ziek gemeld met verschillende klachten. Met de beslissing op bezwaar van 24 juli 2012 heeft het Uwv appellante na afloop van de voorgeschreven wachttijd met ingang van 1 juni 2012 een loongerelateerde WGA-uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen (Wet WIA) toegekend, waarbij de mate van arbeidsongeschiktheid is vastgesteld op 80 tot 100%. Tegen dit besluit heeft appellante geen beroep ingesteld.",
+        "similarity": 0.8833,
+        "metadata": {
+          "date": "2023-01-04",
+          "ecli": "ECLI:NL:CRVB:2023:10",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2023:10 Centrale Raad van Beroep , 04-01-2023 / 20/4391 WIA",
+          "quarter": 1,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 0,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "27e62173-8532-4260-881b-71ff957c08e0",
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2020:1364",
+        "text": "1. Appellante is laatstelijk werkzaam geweest als begeleider verstandelijk beperkten voor 32 uur per week. Op 27 juni 2015 heeft appellante zich ziek gemeld met linker hand- en polsklachten, nadat ze eerder in 2013 arbeidsongeschikt was geworden ten gevolge van brandwonden aan de linker hand. In het kader van een aanvraag op grond van de Wet werk en inkomen naar arbeidsvermogen (Wet WIA) heeft appellante het spreekuur bezocht van een verzekeringsarts. Deze arts heeft vastgesteld dat appellante belastbaar is met inachtneming van de beperkingen die hij heeft neergelegd in een Functionele Mogelijkhedenlijst (FML). Een arbeidsdeskundige heeft vastgesteld dat appellante niet meer geschikt is voor het laatstelijk verrichte werk. Hij heeft vervolgens passende functies geselecteerd en de mate van arbeidsongeschiktheid berekend. Bij besluit van 17 oktober 2017 heeft het Uwv geweigerd appellante met ingang van 19 oktober 2017 een WIA-uitkering toe te kennen omdat zij minder dan 35% arbeidsongeschikt is. Het bezwaar van appellante tegen dit besluit heeft het Uwv bij besluit van 5 februari 2018 (bestreden besluit) ongegrond verklaard. Aan het bestreden besluit ligt een rapport van een verzekeringsarts bezwaar en beroep ten grondslag.",
+        "similarity": 0.8819,
+        "metadata": {
+          "date": "2020-07-01",
+          "ecli": "ECLI:NL:CRVB:2020:1364",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2020:1364 Centrale Raad van Beroep , 01-07-2020 / 19/1609 WIA",
+          "quarter": 3,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 0,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "f6f9b1b9-6024-4eaa-8a21-69909fedfe44",
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2021:768",
+        "text": "1. Appellant is laatstelijk werkzaam geweest als schoonmaker voor gemiddeld 31,38 uur per week. Op 26 augustus 2015 heeft appellant zich ziek gemeld met pijnklachten aan de voeten en rug en psychische klachten. In het kader van een aanvraag op grond van de Wet werk en inkomen naar arbeidsvermogen (Wet WIA) heeft appellant het spreekuur bezocht van een verzekeringsarts. Deze arts heeft vastgesteld dat appellant belastbaar is met inachtneming van de beperkingen die hij heeft neergelegd in een Functionele Mogelijkhedenlijst (FML) van 28 juli 2017. Een arbeidsdeskundige heeft vastgesteld dat appellant niet meer geschikt is voor het laatstelijk verrichte werk. Hij heeft vervolgens functies geselecteerd en op basis van de drie functies met de hoogste lonen de mate van arbeidsongeschiktheid berekend. Bij besluit van 14 augustus 2017 heeft het Uwv geweigerd aan appellant met ingang van 23 augustus 2017 een WIA-uitkering toe te kennen, omdat hij met ingang van die datum minder dan 35% arbeidsongeschikt is. Het bezwaar van appellant tegen dit besluit heeft het Uwv bij besluit van 13 februari 2018 (bestreden besluit) ongegrond verklaard. Aan het bestreden besluit liggen rapporten van 29 januari 2018 van een verzekeringsarts bezwaar en beroep en van 12 februari 2018 van een arbeidsdeskundige bezwaar en beroep ten grondslag.",
+        "similarity": 0.8811,
+        "metadata": {
+          "date": "2021-04-07",
+          "ecli": "ECLI:NL:CRVB:2021:768",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2021:768 Centrale Raad van Beroep , 07-04-2021 / 19/5238 WIA",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 0,
+          "sub_chunk_index": 0
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "test-case-2",
+    "created_at": "2025-05-26T07:08:54.349491",
+    "refined_at": "2025-05-30T11:41:16.477637+00:00",
+    "temperature": 0.05,
+    "model": "claude-4-sonnet",
+    "memo": "---\n**Juridisch Memorandum (Herzien op basis van opgehaalde jurisprudentie)**\n\n**1. Vraagstelling**\n\nDe vraag is of het besluit van de gemeente tot terugvordering van bijstand wegens het niet melden van een (vermeende) gezamenlijke huishouding stand kan houden, nu cliënt stelt feitelijk apart te wonen van de huisgenoot, met een eigen huurcontract en gescheiden financiën.\n\n**2. Juridische beoordeling aan de hand van jurisprudentie**\n\n**A. Gezamenlijke huishouding: feitelijke situatie en wederzijdse zorg**\n\nUit het fragment van ECLI:NL:RBZWB:2024:9 blijkt dat bij de beoordeling of sprake is van een gezamenlijke huishouding, het ontbreken van wederzijdse zorg en het ontbreken van een gezamenlijke huishouding relevante factoren zijn. In deze uitspraak wordt samengevat dat verzoeker aanvoerde dat geen sprake was van een gezamenlijke huishouding met de hoofdbewoner, onder meer omdat er geen sprake was van wederzijdse zorg. De rechtbank achtte deze stelling relevant voor de beoordeling.\n\n**Toepassing op cliënt:**  \nIndien cliënt kan aantonen dat er geen sprake was van wederzijdse zorg en dat feitelijk geen gezamenlijke huishouding werd gevoerd, bijvoorbeeld door het bestaan van een eigen huurcontract en gescheiden financiën, zijn dit volgens ECLI:NL:RBZWB:2024:9 relevante omstandigheden die moeten worden meegewogen bij de beoordeling van het recht op bijstand.\n\n**B. Zorgvuldigheid en motivering van het besluit**\n\nVolgens ECLI:NL:RBOVE:2022:923 kan een besluit tot beëindiging en terugvordering van een uitkering wegens het voeren van een gezamenlijke huishouding niet in stand blijven indien het besluit niet zorgvuldig is voorbereid en niet van een deugdelijke motivering is voorzien. In deze zaak verklaarde de rechtbank het beroep gegrond en herzag het primaire besluit, mede omdat het gezien het tijdsverloop onwaarschijnlijk werd geacht dat verweerder alsnog het besluit kon voorzien van een deugdelijke motivering.\n\n**Toepassing op cliënt:**  \nIndien de gemeente het besluit tot terugvordering niet zorgvuldig heeft voorbereid of onvoldoende heeft gemotiveerd, bijvoorbeeld door niet in te gaan op de feitelijke situatie van cliënt, kan het besluit op grond van ECLI:NL:RBOVE:2022:923 niet in stand blijven.\n\n**C. Informatie- en onderzoeksplicht**\n\nUit ECLI:NL:RBOVE:2021:3751 volgt dat de gemeente niet zonder meer mag aannemen dat het recht op bijstand niet is vast te stellen enkel vanwege onduidelijkheden over de leefsituatie. De rechtbank overwoog dat verweerder zich ten onrechte op het standpunt had gesteld dat niet aan de informatieplicht was voldaan, terwijl het recht op bijstand wel degelijk kon worden vastgesteld.\n\n**Toepassing op cliënt:**  \nAls cliënt voldoende gegevens heeft overgelegd waaruit blijkt dat geen gezamenlijke huishouding bestond, mag de gemeente niet volstaan met het afwijzen van het recht op bijstand vanwege vermeende schending van de informatieplicht. De gemeente moet het recht op bijstand daadwerkelijk beoordelen op basis van de beschikbare gegevens (ECLI:NL:RBOVE:2021:3751).\n\n**D. Juiste wetstoepassing en onderbouwing**\n\nIn ECLI:NL:CRVB:2022:638 oordeelt de Centrale Raad van Beroep dat een besluit niet in stand kan blijven als het niet berust op een juiste wetstoepassing en niet deugdelijk is onderbouwd. Het bestreden besluit werd vernietigd omdat het niet op juiste wetstoepassing berustte en onvoldoende was gemotiveerd.\n\n**Toepassing op cliënt:**  \nIndien het besluit van de gemeente niet is gebaseerd op een juiste toepassing van de Participatiewet en onvoldoende is onderbouwd, kan het besluit niet in stand blijven (ECLI:NL:CRVB:2022:638).\n\n**3. Conclusie**\n\nOp grond van de aangehaalde jurisprudentie is het besluit tot terugvordering van bijstand door de gemeente aanvechtbaar indien:\n\n- De gemeente onvoldoende onderbouwt dat sprake was van een gezamenlijke huishouding, terwijl cliënt relevante feiten aandraagt zoals het ontbreken van wederzijdse zorg (ECLI:NL:RBZWB:2024:9).\n- Het besluit niet zorgvuldig is voorbereid of onvoldoende is gemotiveerd (ECLI:NL:RBOVE:2022:923).\n- De gemeente zich ten onrechte beroept op schending van de informatieplicht, terwijl uit de overgelegde gegevens blijkt dat geen gezamenlijke huishouding bestond (ECLI:NL:RBOVE:2021:3751).\n- Het besluit niet berust op een juiste wetstoepassing en onvoldoende is onderbouwd (ECLI:NL:CRVB:2022:638).\n\n**4. Advies**\n\nHet is aan te bevelen om in bezwaar en (eventueel) beroep expliciet te verwijzen naar bovengenoemde uitspraken. Cliënt dient bewijsstukken te overleggen waaruit blijkt dat geen sprake was van een gezamenlijke huishouding. De gemeente dient haar onderzoeksplicht en motiveringsplicht na te komen. Indien het besluit niet voldoet aan de eisen uit de genoemde jurisprudentie, kan vernietiging of herroeping van het terugvorderingsbesluit worden bepleit.\n\n---",
+    "form_data": {
+      "disputedDecision": "Terugvordering van bijstand door de gemeente",
+      "desiredOutcome": "Intrekking van de terugvordering",
+      "criticalFacts": "Cliënt heeft samenwoning niet gemeld, maar woonde feitelijk apart van huisgenoot met eigen huurcontract en gescheiden financiën.",
+      "applicableLaw": "participatiewet",
+      "recipients": "judge"
+    },
+    "chunks": [
+      {
+        "id": "caed375e-1f22-4d91-b4bc-a08c966a475b",
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBZWB:2024:9",
+        "text": "2. Verzoeker heeft, samengevat, aangevoerd dat er geen sprake is van een gezamenlijke huishouding met de hoofdbewoner. Er is geen sprake van wederzijdse zorg. Ter onderbouwing van zijn stelling verwijst verzoeker naar de door de bezwaarcommissie aangehaalde uitspraken.",
+        "similarity": 0.8612,
+        "metadata": {
+          "date": "2024-01-02",
+          "ecli": "ECLI:NL:RBZWB:2024:9",
+          "court": "Rechtbank Zeeland-West-Brabant",
+          "title": "ECLI:NL:RBZWB:2024:9 Rechtbank Zeeland-West-Brabant , 02-01-2024 / AWB- 23_10958 en 23_10959 VV",
+          "quarter": 1,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#voorlopigeVoorziening",
+          "chunk_index": 0,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "d20bbfed-501e-4176-aedf-56e0dfda77ac",
+        "chunk_index": 14,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2022:638",
+        "text": "Het bestreden besluit is gebaseerd op het onjuiste standpunt dat artikel 15, eerste lid, van de PW aan de verlening van bijzondere bijstand in de weg stond en dat appellante alleen op grond van de Beleidsregels daarop aanspraak kon maken. Het besluit berust dus niet op een juiste wetstoepassing en daarmee niet op een deugdelijke onderbouwing. Het kan daarom niet in stand blijven.",
+        "similarity": 0.8482,
+        "metadata": {
+          "date": "2022-04-12",
+          "ecli": "ECLI:NL:CRVB:2022:638",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2022:638 Centrale Raad van Beroep , 12-04-2022 / 21/2587 PW",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 14,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "9c51fba8-7461-483f-89ef-5427a25cfcf9",
+        "chunk_index": -1,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBOVE:2022:923",
+        "text": "Beeindiging Anw-uitkering en terugvordering van € 49.001,12 vanwege voeren van gezamenlijke huishouding; besluit niet zorgvuldig voorbereid; rechtbank verklaart beroep gegrond en herroept primair besluit omdat het gezien tijdsverloop onwaarschijnlijk wordt geacht dat verweerder alsnog onderzoek kan doen en het bestreden besluit kan voorzien van een deugdelijke motivering.",
+        "similarity": 0.8472,
+        "metadata": {
+          "date": "2022-04-06",
+          "ecli": "ECLI:NL:RBOVE:2022:923",
+          "court": "Rechtbank Overijssel",
+          "title": "ECLI:NL:RBOVE:2022:923 Rechtbank Overijssel , 06-04-2022 / AWB_20_2109",
+          "quarter": 2,
+          "section": "ABSTRACT",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": -1,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "5921f552-7b5b-43cd-a66b-2b0dad96d6ec",
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2022:638",
+        "text": "Bij beschikking van 5 augustus 2016 heeft de kantonrechter, vanwege de lichamelijke of geestelijke toestand van appellante en haar problematische schulden, bewind ingesteld over alle goederen en gelden die haar toebehoren of zullen toebehoren. Daarbij zijn [naam 1] en [naam 2], beiden handelend onder de naam [A] bewindvoering en inkomensbeheer ([A]), met ingang van 10 augustus 2016 tot bewindvoerders benoemd. Appellante ontving tot en met januari 2019 in de gemeente Leeuwarden bijzondere bijstand op grond van de Participatiewet (PW) voor de kosten die [A] in verband met de bewindvoering in rekening bracht.",
+        "similarity": 0.8471,
+        "metadata": {
+          "date": "2022-04-12",
+          "ecli": "ECLI:NL:CRVB:2022:638",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2022:638 Centrale Raad van Beroep , 12-04-2022 / 21/2587 PW",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 0,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "22c7f122-6e67-40c6-856b-0dc89300a059",
+        "chunk_index": 12,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBOVE:2021:3751",
+        "text": "9. Gelet op het oordeel over de aanvraag om bijstand heeft verweerder zich ten onrechte op het standpunt gesteld dat op grond van de artikelen 11 en 17 van de Pw eiser niet heeft voldaan aan zijn informatieplicht en het recht op bijstand niet is vast te stellen en hij daarom niet in aanmerking komt voor bijzondere bijstand als bedoeld in artikel 35 van de Pw. Verweerder heeft de aanvraag naar het oordeel van de rechtbank dan ook ten onrechte afgewezen.",
+        "similarity": 0.8466,
+        "metadata": {
+          "date": "2021-10-07",
+          "ecli": "ECLI:NL:RBOVE:2021:3751",
+          "court": "Rechtbank Overijssel",
+          "title": "ECLI:NL:RBOVE:2021:3751 Rechtbank Overijssel , 07-10-2021 / ak_21_632",
+          "quarter": 4,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": 12,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "73937c96-9c19-4cb0-8c84-f9ee4d6ea230",
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBOVE:2021:3751",
+        "text": "Verweerder heeft in het primaire besluit II de aanvraag om bijzondere bijstand afgewezen, omdat niet duidelijk is hoe eiser in zijn levensonderhoud voorziet en verweerder daardoor het recht op bijzondere bijstand niet kon vaststellen.",
+        "similarity": 0.8465,
+        "metadata": {
+          "date": "2021-10-07",
+          "ecli": "ECLI:NL:RBOVE:2021:3751",
+          "court": "Rechtbank Overijssel",
+          "title": "ECLI:NL:RBOVE:2021:3751 Rechtbank Overijssel , 07-10-2021 / ak_21_632",
+          "quarter": 4,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": 0,
+          "sub_chunk_index": 0
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "test-case-3",
+    "created_at": "2025-05-26T07:10:53.850690",
+    "refined_at": "2025-05-30T11:42:10.807328+00:00",
+    "temperature": 0.05,
+    "model": "claude-4-sonnet",
+    "memo": "---\n**Juridisch Memorandum (Herzien op basis van opgehaalde jurisprudentie)**\n\n**1. Vraagstelling**\n\nDe cliënt betwist de afwijzing van zijn aanvraag voor huurtoeslag door de Belastingdienst. De kern van het geschil is dat de Belastingdienst het inkomen van cliënt te hoog heeft vastgesteld, zonder daarbij rekening te houden met buitengewone zorgkosten. De vraag is of het besluit van de Belastingdienst juridisch standhoudt, gelet op de relevante jurisprudentie.\n\n**2. Juridische beoordeling op basis van opgehaalde uitspraken**\n\n**A. Zorgvuldigheid en motivering van besluiten**\n\nUit ECLI:NL:CRVB:2022:638 volgt dat een bestuursorgaan bij het nemen van een besluit alle relevante wettelijke bepalingen en feiten moet betrekken. In deze uitspraak oordeelt de Centrale Raad van Beroep dat een besluit niet in stand kan blijven als het is gebaseerd op een onjuiste wetstoepassing en niet op een deugdelijke onderbouwing:\n\n> “Het bestreden besluit is gebaseerd op het onjuiste standpunt dat artikel 15, eerste lid, van de PW aan de verlening van bijzondere bijstand in de weg stond en dat appellante alleen op grond van de Beleidsregels daarop aanspraak kon maken. Het besluit berust dus niet op een juiste wetstoepassing en daarmee niet op een deugdelijke onderbouwing. Het kan daarom niet in stand blijven.”  \n> *(ECLI:NL:CRVB:2022:638)*\n\n**Toepassing op de casus:**  \nIndien de Belastingdienst bij de vaststelling van het inkomen geen rekening heeft gehouden met relevante kosten, terwijl deze volgens de toepasselijke regelgeving wel van belang kunnen zijn, is sprake van een onjuiste wetstoepassing en een ondeugdelijke onderbouwing van het besluit. Dit volgt uit de lijn van ECLI:NL:CRVB:2022:638, waarin wordt benadrukt dat besluiten zorgvuldig en volledig moeten worden gemotiveerd.\n\n**B. Informatievergaring en vaststelling van het recht**\n\nIn ECLI:NL:RBOVE:2021:3751 overweegt de rechtbank dat een aanvraag ten onrechte is afgewezen als het bestuursorgaan zich onvoldoende inspant om het recht op een voorziening vast te stellen. De rechtbank stelt:\n\n> “Gelet op het oordeel over de aanvraag om bijstand heeft verweerder zich ten onrechte op het standpunt gesteld dat op grond van de artikelen 11 en 17 van de Pw eiser niet heeft voldaan aan zijn informatieplicht en het recht op bijstand niet is vast te stellen en hij daarom niet in aanmerking komt voor bijzondere bijstand als bedoeld in artikel 35 van de Pw. Verweerder heeft de aanvraag naar het oordeel van de rechtbank dan ook ten onrechte afgewezen.”  \n> *(ECLI:NL:RBOVE:2021:3751, r.o. 9)*\n\n**Toepassing op de casus:**  \nAls de cliënt aannemelijk kan maken dat hij buitengewone zorgkosten heeft gehad die het toetsingsinkomen beïnvloeden, had de Belastingdienst deze informatie moeten betrekken bij de beoordeling van de aanvraag. Het nalaten hiervan leidt tot een onzorgvuldig en mogelijk onrechtmatig besluit, conform de lijn in ECLI:NL:RBOVE:2021:3751.\n\n**C. Persoonlijke omstandigheden en spoedeisend belang**\n\nIn ECLI:NL:RBZWB:2024:9 wordt het belang van persoonlijke omstandigheden bij de beoordeling van een aanvraag benadrukt:\n\n> “In de persoonlijke omstandigheden van verzoeker ziet de voorzieningenrechter echter toch aanleiding om een spoedeisend belang aan te nemen. Daarbij is onder andere betrokken dat verzoeker van zijn zorgtoeslag van € 141,-- leeft en schulden heeft gemaakt. ... Ook is van belang dat verzoeker zonder uitkering weinig tot geen kans heeft om een eigen woning te vinden. Hierdoor dreigt verzoeker in een vicieuze cirkel terecht te komen.”  \n> *(ECLI:NL:RBZWB:2024:9)*\n\n**Toepassing op de casus:**  \nHoewel deze uitspraak betrekking heeft op het aannemen van spoedeisend belang, onderstreept zij het belang van het meewegen van persoonlijke omstandigheden, zoals financiële kwetsbaarheid en schulden, bij de beoordeling van aanvragen.\n\n**3. Conclusie en advies**\n\nOp basis van de aangehaalde fragmenten uit de jurisprudentie is het besluit van de Belastingdienst om de aanvraag voor huurtoeslag af te wijzen, zonder relevante kosten en persoonlijke omstandigheden in de beoordeling te betrekken, juridisch kwetsbaar. Zowel ECLI:NL:CRVB:2022:638 als ECLI:NL:RBOVE:2021:3751 benadrukken dat besluiten volledig en zorgvuldig moeten worden gemotiveerd en dat alle relevante feiten en omstandigheden moeten worden betrokken bij de beoordeling.\n\n**Advies:**  \nMaak bezwaar tegen het besluit van de Belastingdienst en verwijs expliciet naar ECLI:NL:CRVB:2022:638 en ECLI:NL:RBOVE:2021:3751. Stel dat het besluit niet berust op een juiste wetstoepassing en onvoldoende is gemotiveerd, omdat relevante kosten en omstandigheden niet zijn meegenomen. Voeg bewijsstukken van de zorgkosten toe en motiveer dat het toetsingsinkomen hierdoor lager uitvalt.\n\n**Vervolgstappen:**  \n- Dien tijdig bezwaar in.\n- Voeg bewijs van buitengewone zorgkosten toe.\n- Verwijs expliciet naar de genoemde ECLI-codes in het bezwaarschrift.\n\n---",
+    "form_data": {
+      "disputedDecision": "Afwijzing aanvraag huurtoeslag",
+      "desiredOutcome": "Toekenning huurtoeslag",
+      "criticalFacts": "Belastingdienst stelt dat cliënt te hoog inkomen had, maar heeft buitengewone zorgkosten niet meegenomen in de berekening.",
+      "applicableLaw": "toeslagenwet",
+      "recipients": "caseworker"
+    },
+    "chunks": [
+      {
+        "id": "d20bbfed-501e-4176-aedf-56e0dfda77ac",
+        "chunk_index": 14,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2022:638",
+        "text": "Het bestreden besluit is gebaseerd op het onjuiste standpunt dat artikel 15, eerste lid, van de PW aan de verlening van bijzondere bijstand in de weg stond en dat appellante alleen op grond van de Beleidsregels daarop aanspraak kon maken. Het besluit berust dus niet op een juiste wetstoepassing en daarmee niet op een deugdelijke onderbouwing. Het kan daarom niet in stand blijven.",
+        "similarity": 0.8605,
+        "metadata": {
+          "date": "2022-04-12",
+          "ecli": "ECLI:NL:CRVB:2022:638",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2022:638 Centrale Raad van Beroep , 12-04-2022 / 21/2587 PW",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 14,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "73937c96-9c19-4cb0-8c84-f9ee4d6ea230",
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBOVE:2021:3751",
+        "text": "Verweerder heeft in het primaire besluit II de aanvraag om bijzondere bijstand afgewezen, omdat niet duidelijk is hoe eiser in zijn levensonderhoud voorziet en verweerder daardoor het recht op bijzondere bijstand niet kon vaststellen.",
+        "similarity": 0.8585,
+        "metadata": {
+          "date": "2021-10-07",
+          "ecli": "ECLI:NL:RBOVE:2021:3751",
+          "court": "Rechtbank Overijssel",
+          "title": "ECLI:NL:RBOVE:2021:3751 Rechtbank Overijssel , 07-10-2021 / ak_21_632",
+          "quarter": 4,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": 0,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "3e819429-265e-4e15-b7b4-05e44169e6be",
+        "chunk_index": 2,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBZWB:2024:9",
+        "text": "6. Ter zitting is gebleken dat verzoeker, ook als hij de huur niet betaalt, niet uit huis gezet zal worden. In de persoonlijke omstandigheden van verzoeker ziet de voorzieningen-rechter echter toch aanleiding om een spoedeisend belang aan te nemen. Daarbij is onder andere betrokken dat verzoeker van zijn zorgtoeslag van € 141,-- leeft en schulden heeft gemaakt. Vanaf het moment dat hij uit detentie kwam, heeft hij de premie voor zijn zorgverzekering niet meer betaald. Aannemelijk is dat verzoeker hierdoor stress ervaart waardoor ook zijn re-integratie nadelig wordt beïnvloed. Ook is van belang dat verzoeker zonder uitkering weinig tot geen kans heeft om een eigen woning te vinden. Hierdoor dreigt verzoeker in een vicieuze cirkel terecht te komen. Onder deze omstandigheden is er voldoende aanleiding om een spoedeisend belang aan te nemen.",
+        "similarity": 0.8582,
+        "metadata": {
+          "date": "2024-01-02",
+          "ecli": "ECLI:NL:RBZWB:2024:9",
+          "court": "Rechtbank Zeeland-West-Brabant",
+          "title": "ECLI:NL:RBZWB:2024:9 Rechtbank Zeeland-West-Brabant , 02-01-2024 / AWB- 23_10958 en 23_10959 VV",
+          "quarter": 1,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#voorlopigeVoorziening",
+          "chunk_index": 2,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "22c7f122-6e67-40c6-856b-0dc89300a059",
+        "chunk_index": 12,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBOVE:2021:3751",
+        "text": "9. Gelet op het oordeel over de aanvraag om bijstand heeft verweerder zich ten onrechte op het standpunt gesteld dat op grond van de artikelen 11 en 17 van de Pw eiser niet heeft voldaan aan zijn informatieplicht en het recht op bijstand niet is vast te stellen en hij daarom niet in aanmerking komt voor bijzondere bijstand als bedoeld in artikel 35 van de Pw. Verweerder heeft de aanvraag naar het oordeel van de rechtbank dan ook ten onrechte afgewezen.",
+        "similarity": 0.8563,
+        "metadata": {
+          "date": "2021-10-07",
+          "ecli": "ECLI:NL:RBOVE:2021:3751",
+          "court": "Rechtbank Overijssel",
+          "title": "ECLI:NL:RBOVE:2021:3751 Rechtbank Overijssel , 07-10-2021 / ak_21_632",
+          "quarter": 4,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": 12,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "7cf1fe72-600e-4b8b-9922-9d8a0b90d7f2",
+        "chunk_index": -1,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBOVE:2021:3708",
+        "text": "Weigering dubbele kinderbijslag voor een thuiswonend kind dat intensieve zorg nodig heeft; geen score als oorzaak van verzwaring van de zorg voortvloeit uit een beperking van eiseres om zorg te verlenen; beroep ongegrond.",
+        "similarity": 0.8518,
+        "metadata": {
+          "date": "2021-10-04",
+          "ecli": "ECLI:NL:RBOVE:2021:3708",
+          "court": "Rechtbank Overijssel",
+          "title": "ECLI:NL:RBOVE:2021:3708 Rechtbank Overijssel , 04-10-2021 / AWB_20 _1765",
+          "quarter": 4,
+          "section": "ABSTRACT",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": -1,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "330defcb-e2eb-4a77-8ab8-b7bd792bc6a5",
+        "chunk_index": 20,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2020:838",
+        "text": "Gelet op het samenstel van deze beschikbaar gekomen gegevens kan het Uwv niet worden gevolgd in zijn standpunt dat noch uit informatie van de huisarts, noch in bezwaar nieuwe medische feiten of omstandigheden naar voren zijn gebracht die leiden tot de conclusie dat appellante vanaf 7 juli 2014 doorlopend arbeidsongeschikt was en dat appellante arbeidsgeschikt was voor haar laatst verrichte arbeid vanaf 28 juli 2014. Het Uwv heeft het verzoek van appellante ten onrechte afgedaan onder (analoge) toepassing van artikel 4:6 van de Awb wegens het ontbreken van nieuwe feiten en omstandigheden. Gelet op de thans voorhanden zijnde gegevens moet het ervoor worden gehouden dat appellante op en na 28 juli 2014 niet arbeidsgeschikt was voor de maatgevende arbeid van interieurverzorgster voor 15,23 uur per week.",
+        "similarity": 0.8504,
+        "metadata": {
+          "date": "2020-04-01",
+          "ecli": "ECLI:NL:CRVB:2020:838",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2020:838 Centrale Raad van Beroep , 01-04-2020 / 17/2249 ZW",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 20,
+          "sub_chunk_index": 0
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "test-case-4",
+    "created_at": "2025-05-26T07:12:29.256490",
+    "refined_at": "2025-05-30T11:43:12.343993+00:00",
+    "temperature": 0.05,
+    "model": "claude-4-sonnet",
+    "memo": "**Juridisch Memorandum: Beëindiging WIA-uitkering wegens minder dan 35% arbeidsongeschiktheid**\n\n---\n\n### 1. Vraagstelling\n\nDe vraag is of de beëindiging van de WIA-uitkering door het UWV, op grond van een arbeidsongeschiktheidspercentage van minder dan 35%, stand kan houden in het licht van de relevante jurisprudentie.\n\n---\n\n### 2. Jurisprudentieanalyse\n\n#### a. Beëindiging WIA-uitkering bij minder dan 35% arbeidsongeschiktheid\n\nUit de opgehaalde uitspraken blijkt dat het UWV bevoegd is een WIA-uitkering te beëindigen indien de mate van arbeidsongeschiktheid op minder dan 35% wordt vastgesteld. Dit volgt onder meer uit de volgende uitspraken:\n\n- **ECLI:NL:CRVB:2020:844**: Het UWV beëindigde de WIA-uitkering omdat appellante minder dan 35% arbeidsongeschikt werd geacht. Het bezwaar werd ongegrond verklaard, waarbij aan het besluit een rapport van de verzekeringsarts bezwaar en beroep en de arbeidsdeskundige bezwaar en beroep ten grondslag lag.\n\n- **ECLI:NL:CRVB:2020:24**: Ook hier werd de WIA-uitkering beëindigd omdat appellante minder dan 35% arbeidsongeschikt was. De arbeidsdeskundige berekende het arbeidsongeschiktheidspercentage op 7,02%. Het bezwaar werd ongegrond verklaard op basis van rapporten van de verzekeringsarts bezwaar en beroep en de arbeidsdeskundige bezwaar en beroep.\n\n- **ECLI:NL:CRVB:2024:5**: De beëindiging van de WIA-uitkering werd bevestigd omdat appellante niet meer (medische) beperkingen had dan het UWV had aangenomen en zij de door de arbeidsdeskundige geselecteerde functies kon vervullen.\n\n- **ECLI:NL:RBOVE:2024:3521**: De rechtbank oordeelde dat uit de medische informatie in het dossier niet bleek dat de verzekeringsartsen een onjuist beeld hadden van eisers medische situatie of een verkeerde inschatting hadden gemaakt van de belastbaarheid. De berekening van het arbeidsongeschiktheidspercentage werd correct bevonden en het beroep werd ongegrond verklaard.\n\n#### b. Zorgvuldigheid van de medische beoordeling\n\nUit de fragmenten blijkt dat de rechterlijke toetsing zich richt op de vraag of het UWV een zorgvuldig en volledig medisch onderzoek heeft verricht:\n\n- In **ECLI:NL:RBOVE:2024:3521** wordt expliciet overwogen dat de rechtbank geen aanwijzingen vond dat de verzekeringsartsen een onjuist beeld hadden van de medische situatie of een verkeerde inschatting van de belastbaarheid hadden gemaakt.\n\n- In **ECLI:NL:CRVB:2024:5** wordt benadrukt dat appellante niet meer beperkingen had dan het UWV had aangenomen en dat zij de geselecteerde functies kon vervullen.\n\n#### c. Voortzetting WIA-uitkering bij arbeidsongeschiktheid van ten minste 35%\n\n- **ECLI:NL:CRVB:2020:2345**: In deze zaak werd het bezwaar van appellante gegrond verklaard. De verzekeringsarts bezwaar en beroep zag geen aanleiding voor forsere beperkingen, maar de arbeidsdeskundige bezwaar en beroep stelde de mate van arbeidsongeschiktheid op 37,09%. Omdat appellante voor ten minste 35% arbeidsongeschikt werd geacht, werd de WIA-uitkering ongewijzigd voortgezet.\n\n---\n\n### 3. Conclusie\n\nOp basis van de aangehaalde uitspraken geldt het volgende:\n\n- Het UWV mag de WIA-uitkering beëindigen indien de mate van arbeidsongeschiktheid op minder dan 35% wordt vastgesteld, mits deze beoordeling zorgvuldig en op basis van een volledig en actueel medisch dossier plaatsvindt (**ECLI:NL:CRVB:2020:844; ECLI:NL:CRVB:2020:24; ECLI:NL:CRVB:2024:5; ECLI:NL:RBOVE:2024:3521**).\n- De rechter toetst of het UWV een juist en volledig beeld had van de medische situatie en of de berekening van het arbeidsongeschiktheidspercentage correct is uitgevoerd (**ECLI:NL:RBOVE:2024:3521; ECLI:NL:CRVB:2024:5**).\n- Indien uit de medische beoordeling blijkt dat sprake is van ten minste 35% arbeidsongeschiktheid, wordt de WIA-uitkering voortgezet (**ECLI:NL:CRVB:2020:2345**).\n\n---\n\n### 4. Samenvatting\n\nDe beëindiging van de WIA-uitkering wegens minder dan 35% arbeidsongeschiktheid wordt in de jurisprudentie bevestigd, mits het UWV een zorgvuldig en volledig medisch onderzoek heeft verricht en de berekening van het arbeidsongeschiktheidspercentage correct is. Indien uit het dossier niet blijkt van een onjuist medisch beeld of een verkeerde inschatting van de belastbaarheid, wordt het beroep doorgaans ongegrond verklaard (**ECLI:NL:RBOVE:2024:3521; ECLI:NL:CRVB:2024:5**). Alleen als uit de medische beoordeling blijkt dat de arbeidsongeschiktheid ten minste 35% bedraagt, wordt de uitkering voortgezet (**ECLI:NL:CRVB:2020:2345**).\n\n---\n\n**Let op:** In de opgehaalde fragmenten wordt niet gesproken over de situatie waarin een onafhankelijk arts tot een ander oordeel komt dan het UWV. De memo bevat daarom geen uitspraken over de waarde van onafhankelijk medisch tegenbewijs, omdat dit niet uit de geselecteerde jurisprudentie volgt.",
+    "form_data": {
+      "disputedDecision": "Beëindiging van de WIA-uitkering door het UWV wegens vermeende herstel",
+      "desiredOutcome": "Voortzetting van de WIA-uitkering",
+      "criticalFacts": "Cliënt is door een onafhankelijke arts nog volledig arbeidsongeschikt bevonden. UWV heeft slechts éénzijdig medisch dossier gebruikt.",
+      "applicableLaw": "wia",
+      "recipients": "lawyer"
+    },
+    "chunks": [
+      {
+        "id": "da80105d-9fb2-4426-b302-cb17cbad1e6c",
+        "chunk_index": 3,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2020:844",
+        "text": "Het Uwv heeft bij besluit van 12 juni 2017 de WIA-uitkering van appellante met ingang van 13 augustus 2017 beëindigd, omdat zij minder dan 35% arbeidsongeschikt is. Het bezwaar van appellante tegen dit besluit heeft het Uwv bij besluit van 14 september 2017 (bestreden besluit) ongegrond verklaard. Aan het bestreden besluit ligt een rapport van",
+        "similarity": 0.8968,
+        "metadata": {
+          "date": "2020-04-01",
+          "ecli": "ECLI:NL:CRVB:2020:844",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2020:844 Centrale Raad van Beroep , 01-04-2020 / 18/2985 WIA",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 3,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "c81a7bae-2f67-4dc9-abd0-1502fa29f323",
+        "chunk_index": -1,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBOVE:2024:3521",
+        "text": "Beëindiging WIA-uitkering. Uit de medische informatie die in het dossier zit blijkt de rechtbank niet van aanwijzingen dat de verzekeringsartsen een onjuist beeld hadden van eisers medische situatie of een verkeerde inschatting hebben gemaakt van de belastbaarheid van eiser op de datum in geding. Berekening arbeidsongeschiktheidspercentage is correct. Beroep ongegrond.",
+        "similarity": 0.8954,
+        "metadata": {
+          "date": "2024-07-03",
+          "ecli": "ECLI:NL:RBOVE:2024:3521",
+          "court": "Rechtbank Overijssel",
+          "title": "ECLI:NL:RBOVE:2024:3521 Rechtbank Overijssel , 03-07-2024 / ak_23_2299",
+          "quarter": 3,
+          "section": "ABSTRACT",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": -1,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "b81068da-3597-45dd-b3b6-7fac93838794",
+        "chunk_index": 2,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2020:24",
+        "text": "2 november 2016. Een arbeidsdeskundige heeft vervolgens functies geselecteerd en op basis van drie functies met de hoogste lonen een mate van arbeidsongeschiktheid berekend van 7,02%. Het Uwv heeft bij besluit van 25 november 2016 de WIA-uitkering van appellante met ingang van 26 januari 2017 beëindigd, omdat zij met ingang van 23 november 2016 minder dan 35% arbeidsongeschikt is. Het bezwaar van appellante tegen dit besluit heeft het Uwv bij besluit van 9 juni 2017 (bestreden besluit) ongegrond verklaard. Aan het bestreden besluit liggen rapporten van 28 april 2017 van een verzekeringsarts bezwaar en beroep en van 9 juni 2017 van een arbeidsdeskundige bezwaar en beroep ten grondslag.",
+        "similarity": 0.8922,
+        "metadata": {
+          "date": "2020-01-08",
+          "ecli": "ECLI:NL:CRVB:2020:24",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2020:24 Centrale Raad van Beroep , 08-01-2020 / 18/594 WIA",
+          "quarter": 1,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 2,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "ab972503-b966-4fe5-ab75-19939288af61",
+        "chunk_index": 2,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2020:2345",
+        "text": "Het bezwaar van appellante tegen dit besluit heeft het Uwv bij besluit van 8 mei 2017 (bestreden besluit) gegrond verklaard. Aan het bestreden besluit ligt een rapport van een verzekeringsarts bezwaar en beroep ten grondslag, die geen aanleiding heeft gezien om forsere beperkingen aan te nemen. De arbeidsdeskundige bezwaar en beroep heeft nieuwe functies geselecteerd en de mate van arbeidsongeschiktheid op 37,09% vastgesteld. Omdat appellante voor ten minste 35% arbeidsongeschikt wordt geacht, betekent dit dat haar WIA-uitkering ongewijzigd wordt voortgezet.",
+        "similarity": 0.8921,
+        "metadata": {
+          "date": "2020-10-02",
+          "ecli": "ECLI:NL:CRVB:2020:2345",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2020:2345 Centrale Raad van Beroep , 02-10-2020 / 18/980 WIA",
+          "quarter": 4,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 2,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "970b9b1a-5909-478d-9c6e-e83f1102bb1d",
+        "chunk_index": -1,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2024:5",
+        "text": "Beëindiging WIA-uitkering omdat appellante minder dan 35% arbeidsongeschikt is. Appellante heeft niet meer (medische) beperkingen dan het Uwv heeft aangenomen. Zij kan de door de arbeidsdeskundige geselecteerde functies vervullen.",
+        "similarity": 0.8905,
+        "metadata": {
+          "date": "2024-01-04",
+          "ecli": "ECLI:NL:CRVB:2024:5",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2024:5 Centrale Raad van Beroep , 04-01-2024 / 22/3905 WIA",
+          "quarter": 1,
+          "section": "ABSTRACT",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": -1,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "11acf82c-2d80-4fb0-8432-37f1fe33a6d7",
+        "chunk_index": 6,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2021:761",
+        "text": "De rechtbank heeft geoordeeld dat het Uwv op goede gronden heeft geconcludeerd dat geen sprake is van (toegenomen) arbeidsongeschiktheid bij appellant binnen een periode van vier weken na de beëindiging van de ZW-uitkering. De rechtbank heeft geen aanknopingspunten gezien om het standpunt van de verzekeringsarts bezwaar en beroep in zijn rapporten van 12 oktober 2018 en 16 mei 2019 voor onjuist te houden. Dit betekent dat appellant de wachttijd, als bedoeld in artikel 23 van de Wet WIA, niet heeft volgemaakt. Gelet hierop heeft het Uwv zich naar het oordeel van de rechtbank terecht op het standpunt gesteld dat appellant geen recht heeft op een WIA-uitkering. Ten slotte heeft de rechtbank geoordeeld dat het Uwv terecht een hoorzitting achterwege heeft gelaten.",
+        "similarity": 0.8901,
+        "metadata": {
+          "date": "2021-04-06",
+          "ecli": "ECLI:NL:CRVB:2021:761",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2021:761 Centrale Raad van Beroep , 06-04-2021 / 18/1476 ZW",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 6,
+          "sub_chunk_index": 0
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "test-case-5",
+    "created_at": "2025-05-26T07:14:01.758294",
+    "refined_at": "2025-05-30T11:44:05.182173+00:00",
+    "temperature": 0.05,
+    "model": "claude-4-sonnet",
+    "memo": "**Herziene Juridische Memo: Beoordeling AOW-verzekeringsjaren bij verblijf in het buitenland**\n\n---\n\n### 1. Vraagstelling\n\nDe cliënt vraagt of de SVB terecht bepaalde buitenlandperiodes niet heeft meegeteld voor de opbouw van het AOW-pensioen. De cliënt stelt dat hij in deze periodes verzekerd was voor de AOW, omdat hij vanuit Nederland was gedetacheerd en over deze perioden premies heeft betaald.\n\n---\n\n### 2. Juridisch Kader op basis van de opgehaalde uitspraken\n\n#### a. Verzekeringsplicht en ingezetenschap\n\nUit **ECLI:NL:CRVB:2021:744** volgt dat voor AOW-verzekering het criterium van ingezetenschap of rechtmatig verblijf in Nederland doorslaggevend is. In die zaak werd geoordeeld dat de betrokkene in de relevante periode niet verzekerd was voor de AOW, omdat zij geen duurzame persoonlijke band met Nederland had en niet rechtmatig in Nederland verbleef:\n\n> “De Svb heeft het bezwaar van appellante tegen het besluit van 30 augustus 2018 ongegrond verklaard. Daartoe is overwogen dat appellante in de periode tussen 15 maart 1998 en 1 juli 1998 niet verzekerd is geweest voor de AOW omdat zij toen nog geen duurzame persoonlijke band met Nederland had en dus geen ingezetene was van Nederland. Op 1 juli 1998 is de Koppelingswet in werking getreden en was appellante niet verzekerd omdat zij niet rechtmatig in Nederland verbleef.”  \n> (ECLI:NL:CRVB:2021:744)\n\nDe rechtbank overwoog daarbij dat het ontbreken van een duurzame persoonlijke band en het niet rechtmatig verblijf doorslaggevend waren voor het niet-verzekerd zijn:\n\n> “De rechtbank heeft overwogen dat de Svb terecht heeft besloten dat appellante nooit voor de AOW verzekerd is geweest. Vanaf 1 juli 1998 was appellante niet verzekerd omdat zij niet rechtmatig in Nederland verbleef. In de periode tussen 15 maart 1998 en 1 juli 1998 was appellante nog geen ingezetene van Nederland.”  \n> (ECLI:NL:CRVB:2021:744)\n\n#### b. Bewijslast\n\nUit **ECLI:NL:CRVB:2021:1602** blijkt dat het aan de aanvrager is om aan te tonen dat hij verzekerd was in de relevante periode. In die zaak werd een aanvraag afgewezen omdat er geen bewijs was van werkzaamheden in Nederland:\n\n> “Op 17 augustus 2009 heeft appellant een ouderdomspensioen op grond van de Algemene Ouderdomswet (AOW) aangevraagd. Daarbij heeft appellant meegedeeld dat hij in de periode van 1966 tot halverwege 1968 in Nederland heeft gewerkt als zeeman. Bij besluit van 18 januari 2010 is de aanvraag afgewezen, omdat er geen gegevens zijn die aantonen dat appellant in Nederland heeft gewerkt. Appellant heeft geen bezwaar gemaakt tegen dit besluit.”  \n> (ECLI:NL:CRVB:2021:1602)\n\n---\n\n### 3. Toepassing op de casus\n\nOp basis van de bovenstaande uitspraken geldt het volgende:\n\n- De SVB mag een periode alleen als verzekerd aanmerken als sprake is van ingezetenschap of rechtmatig verblijf in Nederland (**ECLI:NL:CRVB:2021:744**).\n- Het is aan de aanvrager om met bewijsstukken aan te tonen dat hij in de relevante periode verzekerd was, bijvoorbeeld door het overleggen van bewijs van werkzaamheden of premiebetaling (**ECLI:NL:CRVB:2021:1602**).\n\nIn de opgehaalde fragmenten wordt niet expliciet ingegaan op de situatie van detachering of de gevolgen daarvan voor de verzekeringsplicht. Er is ook geen fragment waarin wordt bevestigd dat premiebetaling of detachering zonder meer leidt tot verzekeringsplicht. De uitspraken gaan uitsluitend over ingezetenschap, rechtmatig verblijf en de bewijslast van werkzaamheden in Nederland.\n\n---\n\n### 4. Conclusie\n\nOp grond van de opgehaalde uitspraken geldt dat de SVB buitenlandperiodes alleen mag uitsluiten als verzekerde jaren voor de AOW indien niet is aangetoond dat sprake was van ingezetenschap of rechtmatig verblijf in Nederland (**ECLI:NL:CRVB:2021:744**). De bewijslast rust op de aanvrager; deze moet aantonen dat hij in de relevante periode verzekerd was, bijvoorbeeld door bewijs van werkzaamheden of premiebetaling te overleggen (**ECLI:NL:CRVB:2021:1602**). De uitspraken geven geen uitsluitsel over de specifieke situatie van detachering.\n\n---\n\n### 5. Advies en vervolgstappen\n\n- Verzamel en overhandig bewijsstukken waaruit blijkt dat u in de relevante periode ingezetene was of rechtmatig in Nederland verbleef, dan wel in Nederland werkzaamheden heeft verricht.\n- Dien deze bewijsstukken in bij de SVB ter onderbouwing van uw bezwaar.\n- Indien de SVB het bezwaar afwijst, kan beroep bij de rechtbank worden overwogen.\n\n---\n\n**Let op:**  \nDeze memo is uitsluitend gebaseerd op de fragmenten uit **ECLI:NL:CRVB:2021:744** en **ECLI:NL:CRVB:2021:1602**. Er zijn geen uitspraken opgehaald die direct ingaan op de verzekeringsplicht bij detachering of de gevolgen van premiebetaling tijdens verblijf in het buitenland. Verdere onderbouwing over detachering is op basis van deze fragmenten niet mogelijk.",
+    "form_data": {
+      "disputedDecision": "Afwijzing AOW-aanvraag wegens onvoldoende opbouwjaren",
+      "desiredOutcome": "Toekenning volledige AOW",
+      "criticalFacts": "SVB heeft buitenlandperiodes niet meegeteld, terwijl cliënt in die periode wel in Nederland verzekerd was via detachering en premies heeft betaald.",
+      "applicableLaw": "aow",
+      "recipients": "client"
+    },
+    "chunks": [
+      {
+        "id": "5d25b3ce-0b6e-43c8-869d-ea3b171bcf75",
+        "chunk_index": 2,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2021:744",
+        "text": "Bij besluit van 31 januari 2019 (bestreden besluit) heeft de Svb het bezwaar van appellante tegen het besluit van 30 augustus 2018 ongegrond verklaard. Daartoe is overwogen dat appellante in de periode tussen 15 maart 1998 en 1 juli 1998 niet verzekerd is geweest voor de AOW omdat zij toen nog geen duurzame persoonlijke band met Nederland had en dus geen ingezetene was van Nederland. Op 1 juli 1998 is de Koppelingswet in werking getreden en was appellante niet verzekerd omdat zij niet rechtmatig in Nederland verbleef.",
+        "similarity": 0.8652,
+        "metadata": {
+          "date": "2021-04-01",
+          "ecli": "ECLI:NL:CRVB:2021:744",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2021:744 Centrale Raad van Beroep , 01-04-2021 / 19/4792 AOW",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 2,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "1c948c03-24d7-4d03-a148-7533bda5e413",
+        "chunk_index": 3,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2021:744",
+        "text": "2. Bij de aangevallen uitspraak heeft de rechtbank het beroep tegen het bestreden besluit ongegrond verklaard. De rechtbank heeft overwogen dat de Svb terecht heeft besloten dat appellante nooit voor de AOW verzekerd is geweest. Vanaf 1 juli 1998 was appellante niet verzekerd omdat zij niet rechtmatig in Nederland verbleef. In de periode tussen 15 maart 1998 en 1 juli 1998 was appellante nog geen ingezetene van Nederland. Hierbij heeft de rechtbank meegewogen dat niet is gebleken dat appellante toen zij naar Nederland kwam al meteen de bedoeling had hier te blijven. Zij kwam voor een operatie naar Nederland. Daarna hield zij gezondheidsklachten en had zij de zorg van haar kinderen nodig. De pas ter zitting naar voren gebrachte omstandigheden dat zij schoolgaande kinderen had, dat al haar zeven kinderen in Nederland woonden, zij gescheiden was van haar echtgenoot in Marokko en er geen reden was om naar Marokko terug te gaan, zijn volgens de rechtbank niet bij de aanvraag vermeld en niet met stukken onderbouwd. Volgens de rechtbank heeft de Svb hiermee terecht geen rekening kunnen en hoeven houden.",
+        "similarity": 0.8643,
+        "metadata": {
+          "date": "2021-04-01",
+          "ecli": "ECLI:NL:CRVB:2021:744",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2021:744 Centrale Raad van Beroep , 01-04-2021 / 19/4792 AOW",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 3,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "140e92d1-7a15-417e-9e33-2c43d14aa767",
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2021:1602",
+        "text": "Appellant is geboren op [geboortedag] 1943 en heeft de Spaanse nationaliteit. Op 17 augustus 2009 heeft appellant een ouderdomspensioen op grond van de Algemene Ouderdomswet (AOW) aangevraagd. Daarbij heeft appellant meegedeeld dat hij in de periode van 1966 tot halverwege 1968 in Nederland heeft gewerkt als zeeman. Bij besluit van 18 januari 2010 is de aanvraag afgewezen, omdat er geen gegevens zijn die aantonen dat appellant in Nederland heeft gewerkt. Appellant heeft geen bezwaar gemaakt tegen dit besluit.",
+        "similarity": 0.8612,
+        "metadata": {
+          "date": "2021-07-01",
+          "ecli": "ECLI:NL:CRVB:2021:1602",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2021:1602 Centrale Raad van Beroep , 01-07-2021 / 19/1294 AOW",
+          "quarter": 3,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 0,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "4956de48-6e05-4171-98da-b45936dc5399",
+        "chunk_index": -1,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2021:1603",
+        "text": "Verzoek om terug te komen van de besluiten van 6 juni 2011 en 5 juni 2012 met betrekking tot schuldig nalatig verklaring en korting op AOW-pensioen, ten onrechte afgewezen. De enige conclusie kan dan ook zijn dat de kwijtschelding een relevant nieuw feit is, waarin de Svb aanleiding had moeten zien het besluit van 6 juni 2011 in te trekken. Het bestreden besluit kan evenmin in stand blijven voor zover daarin het verzoek om terug te komen van het besluit van 5 juni 2012, waarin het ouderdomspensioen is toegekend met een korting van 2% vanwege de schuldig nalatig verklaring, is afgewezen.",
+        "similarity": 0.8597,
+        "metadata": {
+          "date": "2021-07-01",
+          "ecli": "ECLI:NL:CRVB:2021:1603",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2021:1603 Centrale Raad van Beroep , 01-07-2021 / 20/2796 AOW",
+          "quarter": 3,
+          "section": "ABSTRACT",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": -1,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "86e74efd-82fa-42fe-9424-100c41a9bc13",
+        "chunk_index": 1,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBAMS:2023:4195",
+        "text": "3. Op 10 mei 2021 heeft de Svb een verzoek van [eiseres] ontvangen om een Anw-uitkering toe te kennen. De Svb heeft dit verzoek opgevat als een verzoek om herziening van het besluit van 7 mei 2019. [eiseres] voert aan dat haar man verzekerd in Nederland heeft gewerkt en is overleden. Als eerste echtgenote van haar overleden man zou [eiseres] graag haar pensioen ontvangen. Zij heeft geen enkele bron van inkomsten, is ernstig ziek en niet in staat enige activiteit uit te voeren, aldus [eiseres] .",
+        "similarity": 0.8578,
+        "metadata": {
+          "date": "2023-07-05",
+          "ecli": "ECLI:NL:RBAMS:2023:4195",
+          "court": "Rechtbank Amsterdam",
+          "title": "ECLI:NL:RBAMS:2023:4195 Rechtbank Amsterdam , 05-07-2023 / AMS 22/4091",
+          "quarter": 3,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": 1,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "836a3b4c-3397-43ec-bb58-a9cf8bde88bd",
+        "chunk_index": 6,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2021:1603",
+        "text": "In de aangevallen tussenuitspraak 2 heeft de rechtbank geoordeeld dat de Svb het geconstateerde gebrek niet heeft hersteld. Door de kwijtschelding van de Belastingdienst is niet langer sprake van onbetaalde premies. Aangenomen moet worden dat betrokkene door die kwijtschelding heeft aangetoond dat er omstandigheden zijn op grond waarvan het nietbetalen van de AOW-premie over 2005 hem niet kan worden toegerekend. De kwijtschelding is een nieuw feit als bedoeld in artikel 4:6 van de Algemene wet bestuursrecht (Awb). De Svb dient te beoordelen of dit reden geeft om over te gaan tot herziening van het besluit van 6 juni 2011 en de korting op het ouderdomspensioen. Het bestreden besluit bevat daarom nog steeds een motiveringsgebrek. De rechtbank heeft de Svb opnieuw in de gelegenheid gesteld het gebrek aan het bestreden besluit te herstellen.",
+        "similarity": 0.8574,
+        "metadata": {
+          "date": "2021-07-01",
+          "ecli": "ECLI:NL:CRVB:2021:1603",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2021:1603 Centrale Raad van Beroep , 01-07-2021 / 20/2796 AOW",
+          "quarter": 3,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 6,
+          "sub_chunk_index": 0
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "test-case-6",
+    "created_at": "2025-05-26T07:16:06.174486",
+    "refined_at": "2025-05-30T11:45:03.521229+00:00",
+    "temperature": 0.05,
+    "model": "claude-4-sonnet",
+    "memo": "**Herziene Juridische Memo: Beoordeling verlaging Wajong-uitkering bij werken in beschutte omgeving**\n\n---\n\n### 1. Vraagstelling\n\nDe vraag is of het UWV de Wajong-uitkering van cliënt terecht heeft verlaagd wegens aangenomen arbeidsvermogen, terwijl cliënt uitsluitend in een beschutte werkomgeving en met structurele begeleiding kan werken.\n\n---\n\n### 2. Jurisprudentie op basis van opgehaalde fragmenten\n\n#### a. Criteria voor arbeidsvermogen\n\nUit de uitspraken van de Centrale Raad van Beroep blijkt dat het UWV bij de beoordeling van arbeidsvermogen moet vaststellen of betrokkene beschikt over basale werknemersvaardigheden en in staat is om een taak in een arbeidsorganisatie te verrichten. Dit volgt onder meer uit:\n\n- **ECLI:NL:CRVB:2021:1581**: De verzekeringsartsen werden gevolgd in hun standpunt dat appellante benutbare mogelijkheden heeft, ten minste vier uur per dag belastbaar is en een uur aaneengesloten kan werken. De arbeidsdeskundige motiveerde dat appellante basale werknemersvaardigheden heeft en een taak kan verrichten in een arbeidsorganisatie. De verlaging van de uitkering naar 70% van het minimumloon werd daarmee gerechtvaardigd.\n- **ECLI:NL:CRVB:2021:2427**: Het UWV motiveerde toereikend dat appellante over basale werknemersvaardigheden beschikt en in staat is de taak ‘scannen’ in een arbeidsorganisatie te verrichten. De rechtbank achtte het medisch en arbeidskundig onderzoek zorgvuldig en volledig.\n\n#### b. Motiveringsvereiste en passendheid van de taak\n\nDe Centrale Raad van Beroep stelt eisen aan de motivering van het UWV bij het aannemen van arbeidsvermogen:\n\n- **ECLI:NL:CRVB:2021:1585**: Het UWV moet concreet motiveren dat de betrokkene, gelet op diens beperkingen, aan de taakspecifieke eisen kan voldoen. Het enkele feit dat iemand in het dagelijks leven bepaalde taken kan uitvoeren, is onvoldoende om arbeidsvermogen aan te nemen als niet is onderbouwd dat de taak in een arbeidsorganisatie ook daadwerkelijk passend is gelet op de beperkingen. In deze zaak werd geoordeeld dat het UWV onvoldoende had gemotiveerd dat appellante met haar zichtbeperking de taak handmatig afwassen kon uitvoeren.\n\n#### c. Geen arbeidsvermogen bij ontbreken basale werknemersvaardigheden\n\n- **ECLI:NL:CRVB:2021:2456**: Indien iemand niet over basale werknemersvaardigheden beschikt, wordt geen arbeidsvermogen aangenomen. In deze zaak werd de aanvraag afgewezen omdat appellant nu geen arbeidsvermogen had, hoewel niet was uitgesloten dat deze situatie niet duurzaam was.\n\n---\n\n### 3. Toepassing op de casus\n\nOp basis van bovenstaande uitspraken geldt het volgende:\n\n- Het UWV moet aantonen dat cliënt over basale werknemersvaardigheden beschikt en in staat is een taak in een arbeidsorganisatie te verrichten (**ECLI:NL:CRVB:2021:1581**, **ECLI:NL:CRVB:2021:2427**).\n- Indien cliënt alleen met structurele begeleiding in een beschutte omgeving kan werken, moet het UWV concreet motiveren dat cliënt desondanks aan de taakspecifieke eisen voldoet (**ECLI:NL:CRVB:2021:1585**).\n- Het enkele feit dat cliënt bepaalde taken kan uitvoeren of in een beschutte omgeving werkt, is onvoldoende als niet wordt onderbouwd dat cliënt zelfstandig kan functioneren in een arbeidsorganisatie (**ECLI:NL:CRVB:2021:1585**).\n- Als cliënt niet over basale werknemersvaardigheden beschikt, is er geen arbeidsvermogen (**ECLI:NL:CRVB:2021:2456**).\n\n---\n\n### 4. Conclusie\n\nIndien het UWV niet concreet en toereikend heeft gemotiveerd dat cliënt, ondanks de noodzaak van structurele begeleiding, zelfstandig over arbeidsvermogen beschikt en taken in een arbeidsorganisatie kan verrichten, is het besluit tot verlaging van de Wajong-uitkering onvoldoende onderbouwd (**ECLI:NL:CRVB:2021:1585**). Het enkele feit dat cliënt in een beschutte omgeving werkt, is daarvoor niet voldoende.\n\n---\n\n### 5. Aanbeveling\n\n- Controleer of het UWV in het besluit en de onderliggende rapportages concreet heeft gemotiveerd dat cliënt zelfstandig over arbeidsvermogen beschikt (**ECLI:NL:CRVB:2021:1585**, **ECLI:NL:CRVB:2021:1581**, **ECLI:NL:CRVB:2021:2427**).\n- Indien deze motivering ontbreekt of onvoldoende is, kan bezwaar of beroep worden ingesteld onder verwijzing naar bovengenoemde uitspraken.\n\n---\n\n**Samenvatting:**  \nHet UWV moet zorgvuldig en concreet motiveren dat cliënt zelfstandig over arbeidsvermogen beschikt. Als cliënt alleen met structurele begeleiding in een beschutte omgeving kan werken en het UWV dit niet voldoende onderbouwt, is verlaging van de Wajong-uitkering niet gerechtvaardigd (**ECLI:NL:CRVB:2021:1585**, **ECLI:NL:CRVB:2021:2456**).",
+    "form_data": {
+      "disputedDecision": "Verlaging van Wajong-uitkering wegens verwachte arbeidsmogelijkheden",
+      "desiredOutcome": "Behoud van volledige Wajong-uitkering",
+      "criticalFacts": "Cliënt werkt in een beschutte werkomgeving, maar zonder structurele begeleiding is zelfstandig werken niet mogelijk.",
+      "applicableLaw": "wajong",
+      "recipients": "client"
+    },
+    "chunks": [
+      {
+        "id": "bf009f4d-2d0d-49e4-885d-558b0e162297",
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2022:1516",
+        "text": "Appellante, geboren op [geboortedatum] 1991, heeft met een door het Uwv op 25 mei 2016 ontvangen formulier een aanvraag ingediend om uitkering op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten (Wajong). Naar aanleiding van deze aanvraag heeft het Uwv een verzekeringsgeneeskundig onderzoek verricht. Bij het medisch onderzoek is meegewogen dat bij appellante sprake is van een zeer licht verstandelijke beperking en trekken van een borderline persoonlijkheidsstoornis met heftige stemmingswisselingen. De verzekeringsarts heeft geconcludeerd dat bij appellante op haar achttiende verjaardag sprake is van beperkingen in de belastbaarheid en dat appellante met deze beperkingen over arbeidsvermogen beschikte op haar achttiende verjaardag en ook in de periode van vijf jaren daarna. Bij besluit van 4 juli 2016 heeft het Uwv de aanvraag afgewezen omdat appellante arbeidsvermogen heeft. Dit besluit is in rechte onaantastbaar geworden.",
+        "similarity": 0.868,
+        "metadata": {
+          "date": "2022-07-06",
+          "ecli": "ECLI:NL:CRVB:2022:1516",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2022:1516 Centrale Raad van Beroep , 06-07-2022 / 20/3398 WAJONG",
+          "quarter": 3,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 0,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "c5f8d68a-a7f7-4fd0-9a24-8acbfe064d4a",
+        "chunk_index": 5,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2021:1581",
+        "text": "De rechtbank heeft de rechtsgevolgen van het bestreden besluit in stand gelaten en daarbij overwogen dat het medisch onderzoek voldoende zorgvuldig is. De verzekeringsartsen worden gevolgd in hun standpunt dat appellante benutbare mogelijkheden heeft, zij ten minste vier uur per dag belastbaar is en dat zij een uur aaneengesloten kan werken. Verder heeft de arbeidsdeskundige afdoende gemotiveerd dat appellante basale werknemersvaardigheden heeft en een taak kan verrichten in een arbeidsorganisatie. Naar het oordeel van de rechtbank heeft het Uwv zich terecht op het standpunt gesteld dat appellante over arbeidsvermogen beschikt, zodat de Wajong-uitkering van appellante met ingang van 1 januari 2018 terecht is verlaagd naar 70% van het minimumloon.",
+        "similarity": 0.8667,
+        "metadata": {
+          "date": "2021-07-01",
+          "ecli": "ECLI:NL:CRVB:2021:1581",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2021:1581 Centrale Raad van Beroep , 01-07-2021 / 18/3824 WAJONG",
+          "quarter": 3,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 5,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "54c387c1-53ad-4f12-872e-60dca87a7e49",
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2021:2456",
+        "text": "Appellant, geboren op [geboortedag] 2000, heeft met een door het Uwv op 28 september 2017 ontvangen formulier een aanvraag ingediend om uitkering op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten (Wajong). Daarbij is vermeld dat hij belemmeringen ervaart door een ASS, ADD, een licht verstandelijke beperking met een disharmonisch profiel en gedragsstoornissen. Bij de aanvraag is informatie gevoegd van onder andere onderwijsinstellingen en de behandelend sector. Het Uwv heeft vervolgens een verzekeringsgeneeskundig en arbeidskundig onderzoek verricht. De uitkomst van dit onderzoek is dat appellant nu niet over basale werknemersvaardigheden beschikt, maar niet is uitgesloten dat hij deze vaardigheden nog kan ontwikkelen. Bij besluit van 30 november 2017 heeft het Uwv de aanvraag afgewezen omdat appellant nu geen arbeidsvermogen heeft, maar deze situatie niet duurzaam is.",
+        "similarity": 0.8663,
+        "metadata": {
+          "date": "2021-10-06",
+          "ecli": "ECLI:NL:CRVB:2021:2456",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2021:2456 Centrale Raad van Beroep , 06-10-2021 / 19/2848 WAJONG",
+          "quarter": 4,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 0,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "b9ce3eec-4070-42a6-a0e8-61cd1165eb85",
+        "chunk_index": -1,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2021:1585",
+        "text": "Tussenuitspraak. Wajong-uitkering verlaagd van 75% naar 70% van het minimumloon. Arbeidsvermogen? Onvoldoende arbeidskundige grondslag. Het Uwv heeft onvoldoende gemotiveerd dat appellante met haar zichtbeperking aan de taakspecifieke eisen kan voldoen en de taak handmatig afwassen kan uitvoeren. De verzekeringsarts heeft vastgesteld dat appellante door haar zichtbeperking slechts grotere voorwerpen die sterk contrasteren (bijvoorbeeld door middel van kleur) kan onderscheiden. Volgens de verzekeringsarts kunnen kleinere details worden onderscheiden als appellante het voorwerp op een afstand van vijf tot tien centimeter voor haar ogen brengt. De omstandigheid dat appellante in staat is haar eigen huishouden bij te houden, huisdieren te verzorgen en zelfstandig boodschappen te doen, is onvoldoende om te oordelen dat appellante de taak kan uitvoeren. Het Uwv heeft bij de beoordeling of de taak passend is aansluiting mogen zoeken bij de activiteiten in het dagelijks leven van appellante. Met de (sterke) zichtbeperking van appellante, afgezet tegen de taakspecifieke eisen levert dat in dit geval echter onvoldoende onderbouwing van de passendheid van de taak op. De Raad draagt het Uwv op om binnen zes weken het gebrek in het bestreden besluit te herstellen.",
+        "similarity": 0.8626,
+        "metadata": {
+          "date": "2021-07-01",
+          "ecli": "ECLI:NL:CRVB:2021:1585",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2021:1585 Centrale Raad van Beroep , 01-07-2021 / 19/4325 WAJONG-T",
+          "quarter": 3,
+          "section": "ABSTRACT",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": -1,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "a144750a-5eb5-476d-aa56-8072873dd8d7",
+        "chunk_index": 1,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2021:1585",
+        "text": "Met ingang van 1 januari 2015 is de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten (Wajong 2015) in werking getreden. Bij brief van 13 december 2016 heeft het Uwv aan appellante laten weten dat een herbeoordeling van haar uitkering zal plaatsvinden en appellante verzocht de meegestuurde vragenlijst ingevuld te retourneren. Op deze vragenlijst heeft appellante vermeld dat zij naast haar beperkte visus (een zichtvermogen van 5% en nystagmus) ook last heeft van osteoporose (slechte rug) en een angststoornis. Na arbeidskundig onderzoek, waarbij overleg met een verzekeringsarts heeft plaatsgevonden, heeft de arbeidsdeskundige geconcludeerd dat appellante de taak handmatig afwassen (0303) kan uitvoeren. Bij besluit van 7 februari 2017 heeft het Uwv vastgesteld dat appellante arbeidsvermogen heeft, als gevolg waarvan de Wajonguitkering met ingang van 1 januari 2018 wordt verlaagd van 75% naar 70% van het minimumloon.",
+        "similarity": 0.8614,
+        "metadata": {
+          "date": "2021-07-01",
+          "ecli": "ECLI:NL:CRVB:2021:1585",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2021:1585 Centrale Raad van Beroep , 01-07-2021 / 19/4325 WAJONG-T",
+          "quarter": 3,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 1,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "d034417e-8e50-41be-97ce-06342d8b36c8",
+        "chunk_index": 2,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2021:2427",
+        "text": "2. Bij de aangevallen uitspraak heeft de rechtbank het beroep van appellante tegen het bestreden besluit ongegrond verklaard. Hiertoe heeft de rechtbank overwogen dat zij geen reden heeft om het onderzoek, verricht door de artsen van het Uwv, onzorgvuldig of onvolledig te achten. Daarbij heeft de rechtbank van belang geacht dat de beschikbare medische informatie kenbaar bij de beoordeling is betrokken. De rechtbank heeft geoordeeld dat niet is gebleken dat het rapport van de verzekeringsarts bezwaar en beroep inconsistenties bevat of onvoldoende is gemotiveerd. Daarnaast heeft de rechtbank geen aanleiding gezien om te twijfelen aan de juistheid van het oordeel van de artsen van het Uwv, dat appellante ten minste vier uur per dag en ten minste een uur aaneengesloten belastbaar is. De rechtbank heeft onder verwijzing naar het rapport van de arbeidsdeskundige bezwaar en beroep van 1 maart 2018 en 19 februari 2019 geoordeeld dat het Uwv toereikend heeft gemotiveerd dat appellante over basale werknemersvaardigheden beschikt en in staat kan worden geacht de taak ‘scannen’ (1502) in een arbeidsorganisatie te verrichten. De rechtbank heeft geconcludeerd dat het Uwv toereikend heeft gemotiveerd dat per 1 januari 2018 bij appellante geen sprake was van het duurzaam ontbreken van arbeidsvermogen en dat het Uwv terecht heeft besloten de Wajong-uitkering van appellante met ingang van die datum te verlagen van 75% naar 70% van het minimumloon.",
+        "similarity": 0.8598,
+        "metadata": {
+          "date": "2021-10-01",
+          "ecli": "ECLI:NL:CRVB:2021:2427",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2021:2427 Centrale Raad van Beroep , 01-10-2021 / 19/1457 WAJONG",
+          "quarter": 4,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 2,
+          "sub_chunk_index": 0
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "test-case-7",
+    "created_at": "2025-05-26T07:18:00.058945",
+    "refined_at": "2025-05-30T11:46:04.621127+00:00",
+    "temperature": 0.05,
+    "model": "claude-4-sonnet",
+    "memo": "---\n**Juridisch Memorandum (herzien op basis van opgehaalde uitspraken)**\n\n**1. Vraagstelling**\n\nDe vraag is of de afwijzing van kinderopvangtoeslag door de Belastingdienst, wegens het ontbreken van een urenregistratie, stand kan houden wanneer het gastouderbureau wél een urenregistratie heeft ingediend, maar de Belastingdienst deze gegevens niet in de beoordeling heeft betrokken.\n\n**2. Juridisch kader en relevante jurisprudentie**\n\nUit de opgehaalde uitspraken blijkt dat het centrale thema bij het beoordelen van het recht op een uitkering of toeslag vaak de inlichtingenverplichting en het verstrekken van bewijsstukken is.\n\n- **ECLI:NL:RBDHA:2020:2941**  \n  In deze uitspraak oordeelt de rechtbank dat wanneer een betrokkene geen duidelijkheid kan geven over de gewerkte dagen en uren, het recht op bijstand niet kan worden vastgesteld. Dit leidt tot terugvordering van de uitkering. De rechtbank stelt:  \n  _“Omdat eiser geen duidelijkheid kon geven over de gewerkte dagen en uren is het recht op bijstand niet meer vast te stellen en vordert verweerder de ontvangen bijstand over die periode terug.”_  \n  (ECLI:NL:RBDHA:2020:2941)\n\n- **ECLI:NL:RBOBR:2022:2704**  \n  In deze uitspraak wordt bevestigd dat de overheid pas tot intrekking van een uitkering mag overgaan als de betrokkene verzuimd heeft om binnen de gestelde termijn de gevraagde gegevens of bewijsstukken te verstrekken of op een andere manier onvoldoende medewerking heeft verleend. Daarbij moet worden beoordeeld of de betrokkene hiervan een verwijt kan worden gemaakt:  \n  _“Bij de beantwoording van de vraag of verweerder op grond van artikel 54, vierde lid, van de Pw bevoegd is tot intrekking van de aan eiseres verleende bijstand, moet worden beoordeeld of eiseres verzuimd heeft om binnen de daartoe gestelde termijn de bij het opschortingsbesluit gevraagde gegevens of gevorderde bewijsstukken te verstrekken of op een andere manier onvoldoende medewerking heeft verleend. Indien dat zo is, moet vervolgens worden nagegaan of de betrokkene hiervan een verwijt kan worden gemaakt.”_  \n  (ECLI:NL:RBOBR:2022:2704)\n\n**3. Toepassing op de casus**\n\nUit ECLI:NL:RBDHA:2020:2941 volgt dat het ontbreken van een duidelijke urenregistratie doorslaggevend is voor het niet kunnen vaststellen van het recht op een uitkering. In de voorliggende casus is echter gesteld dat het gastouderbureau wél een urenregistratie heeft aangeleverd. \n\nVolgens ECLI:NL:RBOBR:2022:2704 mag een uitkering (of toeslag) alleen worden ingetrokken of geweigerd als de betrokkene niet de gevraagde gegevens of bewijsstukken heeft verstrekt, of onvoldoende medewerking heeft verleend, en als de betrokkene hiervan een verwijt kan worden gemaakt. Indien de cliënt via het gastouderbureau de gevraagde gegevens tijdig en volledig heeft aangeleverd, is er geen sprake van het niet verstrekken van bewijsstukken of het niet verlenen van medewerking. \n\n**4. Conclusie**\n\nOp basis van de opgehaalde jurisprudentie geldt het volgende:\n\n- Het ontbreken van een urenregistratie kan leiden tot afwijzing van een uitkering of toeslag (ECLI:NL:RBDHA:2020:2941).\n- Indien de gevraagde gegevens (urenregistratie) wél zijn aangeleverd, kan een afwijzing niet worden gebaseerd op het ontbreken daarvan (ECLI:NL:RBOBR:2022:2704).\n- De Belastingdienst dient de aangeleverde gegevens in de beoordeling te betrekken. Indien dit niet is gebeurd, is het besluit onzorgvuldig voorbereid.\n\n**5. Aanbeveling**\n\nIn bezwaar of beroep dient expliciet te worden gewezen op de aangeleverde urenregistratie en de hierboven genoemde jurisprudentie (ECLI:NL:RBDHA:2020:2941 en ECLI:NL:RBOBR:2022:2704). Indien de urenregistratie tijdig en volledig is aangeleverd, kan de afwijzing van de kinderopvangtoeslag niet in stand blijven op grond van de opgehaalde uitspraken.\n\n---",
+    "form_data": {
+      "disputedDecision": "Afwijzing kinderopvangtoeslag wegens ontbrekende urenregistratie",
+      "desiredOutcome": "Toekenning toeslag voor de aangegeven periode",
+      "criticalFacts": "Gastouderbureau heeft correct geregistreerde uren ingediend, maar Belastingdienst heeft deze niet meegenomen in de beoordeling.",
+      "applicableLaw": "toeslagenwet",
+      "recipients": "caseworker"
+    },
+    "chunks": [
+      {
+        "id": "fd1a124b-ad0d-4f94-a60e-9db5347b9745",
+        "chunk_index": 5,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBDHA:2020:2941",
+        "text": "2. Bij het bestreden besluit heeft verweerder het bezwaar van eiser ongegrond verklaard en in het verweerschrift heeft verweerder de grondslag van de besluitvorming aangevuld en gewijzigd. Aan de besluitvorming ligt thans ten grondslag dat eiser over de periode van 1 juli 2017 tot en met 20 december 2017 de inlichtingenverplichting als bedoeld in artikel 17, eerste lid, van de Pw heeft geschonden. Eiser kreeg in die periode verschillende stortingen en bijschrijvingen op zijn rekening en heeft hiervan geen melding gemaakt. Verweerder verrekent de ontvangen bedragen met de reeds ontvangen bijstand in die periode. Daarnaast is uit de door eiser overgelegde bankrekeningen gebleken dat hij in de periode van 21 december 2017 tot en met 30 april 2018 teveel bijstand heeft ontvangen. Eiser heeft in die periode stortingen en bijschrijvingen op zijn rekening ontvangen en verweerder zal ook deze bedragen verrekenen met de ontvangen bijstand. Tot slot heeft eiser in de periode van 1 augustus 2018 tot en met 31 oktober 2018 de inlichtingenverplichting geschonden door niet te melden dat eiser werkzaamheden verrichtte in een supermarkt. Omdat eiser geen duidelijkheid kon geven over de gewerkte dagen en uren is het recht op bijstand niet meer vast te stellen en vordert verweerder de ontvangen bijstand over die periode terug.",
+        "similarity": 0.8494,
+        "metadata": {
+          "date": "2020-04-01",
+          "ecli": "ECLI:NL:RBDHA:2020:2941",
+          "court": "Rechtbank Den Haag",
+          "title": "ECLI:NL:RBDHA:2020:2941 Rechtbank Den Haag , 01-04-2020 / AWB - 19 _ 2957",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": 5,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "6c0215e3-afc7-4961-ba36-f5ebb1fa0bb6",
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2022:24",
+        "text": "Appellante was werkzaam als administratief medewerkster voor 32 uur per week. Op 12 maart 2012 is zij voor deze werkzaamheden uitgevallen. Op 27 maart 2012 is appellante prematuur bevallen van een dochter. In aansluiting op zwangerschaps- en bevallingsverlof is appellante op 18 juli 2012 ongeschikt gebleven voor het verrichten van haar arbeid door depressieve klachten, angst en vermoeidheid verband houdend met de traumatisch en gecompliceerd verlopen bevalling en de nadien gebleken gezondheidsproblemen van haar dochter. Op 8 april 2015 heeft appellante een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen (Wet WIA) aangevraagd.",
+        "similarity": 0.8481,
+        "metadata": {
+          "date": "2022-01-04",
+          "ecli": "ECLI:NL:CRVB:2022:24",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2022:24 Centrale Raad van Beroep , 04-01-2022 / 21/1678 WIA",
+          "quarter": 1,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 0,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "3927b522-8e14-4366-8567-ed71f19a49a5",
+        "chunk_index": 3,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBOVE:2021:3708",
+        "text": "en heeft een advies uitgebracht. Hierop volgend heeft verweerder het primaire besluit genomen. In de bezwaarfase heeft het CIZ een rapport opgemaakt, gedateerd 12 augustus 2020. In dit geschil dient de vraag te worden beantwoord of verweerder zich terecht op het standpunt heeft gesteld dat geen recht bestaat op dubbele kinderbijslag vanwege intensieve zorg voor [naam 2] .",
+        "similarity": 0.8459,
+        "metadata": {
+          "date": "2021-10-04",
+          "ecli": "ECLI:NL:RBOVE:2021:3708",
+          "court": "Rechtbank Overijssel",
+          "title": "ECLI:NL:RBOVE:2021:3708 Rechtbank Overijssel , 04-10-2021 / AWB_20 _1765",
+          "quarter": 4,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": 3,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "03ad97cd-3811-4425-90a8-e975f9c93583",
+        "chunk_index": 14,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBOBR:2022:2704",
+        "text": "5. Bij de beantwoording van de vraag of verweerder op grond van artikel 54, vierde lid, van de Pw bevoegd is tot intrekking van de aan eiseres verleende bijstand, moet worden beoordeeld of eiseres verzuimd heeft om binnen de daartoe gestelde termijn de bij het opschortingsbesluit gevraagde gegevens of gevorderde bewijsstukken te verstrekken of op een andere manier onvoldoende medewerking heeft verleend. Indien dat zo is, moet vervolgens worden nagegaan of de betrokkene hiervan een verwijt kan worden gemaakt (Zie bijvoorbeeld de uitspraak van de Centrale Raad van Beroep (CRvB) van 17 mei 2016, ECLI:NL:CRVB:2016:1821).",
+        "similarity": 0.8458,
+        "metadata": {
+          "date": "2022-07-01",
+          "ecli": "ECLI:NL:RBOBR:2022:2704",
+          "court": "Rechtbank Oost-Brabant",
+          "title": "ECLI:NL:RBOBR:2022:2704 Rechtbank Oost-Brabant , 01-07-2022 / 21/2246",
+          "quarter": 3,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": 14,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "3a87229b-f2c2-414a-9d0d-72cd30ea0424",
+        "chunk_index": 11,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2022:1516",
+        "text": "Tot slot wordt overwogen dat volgens vaste rechtspraak (zie bijvoorbeeld de uitspraak van de Raad van 9 april 2019, ECLI:NL:CRVB:2020:919) de belasting die de zorg voor haar kind met zich meebrengt, niet kan worden meegenomen in de beoordeling van het arbeidsvermogen van appellante.",
+        "similarity": 0.8457,
+        "metadata": {
+          "date": "2022-07-06",
+          "ecli": "ECLI:NL:CRVB:2022:1516",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2022:1516 Centrale Raad van Beroep , 06-07-2022 / 20/3398 WAJONG",
+          "quarter": 3,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 11,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "e5972ada-371a-49e9-9df5-f1219012bab1",
+        "chunk_index": 10,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2021:1581",
+        "text": "In geschil is of het Uwv zich terecht op het standpunt heeft gesteld dat appellante op 1 januari 2018 arbeidsvermogen had. Partijen houdt verdeeld de vraag of appellante voldoet aan de voorwaarden dat zij niet aaneengesloten kan werken gedurende ten minste een periode van een uur en niet ten minste vier uur per dag belastbaar is.",
+        "similarity": 0.8451,
+        "metadata": {
+          "date": "2021-07-01",
+          "ecli": "ECLI:NL:CRVB:2021:1581",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2021:1581 Centrale Raad van Beroep , 01-07-2021 / 18/3824 WAJONG",
+          "quarter": 3,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 10,
+          "sub_chunk_index": 0
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "test-case-8",
+    "created_at": "2025-05-26T07:19:38.851918",
+    "refined_at": "2025-05-30T11:47:01.277574+00:00",
+    "temperature": 0.05,
+    "model": "claude-4-sonnet",
+    "memo": "**Herziene Juridische Memo: Inhouding energietoeslag op bijstandsuitkering zonder toestemming of kennisgeving**\n\n---\n\n### 1. Vraagstelling\n\nDe vraag is of de gemeente bevoegd is om zonder voorafgaande toestemming of kennisgeving de energietoeslag te verrekenen met een openstaande schuld op de bijstandsuitkering van cliënt.\n\n---\n\n### 2. Juridisch kader en relevante jurisprudentie\n\n#### a. Bevoegdheid tot terugvordering en verrekening\n\nUit **ECLI:NL:RBDHA:2020:2941** volgt dat het college op grond van artikel 58, tweede lid, van de Participatiewet bevoegd is om vorderingen terug te vorderen die niet zijn ontstaan als gevolg van het schenden van de inlichtingenplicht. In deze uitspraak is tevens overwogen:\n\n> “Het besluit tot herziening en intrekking van bijstand is een voor de betrokkene belastend besluit, waarbij het aan het bijstandsverlenend orgaan is om de nodige kennis over de relevante feiten te vergaren. Dat betekent dat de last om aannemelijk te maken dat aan de voorwaarden voor intrekking is voldaan in beginsel op verweerder rust.”  \n> (ECLI:NL:RBDHA:2020:2941)\n\nDaarnaast is in deze uitspraak opgenomen dat het college beleidsvrijheid heeft bij het gebruik van deze bevoegdheid, zoals blijkt uit het volgende fragment:\n\n> “In artikel 3 van de beleidsregels terugvordering, aflossing en kwijtschelding Participatiewet Den Haag 2017 is bepaald dat het college gebruik maakt van de wettelijke bevoegdheid van artikel 58, tweede lid, van de Pw om vorderingen, niet ontstaan als gevolg van het schenden van de inlichtingenplicht, terug te vorderen.”  \n> (ECLI:NL:RBDHA:2020:2941)\n\n#### b. Procedurele eisen\n\nUit **ECLI:NL:RBDHA:2020:2941** blijkt dat het bestuursorgaan bij belastende besluiten de relevante feiten moet vergaren en aannemelijk moet maken dat aan de voorwaarden voor intrekking of verrekening is voldaan. Dit impliceert dat het bestuursorgaan zorgvuldig te werk moet gaan en de betrokkene op de hoogte moet stellen van het besluit en de onderliggende motivering.\n\n#### c. Geen schending inlichtingenplicht\n\nUit de geselecteerde uitspraken blijkt dat artikel 54, vierde lid, van de Participatiewet ziet op situaties waarin de betrokkene een verwijt kan worden gemaakt wegens het niet verstrekken van informatie (zie **ECLI:NL:RBOBR:2022:2704**):\n\n> “Bij de beantwoording van de vraag of verweerder op grond van artikel 54, vierde lid, van de Pw bevoegd is tot intrekking van de aan eiseres verleende bijstand, moet worden beoordeeld of eiseres verzuimd heeft om binnen de daartoe gestelde termijn de bij het opschortingsbesluit gevraagde gegevens of gevorderde bewijsstukken te verstrekken of op een andere manier onvoldoende medewerking heeft verleend. Indien dat zo is, moet vervolgens worden nagegaan of de betrokkene hiervan een verwijt kan worden gemaakt.”  \n> (ECLI:NL:RBOBR:2022:2704)\n\nIn de voorliggende casus is niet gesteld of gebleken dat sprake is van schending van de inlichtingenplicht.\n\n---\n\n### 3. Toepassing op de casus\n\nDe gemeente heeft de energietoeslag verrekend met een openstaande schuld zonder voorafgaande toestemming of kennisgeving aan cliënt. Uit **ECLI:NL:RBDHA:2020:2941** volgt dat het bestuursorgaan bij een belastend besluit, zoals een verrekening, de relevante feiten moet vergaren en aannemelijk moet maken dat aan de voorwaarden is voldaan. Zonder kennisgeving of motivering is niet voldaan aan deze vereisten.\n\nVoorts is uit de geselecteerde uitspraken niet gebleken van een wettelijke verplichting of bevoegdheid voor het bestuursorgaan om zonder enige kennisgeving of instemming van de cliënt tot verrekening over te gaan, indien geen sprake is van schending van de inlichtingenplicht (**ECLI:NL:RBOBR:2022:2704**).\n\n---\n\n### 4. Conclusie\n\nOp basis van de opgehaalde jurisprudentie (**ECLI:NL:RBDHA:2020:2941** en **ECLI:NL:RBOBR:2022:2704**) is het besluit van de gemeente om zonder voorafgaande kennisgeving of toestemming de energietoeslag te verrekenen met een openstaande schuld op de bijstandsuitkering onvoldoende zorgvuldig en niet in overeenstemming met de vereisten die aan een belastend besluit worden gesteld. Er is geen sprake van schending van de inlichtingenplicht die een dergelijke maatregel zou kunnen rechtvaardigen.\n\n---\n\n### 5. Aanbevolen vervolgstappen\n\n- Maak bezwaar tegen het besluit tot inhouding/verrekening onder verwijzing naar **ECLI:NL:RBDHA:2020:2941** en **ECLI:NL:RBOBR:2022:2704**.\n- Verzoek om stopzetting van de inhouding en terugbetaling van het reeds ingehouden bedrag.\n- Indien bezwaar wordt afgewezen, overweeg beroep bij de rechtbank.\n\n---\n\n**Samenvatting:**  \nDe gemeente heeft gehandeld in strijd met de uit de jurisprudentie voortvloeiende eisen door zonder kennisgeving of toestemming de energietoeslag te verrekenen. De kans op succes bij bezwaar en beroep is aanzienlijk, gelet op de relevante uitspraken (**ECLI:NL:RBDHA:2020:2941**; **ECLI:NL:RBOBR:2022:2704**).",
+    "form_data": {
+      "disputedDecision": "Inhouding op bijstandsuitkering voor energiekosten",
+      "desiredOutcome": "Stopzetten inhouding en terugbetaling",
+      "criticalFacts": "Gemeente heeft energietoeslag ten onrechte verrekend met openstaande schuld zonder toestemming of kennisgeving.",
+      "applicableLaw": "participatiewet",
+      "recipients": "lawyer"
+    },
+    "chunks": [
+      {
+        "id": "03ad97cd-3811-4425-90a8-e975f9c93583",
+        "chunk_index": 14,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBOBR:2022:2704",
+        "text": "5. Bij de beantwoording van de vraag of verweerder op grond van artikel 54, vierde lid, van de Pw bevoegd is tot intrekking van de aan eiseres verleende bijstand, moet worden beoordeeld of eiseres verzuimd heeft om binnen de daartoe gestelde termijn de bij het opschortingsbesluit gevraagde gegevens of gevorderde bewijsstukken te verstrekken of op een andere manier onvoldoende medewerking heeft verleend. Indien dat zo is, moet vervolgens worden nagegaan of de betrokkene hiervan een verwijt kan worden gemaakt (Zie bijvoorbeeld de uitspraak van de Centrale Raad van Beroep (CRvB) van 17 mei 2016, ECLI:NL:CRVB:2016:1821).",
+        "similarity": 0.8523,
+        "metadata": {
+          "date": "2022-07-01",
+          "ecli": "ECLI:NL:RBOBR:2022:2704",
+          "court": "Rechtbank Oost-Brabant",
+          "title": "ECLI:NL:RBOBR:2022:2704 Rechtbank Oost-Brabant , 01-07-2022 / 21/2246",
+          "quarter": 3,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": 14,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "4d5ed3c8-3046-467b-84c0-4400afc3ca9e",
+        "chunk_index": 13,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBDHA:2020:2941",
+        "text": "Het besluit tot herziening en intrekking van bijstand is een voor de betrokkene belastend besluit, waarbij het aan het bijstandsverlenend orgaan is om de nodige kennis over de relevante feiten te vergaren. Dat betekent dat de last om aannemelijk te maken dat aan de voorwaarden voor intrekking is voldaan in beginsel op verweerder rust.",
+        "similarity": 0.851,
+        "metadata": {
+          "date": "2020-04-01",
+          "ecli": "ECLI:NL:RBDHA:2020:2941",
+          "court": "Rechtbank Den Haag",
+          "title": "ECLI:NL:RBDHA:2020:2941 Rechtbank Den Haag , 01-04-2020 / AWB - 19 _ 2957",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": 13,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "ae99af0a-222c-42d4-8c51-9df61b2365a1",
+        "chunk_index": 29,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBOBR:2022:2704",
+        "text": "26. Vast staat dat eiseres ook binnen de in het tweede opschortingsbesluit van 14 april 2021 gestelde termijn niet alle gevraagde informatie heeft verstrekt. Daarvan kan eiseres een verwijt worden gemaakt. Verweerder was daarom bevoegd om de bijstandsuitkering op grond van artikel 54, vierde lid, van de Pw in te trekken per datum opschorting, 27 maart 2021.",
+        "similarity": 0.849,
+        "metadata": {
+          "date": "2022-07-01",
+          "ecli": "ECLI:NL:RBOBR:2022:2704",
+          "court": "Rechtbank Oost-Brabant",
+          "title": "ECLI:NL:RBOBR:2022:2704 Rechtbank Oost-Brabant , 01-07-2022 / 21/2246",
+          "quarter": 3,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": 29,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "647860d3-2a4c-4740-84cd-c88ac9025c28",
+        "chunk_index": 12,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBDHA:2020:2941",
+        "text": "In artikel 3 van de beleidsregels terugvordering, aflossing en kwijtschelding Participatiewet Den Haag 2017 is bepaald dat het college gebruik maakt van de wettelijke bevoegdheid van artikel 58, tweede lid, van de Pw om vorderingen, niet ontstaan als gevolg van het schenden van de inlichtingenplicht, terug te vorderen.",
+        "similarity": 0.8471,
+        "metadata": {
+          "date": "2020-04-01",
+          "ecli": "ECLI:NL:RBDHA:2020:2941",
+          "court": "Rechtbank Den Haag",
+          "title": "ECLI:NL:RBDHA:2020:2941 Rechtbank Den Haag , 01-04-2020 / AWB - 19 _ 2957",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": 12,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "d66a2287-5314-4c1d-af8a-97237ad32eaf",
+        "chunk_index": 9,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2021:2451",
+        "text": "Het Uwv is bij bestreden besluit 2 niet volledig tegemoetgekomen aan de bezwaren van appellante, zodat dit besluit met toepassing van de artikelen 6:19 en 6:24 van de Algemene wet bestuursrecht mede in de beoordeling wordt betrokken.",
+        "similarity": 0.844,
+        "metadata": {
+          "date": "2021-10-01",
+          "ecli": "ECLI:NL:CRVB:2021:2451",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2021:2451 Centrale Raad van Beroep , 01-10-2021 / 17/5876 WIA",
+          "quarter": 4,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 9,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "6b8f3861-3943-4562-94b5-aaa3ec424fa4",
+        "chunk_index": 8,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBAMS:2022:1643",
+        "text": "9. De rechtbank overweegt dat de zesmaandenjurisprudentie betrekking heeft op wettelijke bepalingen waarin sprake is van een bevoegdheid van het bestuursorgaan de onverschuldigd betaalde uitkering terug te vorderen. Wegens de schending van de inlichtingenverplichting was het college echter verplicht de kosten van bijstand van eiser terug te vorderen. Alleen al hierom slaagt het beroep op de zesmaandenjurisprudentie niet.",
+        "similarity": 0.8434,
+        "metadata": {
+          "date": "2022-04-01",
+          "ecli": "ECLI:NL:RBAMS:2022:1643",
+          "court": "Rechtbank Amsterdam",
+          "title": "ECLI:NL:RBAMS:2022:1643 Rechtbank Amsterdam , 01-04-2022 / AMS 21/3736",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": 8,
+          "sub_chunk_index": 0
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "test-case-9",
+    "created_at": "2025-05-26T07:20:59.960041",
+    "refined_at": "2025-05-30T11:48:02.036346+00:00",
+    "temperature": 0.05,
+    "model": "claude-4-sonnet",
+    "memo": "## Herziene Memo: Toekenning Studietoeslag bij Administratieve Vertraging\n\n### 1. Vraaganalyse\n\nDe cliënt heeft als student met een beperking een aanvraag voor studietoeslag ingediend en tijdig bewijs van zijn beperking overgelegd. Door een administratieve vertraging bij het bestuursorgaan is de aanvraag afgewezen of niet met terugwerkende kracht toegekend. De vraag is of de cliënt alsnog recht heeft op toekenning van de studietoeslag met terugwerkende kracht, nu hij aan de inhoudelijke voorwaarden voldoet en de vertraging niet aan hem te wijten is.\n\n### 2. Juridische beoordeling op basis van opgehaalde jurisprudentie\n\n#### a. Onjuiste wetstoepassing en administratieve fouten\n\nUit de uitspraak van de Centrale Raad van Beroep (ECLI:NL:CRVB:2022:638) volgt dat een besluit van een bestuursorgaan niet in stand kan blijven als het is gebaseerd op een onjuiste wetstoepassing of onvoldoende onderbouwing. In deze zaak werd geoordeeld:\n\n> \"Het bestreden besluit is gebaseerd op het onjuiste standpunt dat artikel 15, eerste lid, van de PW aan de verlening van bijzondere bijstand in de weg stond en dat appellante alleen op grond van de Beleidsregels daarop aanspraak kon maken. Het besluit berust dus niet op een juiste wetstoepassing en daarmee niet op een deugdelijke onderbouwing. Het kan daarom niet in stand blijven.\"  \n> (ECLI:NL:CRVB:2022:638)\n\nDit fragment bevestigt dat als een aanvrager aan de wettelijke voorwaarden voldoet, een besluit dat enkel op administratieve of beleidsmatige gronden wordt genomen en niet op juiste wetstoepassing, niet houdbaar is.\n\n#### b. Verwijtbaarheid en toerekening van administratieve tekortkomingen\n\nDe Rechtbank Oost-Brabant overweegt in ECLI:NL:RBOBR:2022:2704 dat bij de beoordeling van intrekking van bijstand wegens het niet verstrekken van gegevens, moet worden vastgesteld of de betrokkene daadwerkelijk in gebreke is gebleven en of hem daarvan een verwijt kan worden gemaakt:\n\n> \"Bij de beantwoording van de vraag of verweerder op grond van artikel 54, vierde lid, van de Pw bevoegd is tot intrekking van de aan eiseres verleende bijstand, moet worden beoordeeld of eiseres verzuimd heeft om binnen de daartoe gestelde termijn de bij het opschortingsbesluit gevraagde gegevens of gevorderde bewijsstukken te verstrekken of op een andere manier onvoldoende medewerking heeft verleend. Indien dat zo is, moet vervolgens worden nagegaan of de betrokkene hiervan een verwijt kan worden gemaakt.\"  \n> (ECLI:NL:RBOBR:2022:2704)\n\nDit betekent dat alleen als de cliënt zelf tekortschiet, dit gevolgen mag hebben voor zijn aanspraak. In de voorliggende casus is niet de cliënt, maar het bestuursorgaan tekortgeschoten.\n\n#### c. Inhoudelijke beoordeling van de beperking\n\nDe overige opgehaalde uitspraken (ECLI:NL:CRVB:2021:2456, ECLI:NL:CRVB:2022:1516, ECLI:NL:CRVB:2020:2344, ECLI:NL:CRVB:2020:1363) zien op de inhoudelijke beoordeling van beperkingen in het kader van de Wajong. In deze zaken wordt beoordeeld of de aanvrager aan de medische criteria voldoet. In de huidige casus is de medische onderbouwing niet in geschil; het probleem betreft uitsluitend de administratieve afhandeling.\n\n### 3. Conclusie\n\nOp grond van de aangehaalde fragmenten uit ECLI:NL:CRVB:2022:638 en ECLI:NL:RBOBR:2022:2704 is het juridisch verdedigbaar dat de cliënt niet de dupe mag worden van administratieve fouten van het bestuursorgaan, mits hij zelf tijdig en volledig heeft gehandeld. Een besluit dat uitsluitend op administratieve gronden wordt genomen, zonder juiste wetstoepassing en zonder dat de cliënt een verwijt treft, kan niet in stand blijven.\n\n### 4. Advies\n\nAdviseer het bestuursorgaan om het besluit te herzien en de studietoeslag alsnog toe te kennen met terugwerkende kracht tot het moment van de oorspronkelijke aanvraag, nu de cliënt tijdig en volledig heeft gehandeld en de vertraging uitsluitend aan het bestuursorgaan te wijten is. Indien het bestuursorgaan niet uit eigen beweging tot herziening overgaat, kan bezwaar en eventueel beroep worden ingesteld onder verwijzing naar bovengenoemde jurisprudentie.\n\n**Samenvatting:**  \nDe cliënt behoort niet de dupe te worden van administratieve vertragingen van het bestuursorgaan. Toekenning van de studietoeslag met terugwerkende kracht is juridisch goed verdedigbaar op basis van ECLI:NL:CRVB:2022:638 en ECLI:NL:RBOBR:2022:2704.",
+    "form_data": {
+      "disputedDecision": "Afwijzing studietoeslag voor student met beperking",
+      "desiredOutcome": "Toekenning toeslag met terugwerkende kracht",
+      "criticalFacts": "Cliënt heeft bewijs van beperking ingediend en voldoet aan alle criteria, maar aanvraag is administratief te laat verwerkt.",
+      "applicableLaw": "studietoeslagregeling",
+      "recipients": "student"
+    },
+    "chunks": [
+      {
+        "id": "d20bbfed-501e-4176-aedf-56e0dfda77ac",
+        "chunk_index": 14,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2022:638",
+        "text": "Het bestreden besluit is gebaseerd op het onjuiste standpunt dat artikel 15, eerste lid, van de PW aan de verlening van bijzondere bijstand in de weg stond en dat appellante alleen op grond van de Beleidsregels daarop aanspraak kon maken. Het besluit berust dus niet op een juiste wetstoepassing en daarmee niet op een deugdelijke onderbouwing. Het kan daarom niet in stand blijven.",
+        "similarity": 0.8554,
+        "metadata": {
+          "date": "2022-04-12",
+          "ecli": "ECLI:NL:CRVB:2022:638",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2022:638 Centrale Raad van Beroep , 12-04-2022 / 21/2587 PW",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 14,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "54c387c1-53ad-4f12-872e-60dca87a7e49",
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2021:2456",
+        "text": "Appellant, geboren op [geboortedag] 2000, heeft met een door het Uwv op 28 september 2017 ontvangen formulier een aanvraag ingediend om uitkering op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten (Wajong). Daarbij is vermeld dat hij belemmeringen ervaart door een ASS, ADD, een licht verstandelijke beperking met een disharmonisch profiel en gedragsstoornissen. Bij de aanvraag is informatie gevoegd van onder andere onderwijsinstellingen en de behandelend sector. Het Uwv heeft vervolgens een verzekeringsgeneeskundig en arbeidskundig onderzoek verricht. De uitkomst van dit onderzoek is dat appellant nu niet over basale werknemersvaardigheden beschikt, maar niet is uitgesloten dat hij deze vaardigheden nog kan ontwikkelen. Bij besluit van 30 november 2017 heeft het Uwv de aanvraag afgewezen omdat appellant nu geen arbeidsvermogen heeft, maar deze situatie niet duurzaam is.",
+        "similarity": 0.848,
+        "metadata": {
+          "date": "2021-10-06",
+          "ecli": "ECLI:NL:CRVB:2021:2456",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2021:2456 Centrale Raad van Beroep , 06-10-2021 / 19/2848 WAJONG",
+          "quarter": 4,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 0,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "03ad97cd-3811-4425-90a8-e975f9c93583",
+        "chunk_index": 14,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBOBR:2022:2704",
+        "text": "5. Bij de beantwoording van de vraag of verweerder op grond van artikel 54, vierde lid, van de Pw bevoegd is tot intrekking van de aan eiseres verleende bijstand, moet worden beoordeeld of eiseres verzuimd heeft om binnen de daartoe gestelde termijn de bij het opschortingsbesluit gevraagde gegevens of gevorderde bewijsstukken te verstrekken of op een andere manier onvoldoende medewerking heeft verleend. Indien dat zo is, moet vervolgens worden nagegaan of de betrokkene hiervan een verwijt kan worden gemaakt (Zie bijvoorbeeld de uitspraak van de Centrale Raad van Beroep (CRvB) van 17 mei 2016, ECLI:NL:CRVB:2016:1821).",
+        "similarity": 0.8479,
+        "metadata": {
+          "date": "2022-07-01",
+          "ecli": "ECLI:NL:RBOBR:2022:2704",
+          "court": "Rechtbank Oost-Brabant",
+          "title": "ECLI:NL:RBOBR:2022:2704 Rechtbank Oost-Brabant , 01-07-2022 / 21/2246",
+          "quarter": 3,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": 14,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "bf009f4d-2d0d-49e4-885d-558b0e162297",
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2022:1516",
+        "text": "Appellante, geboren op [geboortedatum] 1991, heeft met een door het Uwv op 25 mei 2016 ontvangen formulier een aanvraag ingediend om uitkering op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten (Wajong). Naar aanleiding van deze aanvraag heeft het Uwv een verzekeringsgeneeskundig onderzoek verricht. Bij het medisch onderzoek is meegewogen dat bij appellante sprake is van een zeer licht verstandelijke beperking en trekken van een borderline persoonlijkheidsstoornis met heftige stemmingswisselingen. De verzekeringsarts heeft geconcludeerd dat bij appellante op haar achttiende verjaardag sprake is van beperkingen in de belastbaarheid en dat appellante met deze beperkingen over arbeidsvermogen beschikte op haar achttiende verjaardag en ook in de periode van vijf jaren daarna. Bij besluit van 4 juli 2016 heeft het Uwv de aanvraag afgewezen omdat appellante arbeidsvermogen heeft. Dit besluit is in rechte onaantastbaar geworden.",
+        "similarity": 0.8477,
+        "metadata": {
+          "date": "2022-07-06",
+          "ecli": "ECLI:NL:CRVB:2022:1516",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2022:1516 Centrale Raad van Beroep , 06-07-2022 / 20/3398 WAJONG",
+          "quarter": 3,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 0,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "14e4e849-07c5-4442-9268-14403d81e304",
+        "chunk_index": 3,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2020:2344",
+        "text": "Appellante heeft bezwaar gemaakt tegen het besluit van 19 oktober 2016. Bij beslissing op bezwaar van 2 januari 2017 is het bezwaar niet-ontvankelijk verklaard op de grond dat appellante de bezwaargronden te laat heeft ingediend. Bij uitspraak van 21 april 2017 (17/806) heeft de rechtbank het beroep van appellante tegen het besluit van 2 januari 2017 gegrond verklaard en dat besluit vernietigd, omdat het bezwaarschrift van appellante wel gronden bevat. De rechtbank heeft het Uwv opgedragen een nieuwe beslissing op bezwaar te nemen.",
+        "similarity": 0.8457,
+        "metadata": {
+          "date": "2020-10-02",
+          "ecli": "ECLI:NL:CRVB:2020:2344",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2020:2344 Centrale Raad van Beroep , 02-10-2020 / 18/2507 WAJONG",
+          "quarter": 4,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 3,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "3a160182-fc3a-431d-b493-892394be110d",
+        "chunk_index": 3,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2020:1363",
+        "text": "2. Bij de aangevallen uitspraak heeft de rechtbank het beroep van appellante tegen het bestreden besluit ongegrond verklaard. De rechtbank heeft daarbij overwogen dat in hetgeen appellante over haar visuele handicap en psychische problematiek heeft aangevoerd geen reden wordt gezien voor twijfel aan het standpunt van de verzekeringsarts bezwaar en beroep en arbeidsdeskundige bezwaar en beroep dat appellante arbeidsvermogen heeft.",
+        "similarity": 0.8445,
+        "metadata": {
+          "date": "2020-07-01",
+          "ecli": "ECLI:NL:CRVB:2020:1363",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2020:1363 Centrale Raad van Beroep , 01-07-2020 / 18/3192 WAJONG",
+          "quarter": 3,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 3,
+          "sub_chunk_index": 0
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "test-case-10",
+    "created_at": "2025-05-26T07:22:40.423545",
+    "refined_at": "2025-05-30T11:49:00.843533+00:00",
+    "temperature": 0.05,
+    "model": "claude-4-sonnet",
+    "memo": "---\n**Juridisch memorandum: Stopzetten Ziektewet-uitkering wegens hersteldmelding – contra-indicatie huisarts**\n\n**1. Vraagstelling**\n\nDe vraag is of het UWV de Ziektewet-uitkering (ZW) terecht heeft beëindigd per hersteldatum, ondanks een contra-indicatie van de huisarts. Daarbij is van belang of het bezwaar tegen de beëindiging, gelet op de relevante jurisprudentie, kans van slagen heeft.\n\n**2. Jurisprudentieanalyse op basis van opgehaalde fragmenten**\n\n**a. Zorgvuldigheid van het medisch onderzoek**\n\nUit de opgehaalde uitspraken volgt dat het UWV bij de beoordeling van het recht op ZW-uitkering een zorgvuldig medisch onderzoek moet verrichten. In ECLI:NL:CRVB:2020:19 overwoog de rechtbank dat de artsen van het UWV een zorgvuldig onderzoek hadden verricht en hun bevindingen inzichtelijk hadden toegelicht. De rechtbank zag geen aanleiding om aan te nemen dat de medische beoordeling onjuist was, mede omdat niet gebleken was dat relevante aspecten van de gezondheidstoestand van appellante waren gemist. Ook werd geoordeeld dat de verzekeringsarts bezwaar en beroep adequaat had gemotiveerd waarom bestaande klachten al tot beperkingen hadden geleid en waarom nieuwe medische informatie niet tot een ander oordeel hoefde te leiden.\n\nIn ECLI:NL:CRVB:2020:1369 werd geoordeeld dat het UWV de ZW-uitkering mocht beëindigen op basis van een rapport van de verzekeringsarts bezwaar en beroep. Het bezwaar van appellant werd ongegrond verklaard, waarbij het rapport van de verzekeringsarts bezwaar en beroep aan het besluit ten grondslag lag.\n\n**b. Betrekken van informatie van de behandelend sector (zoals de huisarts)**\n\nUit ECLI:NL:CRVB:2020:19 blijkt dat de rechtbank in haar beoordeling heeft betrokken dat de artsen van het UWV hun bevindingen inzichtelijk hebben toegelicht en dat niet is gebleken dat relevante aspecten van de gezondheidstoestand zijn gemist. De rechtbank overwoog expliciet dat informatie die door appellante in beroep was overgelegd, betrekking had op klachten die nog niet eerder waren geclaimd en waarvoor nog nader onderzoek zou volgen, zodat dit niet tot een ander medisch oordeel hoefde te leiden. Dit betekent dat informatie van de behandelend sector, zoals de huisarts, moet worden meegewogen, maar alleen tot een ander oordeel leidt als deze concrete aanknopingspunten biedt voor een andere medische beoordeling.\n\n**c. Bewijslast en motivering**\n\nIn ECLI:NL:CRVB:2021:761 werd geoordeeld dat het UWV terecht geen recht op een ZW-uitkering meer had aangenomen, omdat er geen aanknopingspunten waren om het standpunt van de verzekeringsarts bezwaar en beroep onjuist te achten. De rechtbank toetste of het medisch oordeel van het UWV voldoende was gemotiveerd en of relevante medische informatie was meegewogen.\n\n**d. Voorlopige voorziening**\n\nIn ECLI:NL:RBZWB:2023:6841 werd een voorlopige voorziening gevraagd tegen de beëindiging van de ZW-uitkering. De voorzieningenrechter toetste of het bezwaar een redelijke kans van slagen had, waarbij ook werd gekeken naar de medische onderbouwing van beide zijden.\n\n**3. Conclusie en advies**\n\nOp basis van de opgehaalde fragmenten geldt het volgende:\n\n- Het UWV dient bij de beëindiging van de ZW-uitkering een zorgvuldig en inzichtelijk gemotiveerd medisch onderzoek te verrichten, waarbij relevante medische informatie, waaronder die van de huisarts, moet worden betrokken (ECLI:NL:CRVB:2020:19; ECLI:NL:CRVB:2020:1369).\n- Informatie van de huisarts is niet zonder meer doorslaggevend. Alleen als deze informatie concrete aanknopingspunten biedt voor een andere medische beoordeling, kan dit tot een ander oordeel leiden (ECLI:NL:CRVB:2020:19).\n- De rechtbank toetst of het UWV het medisch oordeel voldoende heeft gemotiveerd en of relevante medische informatie is meegewogen (ECLI:NL:CRVB:2021:761).\n- Bij een voorlopige voorziening wordt getoetst of het bezwaar een redelijke kans van slagen heeft, mede aan de hand van de medische onderbouwing (ECLI:NL:RBZWB:2023:6841).\n\n**Advies:**  \nIndien het UWV de contra-indicatie van de huisarts niet of onvoldoende heeft betrokken of gemotiveerd heeft verworpen, biedt de jurisprudentie aanknopingspunten voor een succesvol bezwaar. Het is raadzaam om in bezwaar alle relevante medische stukken, waaronder de contra-indicatie van de huisarts, in te brengen en te verzoeken om een herbeoordeling door een verzekeringsarts bezwaar en beroep. Indien sprake is van spoedeisend belang, kan een voorlopige voorziening worden overwogen (ECLI:NL:RBZWB:2023:6841).\n\n---\n\n**Verwijzingen:**\n- ECLI:NL:CRVB:2020:19\n- ECLI:NL:CRVB:2020:1369\n- ECLI:NL:CRVB:2021:761\n- ECLI:NL:RBZWB:2023:6841\n\n---",
+    "form_data": {
+      "disputedDecision": "Stopzetten van de Ziektewet-uitkering wegens hersteldmelding",
+      "desiredOutcome": "Voortzetting van de ZW-uitkering",
+      "criticalFacts": "Huisarts heeft een contra-indicatie gegeven en betwist de door het UWV gestelde hersteldatum.",
+      "applicableLaw": "zw",
+      "recipients": "caseworker"
+    },
+    "chunks": [
+      {
+        "id": "5678b5aa-b596-4918-8c53-dfc410f1fea6",
+        "chunk_index": -1,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBZWB:2023:6841",
+        "text": "Verzoeker heeft bezwaar gemaakt tegen een besluit van het UWV waarbij is bepaald dat verzoeker vanaf 26 juni 2023 geen recht meer heeft op een uitkering op grond van de Ziektewet (ZW). Hij heeft de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.",
+        "similarity": 0.8791,
+        "metadata": {
+          "date": "2023-10-04",
+          "ecli": "ECLI:NL:RBZWB:2023:6841",
+          "court": "Rechtbank Zeeland-West-Brabant",
+          "title": "ECLI:NL:RBZWB:2023:6841 Rechtbank Zeeland-West-Brabant , 04-10-2023 / AWB- 23_9628 VV",
+          "quarter": 4,
+          "section": "ABSTRACT",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#voorlopigeVoorziening",
+          "chunk_index": -1,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "11acf82c-2d80-4fb0-8432-37f1fe33a6d7",
+        "chunk_index": 6,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2021:761",
+        "text": "De rechtbank heeft geoordeeld dat het Uwv op goede gronden heeft geconcludeerd dat geen sprake is van (toegenomen) arbeidsongeschiktheid bij appellant binnen een periode van vier weken na de beëindiging van de ZW-uitkering. De rechtbank heeft geen aanknopingspunten gezien om het standpunt van de verzekeringsarts bezwaar en beroep in zijn rapporten van 12 oktober 2018 en 16 mei 2019 voor onjuist te houden. Dit betekent dat appellant de wachttijd, als bedoeld in artikel 23 van de Wet WIA, niet heeft volgemaakt. Gelet hierop heeft het Uwv zich naar het oordeel van de rechtbank terecht op het standpunt gesteld dat appellant geen recht heeft op een WIA-uitkering. Ten slotte heeft de rechtbank geoordeeld dat het Uwv terecht een hoorzitting achterwege heeft gelaten.",
+        "similarity": 0.8726,
+        "metadata": {
+          "date": "2021-04-06",
+          "ecli": "ECLI:NL:CRVB:2021:761",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2021:761 Centrale Raad van Beroep , 06-04-2021 / 18/1476 ZW",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 6,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "1d2baabd-f0d5-4333-b684-e9d2dd61ede3",
+        "chunk_index": 2,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2020:19",
+        "text": "2. De rechtbank heeft het beroep van appellante tegen het bestreden besluit ongegrond verklaard. Naar het oordeel van de rechtbank hebben de artsen van het Uwv een zorgvuldig onderzoek verricht. Daarnaast heeft de rechtbank in wat appellante heeft aangevoerd geen aanleiding gezien om aan te nemen dat de medische beoordeling onjuist is. De rechtbank heeft hierbij in overweging genomen dat de artsen van het Uwv hun bevindingen inzichtelijk hebben toegelicht en niet gebleken is dat relevante aspecten van de gezondheidstoestand van appellante zijn gemist. Voor zover appellante stelt dat haar bekkenklachten al aan de orde waren op de datum in geding heeft de verzekeringsarts bezwaar en beroep volgens de rechtbank adequaat gemotiveerd dat wegens bestaande klachten in 2015 en juist op deze specifieke klachten al diverse beperkingen zijn gegeven. Over de door appellante in beroep overgelegde informatie heeft de rechtbank geoordeeld dat deze gegevens betrekking hebben op klachten die nog niet eerder zijn geclaimd en waarvoor nog nader onderzoek zal volgen, zodat dit niet tot een ander medisch oordeel moet leiden. Uitgaande van de juistheid van de door het Uwv aangenomen beperkingen heeft de rechtbank geen aanleiding gezien voor het oordeel dat appellante de werkzaamheden behorende bij de aan haar voorgehouden functies niet zou kunnen verrichten. Naar het oordeel van de rechtbank heeft het Uwv terecht geconcludeerd dat appellante per 22 juli 2016 geen recht meer heeft op een ZW-uitkering.",
+        "similarity": 0.8724,
+        "metadata": {
+          "date": "2020-01-08",
+          "ecli": "ECLI:NL:CRVB:2020:19",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2020:19 Centrale Raad van Beroep , 08-01-2020 / 17/8009 ZW",
+          "quarter": 1,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 2,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "128b4193-71a6-4a89-8417-476773597a4c",
+        "chunk_index": 1,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2020:1369",
+        "text": "Op 21 juli 2016 heeft appellant het spreekuur bezocht van een verzekeringsarts. Deze arts heeft appellant per 27 juli 2016 geschikt geacht voor de laatst verrichte arbeid in de functie van gewasmedewerker. Vervolgens heeft het Uwv bij besluit van 21 juli 2016 de uitkering die appellant ontving op grond van de Ziektewet (ZW) met ingang van 27 juli 2016 beëindigd. Het bezwaar van appellant tegen dit besluit heeft het Uwv bij besluit van 11 oktober 2016 (bestreden besluit) ongegrond verklaard. Aan het bestreden besluit ligt een rapport van een verzekeringsarts bezwaar en beroep ten grondslag.",
+        "similarity": 0.8722,
+        "metadata": {
+          "date": "2020-07-01",
+          "ecli": "ECLI:NL:CRVB:2020:1369",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2020:1369 Centrale Raad van Beroep , 01-07-2020 / 17/5651 ZW",
+          "quarter": 3,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 1,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "1c64da63-3d43-41ba-9f40-b3da8894f1a8",
+        "chunk_index": 4,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2022:1505",
+        "text": "Het Uwv heeft bij besluit van 18 december 2018 de ZW-uitkering van appellante met ingang van 19 januari 2019 beëindigd, omdat appellante meer dan 65% kan verdienen van het loon dat zij verdiende voordat zij ziek werd. Bij een ander besluit van 16 april 2019 (bestreden besluit 3) heeft het Uwv het bezwaar van appellante tegen het besluit van 18 december 2018 ongegrond verklaard.",
+        "similarity": 0.8718,
+        "metadata": {
+          "date": "2022-07-07",
+          "ecli": "ECLI:NL:CRVB:2022:1505",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2022:1505 Centrale Raad van Beroep , 07-07-2022 / 20/1150 ZW",
+          "quarter": 3,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 4,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "c926e782-ff99-4510-8b3b-85f5f985c664",
+        "chunk_index": 6,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2023:10",
+        "text": "2. Bij de aangevallen uitspraak heeft de rechtbank het beroep van appellante tegen het bestreden besluit ongegrond verklaard. De rechtbank heeft geoordeeld dat het Uwv zich terecht op het standpunt heeft gesteld dat appellante geen nieuwe feiten of veranderde omstandigheden ten grondslag heeft gelegd aan haar verzoek van 10 januari 2018. Het Uwv heeft het verzoek om terug te komen van het besluit van 24 juli 2012 met toepassing van artikel 4:6, tweede lid, van de Algemene wet bestuursrecht (Awb) kunnen afwijzen. Naar het oordeel van de rechtbank heeft de verzekeringsarts bezwaar en beroep in zijn rapport inzichtelijk gemotiveerd dat het niet aannemelijk is dat reeds op het moment dat de betreffende ziekte werd vastgesteld verbetering van de mogelijkheden niet meer te verwachten viel. De verzekeringsarts bezwaar en beroep heeft ook voldoende gemotiveerd dat uit de door appellante overgelegde stukken volgt dat ten tijde in geding niet bleek van een duurzame situatie. Dat de internist-immunoloog in zijn schrijven over een spreekuurcontact op 3 december 2013 melding heeft gemaakt van chronische sarcoïdose, maakt verder niet zonder meer dat daarvan reeds op de datum in geding sprake was. De rechtbank heeft verder geen aanleiding gezien voor het oordeel dat het bestreden besluit evident onredelijk is.",
+        "similarity": 0.871,
+        "metadata": {
+          "date": "2023-01-04",
+          "ecli": "ECLI:NL:CRVB:2023:10",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2023:10 Centrale Raad van Beroep , 04-01-2023 / 20/4391 WIA",
+          "quarter": 1,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 6,
+          "sub_chunk_index": 0
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "test-case-11",
+    "created_at": "2025-05-26T07:24:19.651547",
+    "refined_at": "2025-05-30T11:49:55.959021+00:00",
+    "temperature": 0.05,
+    "model": "claude-4-sonnet",
+    "memo": "### Herziene Memo: Bijzondere bijstand voor tandartskosten en gemeentelijk beleid\n\n#### 1. Vraaganalyse\n\nDe juridische vraag betreft de afwijzing door de gemeente van een aanvraag om bijzondere bijstand voor tandartskosten op grond van de Participatiewet (PW). De afwijzing is gebaseerd op gemeentelijk beleid, vermoedelijk vanwege het ontbreken van een aanvullende verzekering, terwijl sprake is van een medische noodzaak.\n\n#### 2. Toepassing van relevante jurisprudentie\n\n##### ECLI:NL:CRVB:2022:638\n\nUit het fragment van ECLI:NL:CRVB:2022:638 blijkt het volgende:\n\n> \"Het bestreden besluit is gebaseerd op het onjuiste standpunt dat artikel 15, eerste lid, van de PW aan de verlening van bijzondere bijstand in de weg stond en dat appellante alleen op grond van de Beleidsregels daarop aanspraak kon maken. Het besluit berust dus niet op een juiste wetstoepassing en daarmee niet op een deugdelijke onderbouwing. Het kan daarom niet in stand blijven.\"\n\nHieruit volgt dat de Centrale Raad van Beroep oordeelt dat een besluit tot afwijzing van bijzondere bijstand niet uitsluitend mag worden gebaseerd op gemeentelijk beleid of beleidsregels. De wettelijke bepalingen van de Participatiewet dienen leidend te zijn en het besluit moet daarop zijn gebaseerd. Een individuele beoordeling is vereist.\n\n##### ECLI:NL:RBOVE:2021:3751\n\nHet fragment uit ECLI:NL:RBOVE:2021:3751 luidt:\n\n> \"Verweerder heeft in het primaire besluit II de aanvraag om bijzondere bijstand afgewezen, omdat niet duidelijk is hoe eiser in zijn levensonderhoud voorziet en verweerder daardoor het recht op bijzondere bijstand niet kon vaststellen.\"\n\nDit fragment ziet op een andere grond voor afwijzing, namelijk onduidelijkheid over het levensonderhoud, en is niet direct relevant voor de verhouding tussen gemeentelijk beleid en de wettelijke grondslag.\n\n##### Overige uitspraken\n\nDe overige opgehaalde uitspraken (ECLI:NL:CRVB:2020:2343, ECLI:NL:CRVB:2022:1505, ECLI:NL:CRVB:2020:837, ECLI:NL:CRVB:2020:1363) zien op arbeidsongeschiktheid en medische beoordelingen in het kader van andere sociale zekerheidsregelingen. Deze bevatten geen relevante overwegingen over de toepassing van gemeentelijk beleid bij bijzondere bijstand op grond van de Participatiewet.\n\n#### 3. Conclusie\n\nOp basis van het fragment uit ECLI:NL:CRVB:2022:638 is het juridisch onjuist om een aanvraag om bijzondere bijstand voor tandartskosten af te wijzen uitsluitend op grond van gemeentelijk beleid, zoals het ontbreken van een aanvullende verzekering. De gemeente dient een individuele beoordeling te maken op basis van de Participatiewet. Een besluit dat enkel op beleidsregels is gebaseerd en niet op de wet, is niet deugdelijk onderbouwd en kan niet in stand blijven (ECLI:NL:CRVB:2022:638).\n\n#### 4. Advies en vervolgstappen\n\n- Dien bezwaar in tegen het gemeentelijk besluit, onder verwijzing naar ECLI:NL:CRVB:2022:638.\n- Stel dat de gemeente een individuele beoordeling moet maken op basis van de Participatiewet en dat het besluit niet uitsluitend op beleidsregels mag worden gebaseerd.\n- Indien bezwaar wordt afgewezen, kan beroep bij de rechtbank worden overwogen.\n\n**Let op:** De kans van slagen is afhankelijk van de verdere onderbouwing van de medische noodzaak, maar het ontbreken van een individuele beoordeling is op basis van ECLI:NL:CRVB:2022:638 een zwaarwegend juridisch argument.\n\n---\n\n**Bronnen:**  \n- ECLI:NL:CRVB:2022:638 (Centrale Raad van Beroep, 12-04-2022)  \n- ECLI:NL:RBOVE:2021:3751 (Rechtbank Overijssel, 07-10-2021)",
+    "form_data": {
+      "disputedDecision": "Afwijzing bijzondere bijstand voor tandartskosten",
+      "desiredOutcome": "Toekenning van volledige tandartskostenvergoeding",
+      "criticalFacts": "Cliënt had geen aanvullende verzekering, maar aantoonbaar medische noodzaak. Gemeente wijkt niet af van standaardbeleid.",
+      "applicableLaw": "participatiewet",
+      "recipients": "client"
+    },
+    "chunks": [
+      {
+        "id": "c8103dec-705e-4df6-b78c-a01522773697",
+        "chunk_index": 5,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2020:2343",
+        "text": "Appellante kan niet worden gevolgd in haar standpunt dat zij volledig arbeidsongeschikt is of geen benutbare mogelijkheden heeft om te werken. Daarvoor is geen steun te vinden in de over appellante beschikbare medische gegevens. Verwezen wordt naar het rapport van de primaire arts van 26 september 2017 (overweging 4.1), welke visie door de verzekeringsarts bezwaar en beroep in zijn rapport van 15 februari 2018 is onderschreven.",
+        "similarity": 0.8596,
+        "metadata": {
+          "date": "2020-10-01",
+          "ecli": "ECLI:NL:CRVB:2020:2343",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2020:2343 Centrale Raad van Beroep , 01-10-2020 / 19/663 WIA",
+          "quarter": 4,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 5,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "d8cad7d6-0132-4ce9-8426-7df5deb63047",
+        "chunk_index": 12,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2022:1505",
+        "text": "Er bestaat geen aanleiding om te twijfelen aan deze inzichtelijk onderbouwde conclusies van de verzekeringsarts bezwaar en beroep. Appellante heeft haar standpunt dat zij meer beperkt is in hoger beroep niet onderbouwd met (nieuwe) medische gegevens. De eerst ter zitting van de Raad aangevoerde grief dat appellante beperkt is ten aanzien van de duurbelasting is tardief en niet nader onderbouwd. Gelet op het voorgaande bestaat geen aanleiding een deskundige te benoemen, zodat het daartoe strekkende verzoek wordt afgewezen.",
+        "similarity": 0.8525,
+        "metadata": {
+          "date": "2022-07-07",
+          "ecli": "ECLI:NL:CRVB:2022:1505",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2022:1505 Centrale Raad van Beroep , 07-07-2022 / 20/1150 ZW",
+          "quarter": 3,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 12,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "19ba1f0a-ac90-414c-a9a1-20477100d94c",
+        "chunk_index": -1,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2020:837",
+        "text": "Met bestreden besluit 2 heeft het Uwv bestreden besluit 1 niet langer gehandhaafd. Met bestreden besluit 2 is het Uwv niet volledig tegemoet gekomen aan de bezwaren van appellant. Op grond van de artikelen 6:19 en 6:24 van de Awb heeft het hoger beroep dan ook mede betrekking op bestreden besluit 2. De verzekeringsarts bezwaar en beroep heeft in het rapport van 25 november 2015 op toereikende wijze gemotiveerd dat het standpunt van de primaire verzekeringsarts dat appellant volledig arbeidsongeschikt is wegens wisselende belastbaarheid vanwege een operatie aan de prostaat, niet kan worden gevolgd. Appellant heeft in beroep en in hoger beroep geen medische gegevens ingebracht ter onderbouwing van de door hem gestelde volledige, en duurzame, arbeidsongeschiktheid. In de beschikbare medische informatie is hiervoor evenmin steun te vinden. Nu de FML uit 2013 niet is gewijzigd, bestaat er geen reden voor een arbeidskundige beoordeling. Uwv veroordeeld in proceskosten.",
+        "similarity": 0.8523,
+        "metadata": {
+          "date": "2020-04-01",
+          "ecli": "ECLI:NL:CRVB:2020:837",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2020:837 Centrale Raad van Beroep , 01-04-2020 / 17/851 WIA",
+          "quarter": 2,
+          "section": "ABSTRACT",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": -1,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "d20bbfed-501e-4176-aedf-56e0dfda77ac",
+        "chunk_index": 14,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2022:638",
+        "text": "Het bestreden besluit is gebaseerd op het onjuiste standpunt dat artikel 15, eerste lid, van de PW aan de verlening van bijzondere bijstand in de weg stond en dat appellante alleen op grond van de Beleidsregels daarop aanspraak kon maken. Het besluit berust dus niet op een juiste wetstoepassing en daarmee niet op een deugdelijke onderbouwing. Het kan daarom niet in stand blijven.",
+        "similarity": 0.8515,
+        "metadata": {
+          "date": "2022-04-12",
+          "ecli": "ECLI:NL:CRVB:2022:638",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2022:638 Centrale Raad van Beroep , 12-04-2022 / 21/2587 PW",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 14,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "73937c96-9c19-4cb0-8c84-f9ee4d6ea230",
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBOVE:2021:3751",
+        "text": "Verweerder heeft in het primaire besluit II de aanvraag om bijzondere bijstand afgewezen, omdat niet duidelijk is hoe eiser in zijn levensonderhoud voorziet en verweerder daardoor het recht op bijzondere bijstand niet kon vaststellen.",
+        "similarity": 0.8514,
+        "metadata": {
+          "date": "2021-10-07",
+          "ecli": "ECLI:NL:RBOVE:2021:3751",
+          "court": "Rechtbank Overijssel",
+          "title": "ECLI:NL:RBOVE:2021:3751 Rechtbank Overijssel , 07-10-2021 / ak_21_632",
+          "quarter": 4,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": 0,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "3a160182-fc3a-431d-b493-892394be110d",
+        "chunk_index": 3,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2020:1363",
+        "text": "2. Bij de aangevallen uitspraak heeft de rechtbank het beroep van appellante tegen het bestreden besluit ongegrond verklaard. De rechtbank heeft daarbij overwogen dat in hetgeen appellante over haar visuele handicap en psychische problematiek heeft aangevoerd geen reden wordt gezien voor twijfel aan het standpunt van de verzekeringsarts bezwaar en beroep en arbeidsdeskundige bezwaar en beroep dat appellante arbeidsvermogen heeft.",
+        "similarity": 0.851,
+        "metadata": {
+          "date": "2020-07-01",
+          "ecli": "ECLI:NL:CRVB:2020:1363",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2020:1363 Centrale Raad van Beroep , 01-07-2020 / 18/3192 WAJONG",
+          "quarter": 3,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 3,
+          "sub_chunk_index": 0
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "test-case-12",
+    "created_at": "2025-05-26T07:25:46.481984",
+    "refined_at": "2025-05-30T11:50:44.772868+00:00",
+    "temperature": 0.05,
+    "model": "claude-4-sonnet",
+    "memo": "---\n**Juridisch Memorandum (herzien op basis van opgehaalde uitspraken)**\n\n**1. Vraagstelling**\n\nDe vraag betreft de rechtmatigheid van het SVB-besluit tot intrekking van kinderbijslag wegens inschrijving van het kind op een buitenlandse school, terwijl het kind feitelijk erkend Nederlands afstandsonderwijs volgt en slechts tijdelijk in het buitenland verblijft. De ouder wenst herstel van de kinderbijslag met terugwerkende kracht. De kernvraag is of de SVB het besluit tot intrekking voldoende zorgvuldig heeft genomen en of er gronden zijn voor herstel van het recht op kinderbijslag.\n\n**2. Juridische beoordeling aan de hand van jurisprudentie**\n\n**a. Zorgvuldigheid en deugdelijke onderbouwing van besluiten**\n\nUit ECLI:NL:CRVB:2022:638 volgt dat een bestuursorgaan een besluit moet baseren op een juiste wetstoepassing en een deugdelijke onderbouwing. In die zaak werd geoordeeld dat het besluit niet in stand kon blijven omdat het berustte op een onjuist standpunt en niet op een deugdelijke onderbouwing:  \n_\"Het bestreden besluit is gebaseerd op het onjuiste standpunt ... Het besluit berust dus niet op een juiste wetstoepassing en daarmee niet op een deugdelijke onderbouwing. Het kan daarom niet in stand blijven.\"_  \nDit betekent dat de SVB bij het nemen van een besluit tot intrekking van kinderbijslag voldoende onderzoek moet doen naar de relevante feiten, waaronder het soort onderwijs dat het kind volgt en het feitelijk verblijf.\n\n**b. Herstel van besluiten bij gebreken**\n\nECLI:NL:CRVB:2022:13 bevestigt dat wanneer een bestuursorgaan een eerder geconstateerd gebrek niet herstelt, de rechter het besluit kan herroepen:  \n_\"De Svb heeft de mogelijkheid gehad het ... gebrek te herstellen, maar is daar ... niet in geslaagd. ... zal de Raad daarom de besluiten ... herroepen. Aan die besluiten kleeft namelijk hetzelfde gebrek als aan het bestreden besluit.\"_  \nDit betekent dat als de SVB in deze situatie het gebrek aan zorgvuldigheid en onderbouwing niet herstelt, de rechter het besluit tot intrekking van de kinderbijslag kan vernietigen en herroepen.\n\n**c. Overige uitspraken**\n\nDe overige opgehaalde uitspraken (ECLI:NL:CRVB:2020:2344, ECLI:NL:CRVB:2021:744, ECLI:NL:RBOVE:2021:3708, ECLI:NL:CRVB:2021:2484) zien op andere onderwerpen, zoals ingezetenschap, dubbele kinderbijslag, of zorgbehoefte, en bevatten geen relevante overwegingen voor de kern van deze zaak zoals blijkt uit de fragmenten.\n\n**3. Conclusie**\n\nOp basis van ECLI:NL:CRVB:2022:638 moet het besluit van de SVB tot intrekking van de kinderbijslag berusten op een juiste wetstoepassing en een deugdelijke onderbouwing. Indien de SVB niet zorgvuldig heeft onderzocht of het kind erkend Nederlands afstandsonderwijs volgt en slechts tijdelijk in het buitenland verblijft, is het besluit onvoldoende onderbouwd en kan het niet in stand blijven. Indien de SVB dit gebrek niet herstelt, kan de rechter het besluit vernietigen en herroepen, conform ECLI:NL:CRVB:2022:13.\n\n**Advies en vervolgstappen:**  \nHet is van belang om met bewijsstukken aan te tonen dat het kind erkend Nederlands afstandsonderwijs volgt en slechts tijdelijk in het buitenland verblijft. Op basis van de genoemde uitspraken kan bezwaar worden gemaakt tegen het SVB-besluit, met expliciete verwijzing naar ECLI:NL:CRVB:2022:638 en ECLI:NL:CRVB:2022:13.\n\n---",
+    "form_data": {
+      "disputedDecision": "Intrekking kinderbijslag wegens buitenlandse schoolinschrijving",
+      "desiredOutcome": "Herstel kinderbijslag met terugwerkende kracht",
+      "criticalFacts": "Kind volgt erkende Nederlandse afstandsonderwijs en verblijft tijdelijk in buitenland. SVB heeft dit niet geverifieerd.",
+      "applicableLaw": "akwb",
+      "recipients": "parent"
+    },
+    "chunks": [
+      {
+        "id": "6eb143e8-eea2-485c-ad98-a0d96c340996",
+        "chunk_index": -1,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2020:2344",
+        "text": "Dat betekent dat appellante zonder meer een duurzame band van persoonlijke band met Nederland had vanaf voor haar zeventiende verjaardag. Het Uwv heeft zich terecht op het standpunt gesteld dat de door appellante overgelegde stukken niet kunnen worden aangemerkt als nieuw gebleken feiten of veranderde omstandigheden in de zin van artikel 4:6 van de Awb. Het Uwv mocht het verzoek van appellante van 11 augustus 2016 dan ook afwijzen met verwijzing naar zijn besluit van 20 juni 2012. In wat appellante heeft aangevoerd wordt geen aanleiding gevonden voor het oordeel dat het bestreden besluit in zoverre evident onredelijk is. Het oordeel van de rechtbank dat van een dergelijke deugdelijke en toereikende onderbouwing in dit geval geen sprake is, wordt onderschreven. De overwegingen leiden tot de conclusie dat het hoger beroep niet slaagt en de aangevallen uitspraak, voor zover aangevochten, moet worden bevestigd. De rechtbank heeft het bestreden besluit terecht in stand gelaten.",
+        "similarity": 0.8576,
+        "metadata": {
+          "date": "2020-10-02",
+          "ecli": "ECLI:NL:CRVB:2020:2344",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2020:2344 Centrale Raad van Beroep , 02-10-2020 / 18/2507 WAJONG",
+          "quarter": 4,
+          "section": "ABSTRACT",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": -1,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "1c948c03-24d7-4d03-a148-7533bda5e413",
+        "chunk_index": 3,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2021:744",
+        "text": "2. Bij de aangevallen uitspraak heeft de rechtbank het beroep tegen het bestreden besluit ongegrond verklaard. De rechtbank heeft overwogen dat de Svb terecht heeft besloten dat appellante nooit voor de AOW verzekerd is geweest. Vanaf 1 juli 1998 was appellante niet verzekerd omdat zij niet rechtmatig in Nederland verbleef. In de periode tussen 15 maart 1998 en 1 juli 1998 was appellante nog geen ingezetene van Nederland. Hierbij heeft de rechtbank meegewogen dat niet is gebleken dat appellante toen zij naar Nederland kwam al meteen de bedoeling had hier te blijven. Zij kwam voor een operatie naar Nederland. Daarna hield zij gezondheidsklachten en had zij de zorg van haar kinderen nodig. De pas ter zitting naar voren gebrachte omstandigheden dat zij schoolgaande kinderen had, dat al haar zeven kinderen in Nederland woonden, zij gescheiden was van haar echtgenoot in Marokko en er geen reden was om naar Marokko terug te gaan, zijn volgens de rechtbank niet bij de aanvraag vermeld en niet met stukken onderbouwd. Volgens de rechtbank heeft de Svb hiermee terecht geen rekening kunnen en hoeven houden.",
+        "similarity": 0.8513,
+        "metadata": {
+          "date": "2021-04-01",
+          "ecli": "ECLI:NL:CRVB:2021:744",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2021:744 Centrale Raad van Beroep , 01-04-2021 / 19/4792 AOW",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 3,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "d20bbfed-501e-4176-aedf-56e0dfda77ac",
+        "chunk_index": 14,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2022:638",
+        "text": "Het bestreden besluit is gebaseerd op het onjuiste standpunt dat artikel 15, eerste lid, van de PW aan de verlening van bijzondere bijstand in de weg stond en dat appellante alleen op grond van de Beleidsregels daarop aanspraak kon maken. Het besluit berust dus niet op een juiste wetstoepassing en daarmee niet op een deugdelijke onderbouwing. Het kan daarom niet in stand blijven.",
+        "similarity": 0.8494,
+        "metadata": {
+          "date": "2022-04-12",
+          "ecli": "ECLI:NL:CRVB:2022:638",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2022:638 Centrale Raad van Beroep , 12-04-2022 / 21/2587 PW",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 14,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "7e186d18-fadf-48ef-a10e-af75a0e2c433",
+        "chunk_index": 9,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2022:13",
+        "text": "Aansluitend moet worden bezien welk vervolg aan deze uitspraak wordt gegeven. De Svb heeft de mogelijkheid gehad het al in de uitspraak van 12 september 2019 geconstateerde gebrek te herstellen, maar is daar, gelet op wat hiervoor is overwogen, niet in geslaagd. In het kader van een definitieve beslechting van het geschil zal de Raad daarom de besluiten van 6 mei 2015 die zien op de intrekking van de Anw-uitkering per 1 oktober 2016 en op de terugvordering herroepen. Aan die besluiten kleeft namelijk hetzelfde gebrek als aan het bestreden besluit.",
+        "similarity": 0.8492,
+        "metadata": {
+          "date": "2022-01-04",
+          "ecli": "ECLI:NL:CRVB:2022:13",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2022:13 Centrale Raad van Beroep , 04-01-2022 / 19/4399 ANW",
+          "quarter": 1,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 9,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "72c16c95-ba7e-4060-a4ae-f2d17e36d057",
+        "chunk_index": 16,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBOVE:2021:3708",
+        "text": "Naar het oordeel van de rechtbank is er geen grond voor het oordeel dat het advies van het CIZ niet zorgvuldig tot stand is gekomen of niet concludent of anderszins onjuist is. Verweerder heeft zich terecht op het standpunt gesteld dat geen recht bestaat op dubbele kinderbijslag vanwege intensieve zorg voor [naam 2] . Het bestreden besluit is juist.",
+        "similarity": 0.8478,
+        "metadata": {
+          "date": "2021-10-04",
+          "ecli": "ECLI:NL:RBOVE:2021:3708",
+          "court": "Rechtbank Overijssel",
+          "title": "ECLI:NL:RBOVE:2021:3708 Rechtbank Overijssel , 04-10-2021 / AWB_20 _1765",
+          "quarter": 4,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": 16,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "bafdfe4e-7b39-41d7-b40c-26eb5a3f73ea",
+        "chunk_index": 1,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2021:2484",
+        "text": "2. De rechtbank heeft geoordeeld dat het college het in de tussenuitspraak geconstateerde gebrek heeft hersteld met de nadere motivering. De rechtbank heeft daarom bepaald dat de rechtsgevolgen van het vernietigde besluit in stand blijven. De rechtbank heeft daartoe overwogen dat het verrichte onderzoek naar aanleiding van de tussenuitspraak door een medisch adviseur [X] voldoende zorgvuldig en volledig is geweest en dat geen aanleiding bestaat te twijfelen aan de juistheid van het rapport. De medisch adviseur heeft namelijk deugdelijk gemotiveerd uiteengezet dat een noodzaak bestaat voor een professioneel begeleider die kennis en affiniteit heeft met ontwikkelingsachterstand op taalkundig en emotioneel gebied. Op de beroepsgrond van appellant dat niet is onderzocht welke meerwaarde professionele begeleiding heeft naast de begeleiding die appellant dagelijks op school krijgt, heeft de rechtbank overwogen dat appellant niet in zijn standpunt kan worden gevolgd dat de benodigde gespecialiseerde begeleiding min of meer gelijk zal zijn aan de begeleiding die appellant op school krijgt. Dat het moeilijk zou zijn om de begeleiding in te passen in het dagschema van appellant, heeft appellant onvoldoende onderbouwd. Daarbij heeft de rechtbank mede van belang geacht dat het gaat om vier uur begeleiding per week en appellant dagelijks om 16.00 uur thuis is vanuit school. Over appellants verwijzing naar informatie van de kinderarts heeft de rechtbank overwogen dat de enkele verwijzing daarnaar zonder de informatie te overleggen onvoldoende is.",
+        "similarity": 0.8477,
+        "metadata": {
+          "date": "2021-10-06",
+          "ecli": "ECLI:NL:CRVB:2021:2484",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2021:2484 Centrale Raad van Beroep , 06-10-2021 / 19/1045 JW",
+          "quarter": 4,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 1,
+          "sub_chunk_index": 0
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "test-case-13",
+    "created_at": "2025-05-26T07:27:11.990236",
+    "refined_at": "2025-05-30T11:51:39.921915+00:00",
+    "temperature": 0.05,
+    "model": "claude-4-sonnet",
+    "memo": "---\n**Juridisch Memorandum – Toeslagpartnerstatus bij huurtoeslag**\n\n**1. Vraagstelling**\n\nDe vraag is of de Belastingdienst bij de beoordeling van de toeslagpartnerstatus voor de huurtoeslag dient uit te gaan van de actuele inschrijving van cliënt en diens partner op hetzelfde adres, of dat zij zich mag baseren op oude GBA-gegevens. Daarbij wordt uitsluitend gekeken naar de relevante overwegingen uit de opgehaalde jurisprudentie.\n\n**2. Analyse van relevante jurisprudentie**\n\nUit de geselecteerde uitspraken blijkt het volgende:\n\n- In **ECLI:NL:RBOVE:2022:923** overweegt de rechtbank dat het standpunt van verweerder, dat eiseres vanaf een bepaalde datum een gezamenlijke huishouding voert, met name is gebaseerd op verklaringen van betrokkenen, verklaringen van buurtbewoners, het resultaat van een huisbezoek, waarnemingen bij het uitkeringsadres en het water- en elektraverbruik. De rechtbank hecht dus waarde aan actuele feitelijke omstandigheden, waaronder het gezamenlijk wonen op één adres en de actuele situatie ter plaatse.\n\n  > “Verweerder heeft het standpunt dat eiseres vanaf 1 december 2016 (sinds de geboorte van [naam 3]) met [naam 2] een gezamenlijke huishouding is gaan voeren, met name gebaseerd op de verklaringen van eiseres, [naam 2] en S. [naam 2], de verklaringen van de (voormalig) buurtbewoners van eiseres en [naam 2], het resultaat van het huisbezoek op 12 februari 2020, de waarnemingen bij het uitkeringsadres en het adres [adres 2] te Zwolle en het water- en elektraverbruik van het uitkeringsadres en het adres [adres 2] te Zwolle.”  \n  *(ECLI:NL:RBOVE:2022:923)*\n\n- In **ECLI:NL:RBDHA:2020:2941** wordt bij de beoordeling van de gezinsstatus uitgegaan van de actuele situatie. Nadat de echtgenote en kinderen van eiser in Nederland zijn aangekomen en dit is gemeld, wordt de uitkering aangepast naar de norm voor een gezin. Dit gebeurt op basis van de gewijzigde feitelijke situatie en de inschrijving op het adres.\n\n  > “Op 21 december 2017 heeft eiser bij verweerder gemeld dat zijn echtgenote en twee kinderen in Nederland zijn aangekomen in het kader van gezinshereniging. Gelet op deze gewijzigde situatie heeft verweerder bij besluit van 4 januari 2018 de aan eiser toegekende bijstandsuitkering vanaf 29 november 2017 gewijzigd en hem een uitkering toegekend naar de norm voor een gezin.”  \n  *(ECLI:NL:RBDHA:2020:2941)*\n\n- In **ECLI:NL:CRVB:2022:638** oordeelt de Centrale Raad van Beroep dat een besluit niet in stand kan blijven als het niet is gebaseerd op een juiste wetstoepassing en een deugdelijke onderbouwing. Het bestreden besluit was gebaseerd op een onjuist standpunt en werd daarom vernietigd.\n\n  > “Het bestreden besluit is gebaseerd op het onjuiste standpunt dat artikel 15, eerste lid, van de PW aan de verlening van bijzondere bijstand in de weg stond en dat appellante alleen op grond van de Beleidsregels daarop aanspraak kon maken. Het besluit berust dus niet op een juiste wetstoepassing en daarmee niet op een deugdelijke onderbouwing. Het kan daarom niet in stand blijven.”  \n  *(ECLI:NL:CRVB:2022:638)*\n\n**3. Toepassing op de casus**\n\nUit de bovenstaande fragmenten volgt dat bij de beoordeling van gezins- of partnerstatus in het kader van sociale zekerheidsregelingen, doorslaggevende waarde wordt gehecht aan de actuele feitelijke situatie en inschrijving. Zowel in ECLI:NL:RBOVE:2022:923 als in ECLI:NL:RBDHA:2020:2941 wordt de actuele samenwoning en inschrijving op hetzelfde adres als uitgangspunt genomen voor de beoordeling. In ECLI:NL:CRVB:2022:638 wordt benadrukt dat besluiten gebaseerd moeten zijn op juiste feiten en een deugdelijke motivering.\n\nEr zijn geen fragmenten in de geselecteerde jurisprudentie die steun bieden aan het standpunt dat oude GBA-gegevens prevaleren boven de actuele inschrijving en feitelijke situatie.\n\n**4. Conclusie**\n\nOp basis van de aangehaalde jurisprudentie (ECLI:NL:RBOVE:2022:923; ECLI:NL:RBDHA:2020:2941; ECLI:NL:CRVB:2022:638) dient de Belastingdienst bij de beoordeling van de toeslagpartnerstatus uit te gaan van de actuele inschrijving en feitelijke situatie. Een besluit dat uitsluitend is gebaseerd op oude GBA-gegevens en de actuele inschrijving negeert, is onvoldoende deugdelijk gemotiveerd en kan daarom niet in stand blijven.\n\n**5. Advies en vervolgstappen**\n\nHet is aan te bevelen in bezwaar of beroep te verwijzen naar de genoemde uitspraken en te verzoeken om een herbeoordeling op basis van de actuele inschrijving en feitelijke situatie. Indien mogelijk kan aanvullend bewijs van gezamenlijke huishouding worden overgelegd, zoals verklaringen of bewijs van gezamenlijke financiële huishouding.\n\n---",
+    "form_data": {
+      "disputedDecision": "Afwijzing toeslagpartnerstatus bij huurtoeslag",
+      "desiredOutcome": "Erkenning van toeslagpartner en verhoging huurtoeslag",
+      "criticalFacts": "Partners staan op één adres ingeschreven, maar Belastingdienst baseert beslissing op oude GBA-gegevens.",
+      "applicableLaw": "toeslagenwet",
+      "recipients": "client"
+    },
+    "chunks": [
+      {
+        "id": "ed99f328-2901-4e46-8dbb-91437d276572",
+        "chunk_index": 7,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBOVE:2022:923",
+        "text": "Verweerder heeft het standpunt dat eiseres vanaf 1 december 2016 (sinds de geboorte van [naam 3]) met [naam 2] een gezamenlijke huishouding is gaan voeren, met name gebaseerd op de verklaringen van eiseres, [naam 2] en S. [naam 2], de verklaringen van de (voormalig) buurtbewoners van eiseres en [naam 2], het resultaat van het huisbezoek op 12 februari 2020, de waarnemingen bij het uitkeringsadres en het adres [adres 2] te Zwolle en het water- en elektraverbruik van het uitkeringsadres en het adres [adres 2] te Zwolle.",
+        "similarity": 0.8403,
+        "metadata": {
+          "date": "2022-04-06",
+          "ecli": "ECLI:NL:RBOVE:2022:923",
+          "court": "Rechtbank Overijssel",
+          "title": "ECLI:NL:RBOVE:2022:923 Rechtbank Overijssel , 06-04-2022 / AWB_20_2109",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": 7,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "ee663305-8dc4-42cb-9da9-273b42eb8959",
+        "chunk_index": 5,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2021:1603",
+        "text": "De rechtbank heeft bij de aangevallen tussenuitspraak 1 geoordeeld dat de Svb niet deugdelijk heeft gemotiveerd waarom de kwijtschelding door de Belastingdienst geen nieuw feit is en waarom het verzoek om herziening is afgewezen. De rechtbank heeft de Svb in de gelegenheid gesteld om het gebrek te herstellen.",
+        "similarity": 0.8378,
+        "metadata": {
+          "date": "2021-07-01",
+          "ecli": "ECLI:NL:CRVB:2021:1603",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2021:1603 Centrale Raad van Beroep , 01-07-2021 / 20/2796 AOW",
+          "quarter": 3,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 5,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "cc3228bb-a5c0-4241-8d31-06e17e4be39c",
+        "chunk_index": 1,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBDHA:2020:2941",
+        "text": "Op 21 december 2017 heeft eiser bij verweerder gemeld dat zijn echtgenote en twee kinderen in Nederland zijn aangekomen in het kader van gezinshereniging. Gelet op deze gewijzigde situatie heeft verweerder bij besluit van 4 januari 2018 de aan eiser toegekende bijstandsuitkering vanaf 29 november 2017 gewijzigd en hem een uitkering toegekend naar de norm voor een gezin.",
+        "similarity": 0.8349,
+        "metadata": {
+          "date": "2020-04-01",
+          "ecli": "ECLI:NL:RBDHA:2020:2941",
+          "court": "Rechtbank Den Haag",
+          "title": "ECLI:NL:RBDHA:2020:2941 Rechtbank Den Haag , 01-04-2020 / AWB - 19 _ 2957",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": 1,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "fd1a124b-ad0d-4f94-a60e-9db5347b9745",
+        "chunk_index": 5,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBDHA:2020:2941",
+        "text": "2. Bij het bestreden besluit heeft verweerder het bezwaar van eiser ongegrond verklaard en in het verweerschrift heeft verweerder de grondslag van de besluitvorming aangevuld en gewijzigd. Aan de besluitvorming ligt thans ten grondslag dat eiser over de periode van 1 juli 2017 tot en met 20 december 2017 de inlichtingenverplichting als bedoeld in artikel 17, eerste lid, van de Pw heeft geschonden. Eiser kreeg in die periode verschillende stortingen en bijschrijvingen op zijn rekening en heeft hiervan geen melding gemaakt. Verweerder verrekent de ontvangen bedragen met de reeds ontvangen bijstand in die periode. Daarnaast is uit de door eiser overgelegde bankrekeningen gebleken dat hij in de periode van 21 december 2017 tot en met 30 april 2018 teveel bijstand heeft ontvangen. Eiser heeft in die periode stortingen en bijschrijvingen op zijn rekening ontvangen en verweerder zal ook deze bedragen verrekenen met de ontvangen bijstand. Tot slot heeft eiser in de periode van 1 augustus 2018 tot en met 31 oktober 2018 de inlichtingenverplichting geschonden door niet te melden dat eiser werkzaamheden verrichtte in een supermarkt. Omdat eiser geen duidelijkheid kon geven over de gewerkte dagen en uren is het recht op bijstand niet meer vast te stellen en vordert verweerder de ontvangen bijstand over die periode terug.",
+        "similarity": 0.8343,
+        "metadata": {
+          "date": "2020-04-01",
+          "ecli": "ECLI:NL:RBDHA:2020:2941",
+          "court": "Rechtbank Den Haag",
+          "title": "ECLI:NL:RBDHA:2020:2941 Rechtbank Den Haag , 01-04-2020 / AWB - 19 _ 2957",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": 5,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "605be5bc-3d1d-425c-8317-c25c6c568b16",
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBZWB:2022:5734",
+        "text": "Deze uitspraak is gedaan door mr. L.P. Hertsig, rechter, in aanwezigheid van D. Alblas, griffier, op 4 oktober 2022 en openbaar gemaakt door middel van geanonimiseerde publicatie op www.rechtspraak.nl.",
+        "similarity": 0.834,
+        "metadata": {
+          "date": "2022-10-04",
+          "ecli": "ECLI:NL:RBZWB:2022:5734",
+          "court": "Rechtbank Zeeland-West-Brabant",
+          "title": "ECLI:NL:RBZWB:2022:5734 Rechtbank Zeeland-West-Brabant , 04-10-2022 / AWB- 22_2222",
+          "quarter": 4,
+          "section": "BESLISSING",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": 0,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "d20bbfed-501e-4176-aedf-56e0dfda77ac",
+        "chunk_index": 14,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2022:638",
+        "text": "Het bestreden besluit is gebaseerd op het onjuiste standpunt dat artikel 15, eerste lid, van de PW aan de verlening van bijzondere bijstand in de weg stond en dat appellante alleen op grond van de Beleidsregels daarop aanspraak kon maken. Het besluit berust dus niet op een juiste wetstoepassing en daarmee niet op een deugdelijke onderbouwing. Het kan daarom niet in stand blijven.",
+        "similarity": 0.834,
+        "metadata": {
+          "date": "2022-04-12",
+          "ecli": "ECLI:NL:CRVB:2022:638",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2022:638 Centrale Raad van Beroep , 12-04-2022 / 21/2587 PW",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 14,
+          "sub_chunk_index": 0
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "test-case-14",
+    "created_at": "2025-05-26T07:28:42.715469",
+    "refined_at": "2025-05-30T11:52:34.656876+00:00",
+    "temperature": 0.05,
+    "model": "claude-4-sonnet",
+    "memo": "---\n**Juridisch Memorandum (herzien op basis van opgehaalde uitspraken)**\n\n**1. Vraagstelling**\n\nDe vraag is of het stopzetten van de bijstandsuitkering op grond van de Participatiewet (Pw) wegens het niet verschijnen bij een gesprek, terwijl cliënt voorafgaand aan het gesprek een ziektebewijs heeft ingediend, juridisch standhoudt. De gemeente stelt dat het ziektebewijs niet is geregistreerd.\n\n**2. Juridisch kader en relevante jurisprudentie**\n\nDe relevante uitspraak is ECLI:NL:RBOBR:2022:2704 (Rechtbank Oost-Brabant, 1 juli 2022). In deze uitspraak overweegt de rechtbank:\n\n> “Bij de beantwoording van de vraag of verweerder op grond van artikel 54, vierde lid, van de Pw bevoegd is tot intrekking van de aan eiseres verleende bijstand, moet worden beoordeeld of eiseres verzuimd heeft om binnen de daartoe gestelde termijn de bij het opschortingsbesluit gevraagde gegevens of gevorderde bewijsstukken te verstrekken of op een andere manier onvoldoende medewerking heeft verleend. Indien dat zo is, moet vervolgens worden nagegaan of de betrokkene hiervan een verwijt kan worden gemaakt.”  \n> (ECLI:NL:RBOBR:2022:2704, r.o. 5)\n\nUit deze overweging volgt dat het bestuursorgaan alleen bevoegd is tot intrekking van de bijstand als:\n- de betrokkene heeft verzuimd de gevraagde gegevens of bewijsstukken te verstrekken, of op andere wijze onvoldoende medewerking heeft verleend, **en**\n- de betrokkene hiervan een verwijt kan worden gemaakt.\n\nDe overige opgehaalde uitspraken (ECLI:NL:CRVB:2023:7, ECLI:NL:CRVB:2023:11, ECLI:NL:CRVB:2020:1369, ECLI:NL:RBZWB:2024:9, ECLI:NL:RBZWB:2023:6841) zien uitsluitend op situaties rondom de Ziektewet (ZW) en bevatten geen relevante overwegingen over de Participatiewet of het verwijtbaarheidsvereiste bij het niet verschijnen op een gesprek in het kader van de bijstand.\n\n**3. Toepassing op de casus**\n\nIndien cliënt voorafgaand aan het gesprek een ziektebewijs heeft ingediend, is van belang of daarmee aan de verplichting tot het verstrekken van gevraagde gegevens is voldaan. Indien aannemelijk is dat het ziektebewijs tijdig is ingediend, maar de gemeente dit niet heeft geregistreerd, kan niet zonder meer worden gesteld dat cliënt onvoldoende medewerking heeft verleend. In lijn met ECLI:NL:RBOBR:2022:2704 dient bovendien te worden beoordeeld of cliënt hiervan een verwijt kan worden gemaakt.\n\n**4. Conclusie en advies**\n\nOp grond van ECLI:NL:RBOBR:2022:2704 is het stopzetten van de bijstandsuitkering wegens het niet verschijnen bij een gesprek slechts toegestaan indien:\n- cliënt heeft verzuimd de gevraagde gegevens te verstrekken, **en**\n- hem daarvan een verwijt kan worden gemaakt.\n\nIndien cliënt aannemelijk kan maken dat het ziektebewijs tijdig is ingediend, en de niet-registratie bij de gemeente ligt, is het niet verschijnen niet verwijtbaar. In dat geval is het stopzetten van de uitkering niet gerechtvaardigd.\n\n**Advies:**  \nMaak bezwaar tegen het stopzettingsbesluit onder verwijzing naar ECLI:NL:RBOBR:2022:2704. Leg bewijs van tijdige indiening van het ziektebewijs over. Verzoek om herstel van de uitkering.\n\n---",
+    "form_data": {
+      "disputedDecision": "Stopzetten bijstandsuitkering wegens niet verschijnen bij gesprek",
+      "desiredOutcome": "Herstel uitkering",
+      "criticalFacts": "Cliënt heeft ziektebewijs ingediend voorafgaand aan het gesprek. Gemeente heeft dit niet geregistreerd.",
+      "applicableLaw": "participatiewet",
+      "recipients": "lawyer"
+    },
+    "chunks": [
+      {
+        "id": "03ad97cd-3811-4425-90a8-e975f9c93583",
+        "chunk_index": 14,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBOBR:2022:2704",
+        "text": "5. Bij de beantwoording van de vraag of verweerder op grond van artikel 54, vierde lid, van de Pw bevoegd is tot intrekking van de aan eiseres verleende bijstand, moet worden beoordeeld of eiseres verzuimd heeft om binnen de daartoe gestelde termijn de bij het opschortingsbesluit gevraagde gegevens of gevorderde bewijsstukken te verstrekken of op een andere manier onvoldoende medewerking heeft verleend. Indien dat zo is, moet vervolgens worden nagegaan of de betrokkene hiervan een verwijt kan worden gemaakt (Zie bijvoorbeeld de uitspraak van de Centrale Raad van Beroep (CRvB) van 17 mei 2016, ECLI:NL:CRVB:2016:1821).",
+        "similarity": 0.8597,
+        "metadata": {
+          "date": "2022-07-01",
+          "ecli": "ECLI:NL:RBOBR:2022:2704",
+          "court": "Rechtbank Oost-Brabant",
+          "title": "ECLI:NL:RBOBR:2022:2704 Rechtbank Oost-Brabant , 01-07-2022 / 21/2246",
+          "quarter": 3,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": 14,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "501b9ef1-39a4-45aa-9a6d-96af1708e405",
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2023:7",
+        "text": "Appellante is laatstelijk werkzaam geweest als begeleider gehandicaptenzorg. Op 7 november 2017 heeft zij zich ziek gemeld met psychische klachten. Het Uwv heeft appellante een uitkering op grond van de Ziektewet (ZW) toegekend.",
+        "similarity": 0.8564,
+        "metadata": {
+          "date": "2023-01-04",
+          "ecli": "ECLI:NL:CRVB:2023:7",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2023:7 Centrale Raad van Beroep , 04-01-2023 / 21/2825 ZW",
+          "quarter": 1,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 0,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "bf961b5f-f615-4000-a608-fc641bd547fc",
+        "chunk_index": -1,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBZWB:2024:9",
+        "text": "Verzoeker heeft beroep ingesteld tegen het besluit van 6 november 2023 (bestreden besluit) inzake de weigering een uitkering op grond van de Participatiewet toe te kennen. Hij heeft de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.",
+        "similarity": 0.8552,
+        "metadata": {
+          "date": "2024-01-02",
+          "ecli": "ECLI:NL:RBZWB:2024:9",
+          "court": "Rechtbank Zeeland-West-Brabant",
+          "title": "ECLI:NL:RBZWB:2024:9 Rechtbank Zeeland-West-Brabant , 02-01-2024 / AWB- 23_10958 en 23_10959 VV",
+          "quarter": 1,
+          "section": "ABSTRACT",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#voorlopigeVoorziening",
+          "chunk_index": -1,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "5678b5aa-b596-4918-8c53-dfc410f1fea6",
+        "chunk_index": -1,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBZWB:2023:6841",
+        "text": "Verzoeker heeft bezwaar gemaakt tegen een besluit van het UWV waarbij is bepaald dat verzoeker vanaf 26 juni 2023 geen recht meer heeft op een uitkering op grond van de Ziektewet (ZW). Hij heeft de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.",
+        "similarity": 0.8544,
+        "metadata": {
+          "date": "2023-10-04",
+          "ecli": "ECLI:NL:RBZWB:2023:6841",
+          "court": "Rechtbank Zeeland-West-Brabant",
+          "title": "ECLI:NL:RBZWB:2023:6841 Rechtbank Zeeland-West-Brabant , 04-10-2023 / AWB- 23_9628 VV",
+          "quarter": 4,
+          "section": "ABSTRACT",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#voorlopigeVoorziening",
+          "chunk_index": -1,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "37f296fe-b6ad-4a7a-ab0d-d281aee4c78d",
+        "chunk_index": 0,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2023:11",
+        "text": "Appellante is laatstelijk werkzaam geweest als callcenter medewerker. Op 2 november 2018 heeft zij zich ziek gemeld met belemmerende gezondheidsklachten. Het Uwv heeft aan appellante na einde dienstverband op 1 april 2019 een uitkering op grond van de Ziektewet (ZW) toegekend.",
+        "similarity": 0.8533,
+        "metadata": {
+          "date": "2023-01-04",
+          "ecli": "ECLI:NL:CRVB:2023:11",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2023:11 Centrale Raad van Beroep , 04-01-2023 / 21/1786 ZW",
+          "quarter": 1,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 0,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "128b4193-71a6-4a89-8417-476773597a4c",
+        "chunk_index": 1,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2020:1369",
+        "text": "Op 21 juli 2016 heeft appellant het spreekuur bezocht van een verzekeringsarts. Deze arts heeft appellant per 27 juli 2016 geschikt geacht voor de laatst verrichte arbeid in de functie van gewasmedewerker. Vervolgens heeft het Uwv bij besluit van 21 juli 2016 de uitkering die appellant ontving op grond van de Ziektewet (ZW) met ingang van 27 juli 2016 beëindigd. Het bezwaar van appellant tegen dit besluit heeft het Uwv bij besluit van 11 oktober 2016 (bestreden besluit) ongegrond verklaard. Aan het bestreden besluit ligt een rapport van een verzekeringsarts bezwaar en beroep ten grondslag.",
+        "similarity": 0.8524,
+        "metadata": {
+          "date": "2020-07-01",
+          "ecli": "ECLI:NL:CRVB:2020:1369",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2020:1369 Centrale Raad van Beroep , 01-07-2020 / 17/5651 ZW",
+          "quarter": 3,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 1,
+          "sub_chunk_index": 0
+        }
+      }
+    ]
+  },
+  {
+    "case_id": "test-case-15",
+    "created_at": "2025-05-26T07:30:26.459656",
+    "refined_at": "2025-05-30T11:53:30.168261+00:00",
+    "temperature": 0.05,
+    "model": "claude-4-sonnet",
+    "memo": "## Herziene Memo\n\n### 1. Vraagstelling\n\nDe cliënt betwist de afwijzing van de zorgtoeslag door de Belastingdienst, omdat het inkomen onjuist is vastgesteld op basis van oude loonstroken. De cliënt heeft inmiddels een nieuwe aangifte ingediend waaruit een lager verzamelinkomen blijkt. De vraag is of, gelet op de relevante jurisprudentie, de Belastingdienst gehouden is de zorgtoeslag alsnog toe te kennen op basis van het juiste (lagere) inkomen.\n\n### 2. Juridische beoordeling op basis van opgehaalde jurisprudentie\n\n#### a. Vereiste van juiste feitelijke grondslag en motivering\n\nUit ECLI:NL:CRVB:2022:638 volgt dat een bestuursorgaan een besluit moet baseren op een juiste wettelijke grondslag en een deugdelijke onderbouwing. In die uitspraak oordeelde de Centrale Raad van Beroep dat het besluit niet in stand kon blijven, omdat het berustte op een onjuiste wetstoepassing en niet op een deugdelijke onderbouwing:  \n> “Het bestreden besluit is gebaseerd op het onjuiste standpunt dat artikel 15, eerste lid, van de PW aan de verlening van bijzondere bijstand in de weg stond en dat appellante alleen op grond van de Beleidsregels daarop aanspraak kon maken. Het besluit berust dus niet op een juiste wetstoepassing en daarmee niet op een deugdelijke onderbouwing. Het kan daarom niet in stand blijven.”  \n(ECLI:NL:CRVB:2022:638)\n\nHieruit volgt dat de Belastingdienst bij het nemen van een besluit over zorgtoeslag moet uitgaan van de juiste inkomensgegevens en het besluit deugdelijk moet motiveren.\n\n#### b. Inlichtingenverplichting en informatievoorziening\n\nDe uitspraken ECLI:NL:RBDHA:2020:2941 en ECLI:NL:RBOVE:2021:3751 gaan in op de informatieplicht van de burger.\n\n- In ECLI:NL:RBDHA:2020:2941 werd geoordeeld dat het bestuursorgaan terecht uitging van de door de betrokkene verstrekte of niet-verstrekte inkomensgegevens, en dat schending van de inlichtingenverplichting gevolgen kan hebben voor het recht op een uitkering:  \n  > “Het voorgaande brengt mee dat verweerder de bijschrijvingen op de rekening van eiser terecht als inkomen heeft aangemerkt en dat eiser door daarvan geen melding te maken bij verweerder de inlichtingenverplichting als bedoeld in artikel 17, eerste lid, van de Pw heeft geschonden.”  \n  (ECLI:NL:RBDHA:2020:2941)\n\n- In ECLI:NL:RBOVE:2021:3751 werd geoordeeld dat een aanvraag ten onrechte was afgewezen, omdat het bestuursorgaan zich ten onrechte op het standpunt stelde dat niet aan de informatieplicht was voldaan:  \n  > “Gelet op het oordeel over de aanvraag om bijstand heeft verweerder zich ten onrechte op het standpunt gesteld dat op grond van de artikelen 11 en 17 van de Pw eiser niet heeft voldaan aan zijn informatieplicht en het recht op bijstand niet is vast te stellen en hij daarom niet in aanmerking komt voor bijzondere bijstand als bedoeld in artikel 35 van de Pw. Verweerder heeft de aanvraag naar het oordeel van de rechtbank dan ook ten onrechte afgewezen.”  \n  (ECLI:NL:RBOVE:2021:3751)\n\nIn het geval van de cliënt is sprake van het aanleveren van nieuwe, juiste inkomensgegevens. Er is dus geen sprake van schending van de inlichtingenverplichting, maar juist van het verstrekken van aanvullende informatie.\n\n#### c. Herziening op basis van nieuwe feiten\n\nIn ECLI:NL:CRVB:2021:1603 wordt ingegaan op de situatie waarin nieuwe feiten aanleiding kunnen zijn voor herziening van een eerder genomen besluit. De rechtbank oordeelde dat het bestuursorgaan deugdelijk moet motiveren waarom een nieuw feit niet tot herziening leidt:  \n> “De rechtbank heeft bij de aangevallen tussenuitspraak 1 geoordeeld dat de Svb niet deugdelijk heeft gemotiveerd waarom de kwijtschelding door de Belastingdienst geen nieuw feit is en waarom het verzoek om herziening is afgewezen. De rechtbank heeft de Svb in de gelegenheid gesteld om het gebrek te herstellen.”  \n(ECLI:NL:CRVB:2021:1603)\n\nDit betekent dat wanneer de cliënt nieuwe inkomensgegevens aanlevert, de Belastingdienst gemotiveerd moet aangeven waarom deze gegevens niet tot een ander besluit zouden leiden.\n\n### 3. Conclusie\n\nOp basis van de aangehaalde jurisprudentie is het besluit van de Belastingdienst om de zorgtoeslag af te wijzen wegens een onjuiste inkomensindicatie juridisch aanvechtbaar. Uit ECLI:NL:CRVB:2022:638 volgt dat een besluit gebaseerd op onjuiste feiten en zonder deugdelijke motivering niet in stand kan blijven. De cliënt heeft voldaan aan de informatieplicht door het aanleveren van een nieuwe aangifte met het juiste inkomen (vgl. ECLI:NL:RBDHA:2020:2941 en ECLI:NL:RBOVE:2021:3751). Bovendien moet de Belastingdienst nieuwe feiten, zoals een lager vastgesteld inkomen, betrekken bij de beoordeling en het besluit herzien indien dit tot een ander recht op toeslag leidt (ECLI:NL:CRVB:2021:1603).\n\n**Advies:**  \nDe kans van slagen bij bezwaar of beroep is aanzienlijk, mits de nieuwe inkomensgegevens correct en volledig zijn overgelegd. De Belastingdienst dient het besluit te herzien en de zorgtoeslag toe te kennen op basis van het juiste, lagere inkomen. Indien de Belastingdienst dit weigert, kan bezwaar worden gemaakt onder verwijzing naar bovengenoemde jurisprudentie.",
+    "form_data": {
+      "disputedDecision": "Afwijzing zorgtoeslag wegens onjuiste inkomensindicatie",
+      "desiredOutcome": "Toekenning van zorgtoeslag",
+      "criticalFacts": "Inkomen is verkeerd ingeschat door Belastingdienst op basis van oude loonstroken. Nieuwe aangifte toont lager verzamelinkomen.",
+      "applicableLaw": "toeslagenwet",
+      "recipients": "client"
+    },
+    "chunks": [
+      {
+        "id": "fd1a124b-ad0d-4f94-a60e-9db5347b9745",
+        "chunk_index": 5,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBDHA:2020:2941",
+        "text": "2. Bij het bestreden besluit heeft verweerder het bezwaar van eiser ongegrond verklaard en in het verweerschrift heeft verweerder de grondslag van de besluitvorming aangevuld en gewijzigd. Aan de besluitvorming ligt thans ten grondslag dat eiser over de periode van 1 juli 2017 tot en met 20 december 2017 de inlichtingenverplichting als bedoeld in artikel 17, eerste lid, van de Pw heeft geschonden. Eiser kreeg in die periode verschillende stortingen en bijschrijvingen op zijn rekening en heeft hiervan geen melding gemaakt. Verweerder verrekent de ontvangen bedragen met de reeds ontvangen bijstand in die periode. Daarnaast is uit de door eiser overgelegde bankrekeningen gebleken dat hij in de periode van 21 december 2017 tot en met 30 april 2018 teveel bijstand heeft ontvangen. Eiser heeft in die periode stortingen en bijschrijvingen op zijn rekening ontvangen en verweerder zal ook deze bedragen verrekenen met de ontvangen bijstand. Tot slot heeft eiser in de periode van 1 augustus 2018 tot en met 31 oktober 2018 de inlichtingenverplichting geschonden door niet te melden dat eiser werkzaamheden verrichtte in een supermarkt. Omdat eiser geen duidelijkheid kon geven over de gewerkte dagen en uren is het recht op bijstand niet meer vast te stellen en vordert verweerder de ontvangen bijstand over die periode terug.",
+        "similarity": 0.8585,
+        "metadata": {
+          "date": "2020-04-01",
+          "ecli": "ECLI:NL:RBDHA:2020:2941",
+          "court": "Rechtbank Den Haag",
+          "title": "ECLI:NL:RBDHA:2020:2941 Rechtbank Den Haag , 01-04-2020 / AWB - 19 _ 2957",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": 5,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "05471b46-d991-49e7-9093-3bdac1207f34",
+        "chunk_index": 18,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBDHA:2020:2941",
+        "text": "Het voorgaande brengt mee dat verweerder de bijschrijvingen op de rekening van eiser terecht als inkomen heeft aangemerkt en dat eiser door daarvan geen melding te maken bij verweerder de inlichtingenverplichting als bedoeld in artikel 17, eerste lid, van de Pw heeft geschonden.",
+        "similarity": 0.8553,
+        "metadata": {
+          "date": "2020-04-01",
+          "ecli": "ECLI:NL:RBDHA:2020:2941",
+          "court": "Rechtbank Den Haag",
+          "title": "ECLI:NL:RBDHA:2020:2941 Rechtbank Den Haag , 01-04-2020 / AWB - 19 _ 2957",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": 18,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "22c7f122-6e67-40c6-856b-0dc89300a059",
+        "chunk_index": 12,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBOVE:2021:3751",
+        "text": "9. Gelet op het oordeel over de aanvraag om bijstand heeft verweerder zich ten onrechte op het standpunt gesteld dat op grond van de artikelen 11 en 17 van de Pw eiser niet heeft voldaan aan zijn informatieplicht en het recht op bijstand niet is vast te stellen en hij daarom niet in aanmerking komt voor bijzondere bijstand als bedoeld in artikel 35 van de Pw. Verweerder heeft de aanvraag naar het oordeel van de rechtbank dan ook ten onrechte afgewezen.",
+        "similarity": 0.8542,
+        "metadata": {
+          "date": "2021-10-07",
+          "ecli": "ECLI:NL:RBOVE:2021:3751",
+          "court": "Rechtbank Overijssel",
+          "title": "ECLI:NL:RBOVE:2021:3751 Rechtbank Overijssel , 07-10-2021 / ak_21_632",
+          "quarter": 4,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": 12,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "d20bbfed-501e-4176-aedf-56e0dfda77ac",
+        "chunk_index": 14,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2022:638",
+        "text": "Het bestreden besluit is gebaseerd op het onjuiste standpunt dat artikel 15, eerste lid, van de PW aan de verlening van bijzondere bijstand in de weg stond en dat appellante alleen op grond van de Beleidsregels daarop aanspraak kon maken. Het besluit berust dus niet op een juiste wetstoepassing en daarmee niet op een deugdelijke onderbouwing. Het kan daarom niet in stand blijven.",
+        "similarity": 0.8521,
+        "metadata": {
+          "date": "2022-04-12",
+          "ecli": "ECLI:NL:CRVB:2022:638",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2022:638 Centrale Raad van Beroep , 12-04-2022 / 21/2587 PW",
+          "quarter": 2,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 14,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "ee663305-8dc4-42cb-9da9-273b42eb8959",
+        "chunk_index": 5,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:CRVB:2021:1603",
+        "text": "De rechtbank heeft bij de aangevallen tussenuitspraak 1 geoordeeld dat de Svb niet deugdelijk heeft gemotiveerd waarom de kwijtschelding door de Belastingdienst geen nieuw feit is en waarom het verzoek om herziening is afgewezen. De rechtbank heeft de Svb in de gelegenheid gesteld om het gebrek te herstellen.",
+        "similarity": 0.8511,
+        "metadata": {
+          "date": "2021-07-01",
+          "ecli": "ECLI:NL:CRVB:2021:1603",
+          "court": "Centrale Raad van Beroep",
+          "title": "ECLI:NL:CRVB:2021:1603 Centrale Raad van Beroep , 01-07-2021 / 20/2796 AOW",
+          "quarter": 3,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#hogerBeroep",
+          "chunk_index": 5,
+          "sub_chunk_index": 0
+        }
+      },
+      {
+        "id": "03ad97cd-3811-4425-90a8-e975f9c93583",
+        "chunk_index": 14,
+        "sub_chunk_index": 0,
+        "ecli": "ECLI:NL:RBOBR:2022:2704",
+        "text": "5. Bij de beantwoording van de vraag of verweerder op grond van artikel 54, vierde lid, van de Pw bevoegd is tot intrekking van de aan eiseres verleende bijstand, moet worden beoordeeld of eiseres verzuimd heeft om binnen de daartoe gestelde termijn de bij het opschortingsbesluit gevraagde gegevens of gevorderde bewijsstukken te verstrekken of op een andere manier onvoldoende medewerking heeft verleend. Indien dat zo is, moet vervolgens worden nagegaan of de betrokkene hiervan een verwijt kan worden gemaakt (Zie bijvoorbeeld de uitspraak van de Centrale Raad van Beroep (CRvB) van 17 mei 2016, ECLI:NL:CRVB:2016:1821).",
+        "similarity": 0.8494,
+        "metadata": {
+          "date": "2022-07-01",
+          "ecli": "ECLI:NL:RBOBR:2022:2704",
+          "court": "Rechtbank Oost-Brabant",
+          "title": "ECLI:NL:RBOBR:2022:2704 Rechtbank Oost-Brabant , 01-07-2022 / 21/2246",
+          "quarter": 3,
+          "section": "OVERWEGINGEN",
+          "subject": "rechtsgebied#bestuursrecht_socialezekerheidsrecht",
+          "procedure": "procedure#eersteAanlegEnkelvoudig",
+          "chunk_index": 14,
+          "sub_chunk_index": 0
+        }
+      }
+    ]
+  }
+]

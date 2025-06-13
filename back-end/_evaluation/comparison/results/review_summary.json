@@ -1,0 +1,44 @@
+{
+  "average_deltas": {
+    "delta_precision": 0.0,
+    "delta_recall": 0.0,
+    "delta_hallucination": 0.0056,
+    "delta_ungrounded_ratio": 0.0254,
+    "delta_f1": 0.0
+  },
+  "delta_change_counts": {
+    "citation_precision": {
+      "improved": 0,
+      "worsened": 0,
+      "unchanged": 180
+    },
+    "citation_recall": {
+      "improved": 0,
+      "worsened": 0,
+      "unchanged": 180
+    },
+    "hallucination_rate": {
+      "improved": 1,
+      "worsened": 0,
+      "unchanged": 179
+    },
+    "ungrounded_ratio": {
+      "improved": 53,
+      "worsened": 27,
+      "unchanged": 100
+    },
+    "f1_score": {
+      "improved": 0,
+      "worsened": 0,
+      "unchanged": 180
+    }
+  },
+  "best_config_by_f1_gain": {
+    "similarity_metric": "cosine",
+    "threshold": 0.6,
+    "delta_f1": 0.0,
+    "delta_precision": 0.0,
+    "delta_recall": 0.0,
+    "delta_hallucination": 0.0
+  }
+}

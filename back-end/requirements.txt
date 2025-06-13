@@ -1,0 +1,13 @@
+nltk
+sentence-transformers 
+tqdm
+langchain-core
+langchain-openai 
+langchain-anthropic
+openai 
+python-dotenv
+fastapi 
+uvicorn
+gunicorn
+slowapi
+supabase

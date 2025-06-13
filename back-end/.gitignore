@@ -1,0 +1,7 @@
+/_data/*
+/_corpus/*
+/.venv
+.env
+/_utils/rechtspraak-js/
+/app/__pycache__
+/__pycache__

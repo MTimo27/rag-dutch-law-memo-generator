@@ -1,0 +1,312 @@
+{
+  "summary": {
+    "total_cases": 30,
+    "resolved_count": 0,
+    "regressed_count": 0,
+    "unchanged_count": 30,
+    "resolution_rate": 0.0,
+    "regression_rate": 0.0
+  },
+  "per_case_deltas": [
+    {
+      "case_id": "test-case-3",
+      "similarity_metric": "cosine",
+      "threshold": 0.7,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-3",
+      "similarity_metric": "cosine",
+      "threshold": 0.9,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-3",
+      "similarity_metric": "dot",
+      "threshold": 0.7,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-3",
+      "similarity_metric": "dot",
+      "threshold": 0.9,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-3",
+      "similarity_metric": "euclidean",
+      "threshold": 0.7,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-3",
+      "similarity_metric": "euclidean",
+      "threshold": 0.9,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-5",
+      "similarity_metric": "cosine",
+      "threshold": 0.7,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-5",
+      "similarity_metric": "cosine",
+      "threshold": 0.9,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-5",
+      "similarity_metric": "dot",
+      "threshold": 0.7,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-5",
+      "similarity_metric": "dot",
+      "threshold": 0.9,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-5",
+      "similarity_metric": "euclidean",
+      "threshold": 0.7,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-5",
+      "similarity_metric": "euclidean",
+      "threshold": 0.9,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "cosine",
+      "threshold": 0.7,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "cosine",
+      "threshold": 0.9,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "dot",
+      "threshold": 0.7,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "dot",
+      "threshold": 0.9,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "euclidean",
+      "threshold": 0.7,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "euclidean",
+      "threshold": 0.9,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-9",
+      "similarity_metric": "cosine",
+      "threshold": 0.7,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-9",
+      "similarity_metric": "cosine",
+      "threshold": 0.9,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-9",
+      "similarity_metric": "dot",
+      "threshold": 0.7,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-9",
+      "similarity_metric": "dot",
+      "threshold": 0.9,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-9",
+      "similarity_metric": "euclidean",
+      "threshold": 0.7,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-9",
+      "similarity_metric": "euclidean",
+      "threshold": 0.9,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-12",
+      "similarity_metric": "cosine",
+      "threshold": 0.7,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-12",
+      "similarity_metric": "cosine",
+      "threshold": 0.9,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-12",
+      "similarity_metric": "dot",
+      "threshold": 0.7,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-12",
+      "similarity_metric": "dot",
+      "threshold": 0.9,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-12",
+      "similarity_metric": "euclidean",
+      "threshold": 0.7,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    },
+    {
+      "case_id": "test-case-12",
+      "similarity_metric": "euclidean",
+      "threshold": 0.9,
+      "gpt_raw": false,
+      "gpt_reviewed": false,
+      "resolved": false,
+      "regressed": false,
+      "unchanged": true
+    }
+  ]
+}

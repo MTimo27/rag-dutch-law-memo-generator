@@ -1,0 +1,117 @@
+{
+  "total_cases": 36,
+  "total_agreements": 25,
+  "agreement_rate": 0.69,
+  "disagreements": [
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "dot",
+      "threshold": 0.9,
+      "auto_eval_flagged_hallucination": true,
+      "gpt_majority_hallucinated": false,
+      "agreement": false,
+      "total_sentences_flagged": 26,
+      "gpt_true_count": 12
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "euclidean",
+      "threshold": 0.7,
+      "auto_eval_flagged_hallucination": true,
+      "gpt_majority_hallucinated": false,
+      "agreement": false,
+      "total_sentences_flagged": 28,
+      "gpt_true_count": 11
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "euclidean",
+      "threshold": 0.9,
+      "auto_eval_flagged_hallucination": true,
+      "gpt_majority_hallucinated": false,
+      "agreement": false,
+      "total_sentences_flagged": 30,
+      "gpt_true_count": 12
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "cosine",
+      "threshold": 0.9,
+      "auto_eval_flagged_hallucination": true,
+      "gpt_majority_hallucinated": false,
+      "agreement": false,
+      "total_sentences_flagged": 27,
+      "gpt_true_count": 13
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "dot",
+      "threshold": 0.9,
+      "auto_eval_flagged_hallucination": true,
+      "gpt_majority_hallucinated": false,
+      "agreement": false,
+      "total_sentences_flagged": 27,
+      "gpt_true_count": 12
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "euclidean",
+      "threshold": 0.7,
+      "auto_eval_flagged_hallucination": true,
+      "gpt_majority_hallucinated": false,
+      "agreement": false,
+      "total_sentences_flagged": 29,
+      "gpt_true_count": 12
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "euclidean",
+      "threshold": 0.9,
+      "auto_eval_flagged_hallucination": true,
+      "gpt_majority_hallucinated": false,
+      "agreement": false,
+      "total_sentences_flagged": 31,
+      "gpt_true_count": 12
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "euclidean",
+      "threshold": 0.7,
+      "auto_eval_flagged_hallucination": true,
+      "gpt_majority_hallucinated": false,
+      "agreement": false,
+      "total_sentences_flagged": 29,
+      "gpt_true_count": 13
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "dot",
+      "threshold": 0.9,
+      "auto_eval_flagged_hallucination": true,
+      "gpt_majority_hallucinated": false,
+      "agreement": false,
+      "total_sentences_flagged": 25,
+      "gpt_true_count": 11
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "euclidean",
+      "threshold": 0.7,
+      "auto_eval_flagged_hallucination": true,
+      "gpt_majority_hallucinated": false,
+      "agreement": false,
+      "total_sentences_flagged": 27,
+      "gpt_true_count": 10
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "euclidean",
+      "threshold": 0.9,
+      "auto_eval_flagged_hallucination": true,
+      "gpt_majority_hallucinated": false,
+      "agreement": false,
+      "total_sentences_flagged": 29,
+      "gpt_true_count": 10
+    }
+  ]
+}

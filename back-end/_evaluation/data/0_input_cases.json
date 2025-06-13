@@ -1,0 +1,167 @@
+[
+  {
+    "id": "test-case-1",
+    "name": "WW-uitkering afwijzing",
+    "formData": {
+      "disputedDecision": "Afwijzing van een WW-uitkering door het UWV",
+      "desiredOutcome": "Toekenning van WW-uitkering met terugwerkende kracht",
+      "criticalFacts": "Cliënt heeft 26 weken gewerkt, maar UWV telt 3 weken niet mee vanwege ziekte. Werkgever bevestigt echter dat cliënt deze weken gewoon heeft doorgewerkt.",
+      "applicableLaw": "ww",
+      "recipients": "lawyer"
+    }
+  },
+  {
+    "id": "test-case-2",
+    "name": "Terugvordering bijstand",
+    "formData": {
+      "disputedDecision": "Terugvordering van bijstand door de gemeente",
+      "desiredOutcome": "Intrekking van de terugvordering",
+      "criticalFacts": "Cliënt heeft samenwoning niet gemeld, maar woonde feitelijk apart van huisgenoot met eigen huurcontract en gescheiden financiën.",
+      "applicableLaw": "participatiewet",
+      "recipients": "judge"
+    }
+  },
+  {
+    "id": "test-case-3",
+    "name": "Afwijzing huurtoeslag",
+    "formData": {
+      "disputedDecision": "Afwijzing aanvraag huurtoeslag",
+      "desiredOutcome": "Toekenning huurtoeslag",
+      "criticalFacts": "Belastingdienst stelt dat cliënt te hoog inkomen had, maar heeft buitengewone zorgkosten niet meegenomen in de berekening.",
+      "applicableLaw": "toeslagenwet",
+      "recipients": "caseworker"
+    }
+  },
+  {
+    "id": "test-case-4",
+    "name": "Beëindiging WIA-uitkering",
+    "formData": {
+      "disputedDecision": "Beëindiging van de WIA-uitkering door het UWV wegens vermeende herstel",
+      "desiredOutcome": "Voortzetting van de WIA-uitkering",
+      "criticalFacts": "Cliënt is door een onafhankelijke arts nog volledig arbeidsongeschikt bevonden. UWV heeft slechts éénzijdig medisch dossier gebruikt.",
+      "applicableLaw": "wia",
+      "recipients": "lawyer"
+    }
+  },
+  {
+    "id": "test-case-5",
+    "name": "Afwijzing AOW-aanvraag",
+    "formData": {
+      "disputedDecision": "Afwijzing AOW-aanvraag wegens onvoldoende opbouwjaren",
+      "desiredOutcome": "Toekenning volledige AOW",
+      "criticalFacts": "SVB heeft buitenlandperiodes niet meegeteld, terwijl cliënt in die periode wel in Nederland verzekerd was via detachering en premies heeft betaald.",
+      "applicableLaw": "aow",
+      "recipients": "client"
+    }
+  },
+  {
+    "id": "test-case-6",
+    "name": "Verlaging Wajong-uitkering",
+    "formData": {
+      "disputedDecision": "Verlaging van Wajong-uitkering wegens verwachte arbeidsmogelijkheden",
+      "desiredOutcome": "Behoud van volledige Wajong-uitkering",
+      "criticalFacts": "Cliënt werkt in een beschutte werkomgeving, maar zonder structurele begeleiding is zelfstandig werken niet mogelijk.",
+      "applicableLaw": "wajong",
+      "recipients": "client"
+    }
+  },
+  {
+    "id": "test-case-7",
+    "name": "Afwijzing kinderopvangtoeslag",
+    "formData": {
+      "disputedDecision": "Afwijzing kinderopvangtoeslag wegens ontbrekende urenregistratie",
+      "desiredOutcome": "Toekenning toeslag voor de aangegeven periode",
+      "criticalFacts": "Gastouderbureau heeft correct geregistreerde uren ingediend, maar Belastingdienst heeft deze niet meegenomen in de beoordeling.",
+      "applicableLaw": "toeslagenwet",
+      "recipients": "caseworker"
+    }
+  },
+  {
+    "id": "test-case-8",
+    "name": "Inhouding op bijstandsuitkering",
+    "formData": {
+      "disputedDecision": "Inhouding op bijstandsuitkering voor energiekosten",
+      "desiredOutcome": "Stopzetten inhouding en terugbetaling",
+      "criticalFacts": "Gemeente heeft energietoeslag ten onrechte verrekend met openstaande schuld zonder toestemming of kennisgeving.",
+      "applicableLaw": "participatiewet",
+      "recipients": "lawyer"
+    }
+  },
+  {
+    "id": "test-case-9",
+    "name": "Afwijzing studietoeslag",
+    "formData": {
+      "disputedDecision": "Afwijzing studietoeslag voor student met beperking",
+      "desiredOutcome": "Toekenning toeslag met terugwerkende kracht",
+      "criticalFacts": "Cliënt heeft bewijs van beperking ingediend en voldoet aan alle criteria, maar aanvraag is administratief te laat verwerkt.",
+      "applicableLaw": "studietoeslagregeling",
+      "recipients": "student"
+    }
+  },
+  {
+    "id": "test-case-10",
+    "name": "Stopzetten ZW-uitkering",
+    "formData": {
+      "disputedDecision": "Stopzetten van de Ziektewet-uitkering wegens hersteldmelding",
+      "desiredOutcome": "Voortzetting van de ZW-uitkering",
+      "criticalFacts": "Huisarts heeft een contra-indicatie gegeven en betwist de door het UWV gestelde hersteldatum.",
+      "applicableLaw": "zw",
+      "recipients": "caseworker"
+    }
+  },
+  {
+    "id": "test-case-11",
+    "name": "Afwijzing bijzondere bijstand",
+    "formData": {
+      "disputedDecision": "Afwijzing bijzondere bijstand voor tandartskosten",
+      "desiredOutcome": "Toekenning van volledige tandartskostenvergoeding",
+      "criticalFacts": "Cliënt had geen aanvullende verzekering, maar aantoonbaar medische noodzaak. Gemeente wijkt niet af van standaardbeleid.",
+      "applicableLaw": "participatiewet",
+      "recipients": "client"
+    }
+  },
+  {
+    "id": "test-case-12",
+    "name": "Intrekking kinderbijslag",
+    "formData": {
+      "disputedDecision": "Intrekking kinderbijslag wegens buitenlandse schoolinschrijving",
+      "desiredOutcome": "Herstel kinderbijslag met terugwerkende kracht",
+      "criticalFacts": "Kind volgt erkende Nederlandse afstandsonderwijs en verblijft tijdelijk in buitenland. SVB heeft dit niet geverifieerd.",
+      "applicableLaw": "akwb",
+      "recipients": "parent"
+    }
+  },
+  {
+    "id": "test-case-13",
+    "name": "Afwijzing toeslagpartner",
+    "formData": {
+      "disputedDecision": "Afwijzing toeslagpartnerstatus bij huurtoeslag",
+      "desiredOutcome": "Erkenning van toeslagpartner en verhoging huurtoeslag",
+      "criticalFacts": "Partners staan op één adres ingeschreven, maar Belastingdienst baseert beslissing op oude GBA-gegevens.",
+      "applicableLaw": "toeslagenwet",
+      "recipients": "client"
+    }
+  },
+  {
+    "id": "test-case-14",
+    "name": "Stopzetten bijstandsuitkering",
+    "formData": {
+      "disputedDecision": "Stopzetten bijstandsuitkering wegens niet verschijnen bij gesprek",
+      "desiredOutcome": "Herstel uitkering",
+      "criticalFacts": "Cliënt heeft ziektebewijs ingediend voorafgaand aan het gesprek. Gemeente heeft dit niet geregistreerd.",
+      "applicableLaw": "participatiewet",
+      "recipients": "lawyer"
+    }
+  },
+  {
+    "id": "test-case-15",
+    "name": "Afwijzing zorgtoeslag",
+    "formData": {
+      "disputedDecision": "Afwijzing zorgtoeslag wegens onjuiste inkomensindicatie",
+      "desiredOutcome": "Toekenning van zorgtoeslag",
+      "criticalFacts": "Inkomen is verkeerd ingeschat door Belastingdienst op basis van oude loonstroken. Nieuwe aangifte toont lager verzamelinkomen.",
+      "applicableLaw": "toeslagenwet",
+      "recipients": "client"
+    }
+  }
+]

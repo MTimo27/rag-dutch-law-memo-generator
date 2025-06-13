@@ -1,0 +1,127 @@
+{
+  "total_cases": 30,
+  "total_agreements": 18,
+  "agreement_rate": 0.6,
+  "disagreements": [
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "dot",
+      "threshold": 0.9,
+      "auto_eval_flagged_hallucination": true,
+      "gpt_majority_hallucinated": false,
+      "agreement": false,
+      "total_sentences_flagged": 26,
+      "gpt_true_count": 13
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "euclidean",
+      "threshold": 0.7,
+      "auto_eval_flagged_hallucination": true,
+      "gpt_majority_hallucinated": false,
+      "agreement": false,
+      "total_sentences_flagged": 26,
+      "gpt_true_count": 13
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "euclidean",
+      "threshold": 0.9,
+      "auto_eval_flagged_hallucination": true,
+      "gpt_majority_hallucinated": false,
+      "agreement": false,
+      "total_sentences_flagged": 26,
+      "gpt_true_count": 12
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "euclidean",
+      "threshold": 0.7,
+      "auto_eval_flagged_hallucination": true,
+      "gpt_majority_hallucinated": false,
+      "agreement": false,
+      "total_sentences_flagged": 23,
+      "gpt_true_count": 11
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "cosine",
+      "threshold": 0.9,
+      "auto_eval_flagged_hallucination": true,
+      "gpt_majority_hallucinated": false,
+      "agreement": false,
+      "total_sentences_flagged": 25,
+      "gpt_true_count": 11
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "dot",
+      "threshold": 0.9,
+      "auto_eval_flagged_hallucination": true,
+      "gpt_majority_hallucinated": false,
+      "agreement": false,
+      "total_sentences_flagged": 25,
+      "gpt_true_count": 8
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "euclidean",
+      "threshold": 0.7,
+      "auto_eval_flagged_hallucination": true,
+      "gpt_majority_hallucinated": false,
+      "agreement": false,
+      "total_sentences_flagged": 27,
+      "gpt_true_count": 8
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "euclidean",
+      "threshold": 0.9,
+      "auto_eval_flagged_hallucination": true,
+      "gpt_majority_hallucinated": false,
+      "agreement": false,
+      "total_sentences_flagged": 29,
+      "gpt_true_count": 8
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "euclidean",
+      "threshold": 0.9,
+      "auto_eval_flagged_hallucination": true,
+      "gpt_majority_hallucinated": false,
+      "agreement": false,
+      "total_sentences_flagged": 25,
+      "gpt_true_count": 12
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "dot",
+      "threshold": 0.9,
+      "auto_eval_flagged_hallucination": true,
+      "gpt_majority_hallucinated": false,
+      "agreement": false,
+      "total_sentences_flagged": 27,
+      "gpt_true_count": 13
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "euclidean",
+      "threshold": 0.7,
+      "auto_eval_flagged_hallucination": true,
+      "gpt_majority_hallucinated": false,
+      "agreement": false,
+      "total_sentences_flagged": 27,
+      "gpt_true_count": 11
+    },
+    {
+      "case_id": "test-case-15",
+      "similarity_metric": "euclidean",
+      "threshold": 0.9,
+      "auto_eval_flagged_hallucination": true,
+      "gpt_majority_hallucinated": false,
+      "agreement": false,
+      "total_sentences_flagged": 27,
+      "gpt_true_count": 12
+    }
+  ]
+}
