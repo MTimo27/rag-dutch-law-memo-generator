@@ -2,7 +2,8 @@
 
 A full-stack legal AI prototype for generating Dutch legal memos from administrative court rulings using Retrieval-Augmented Generation (RAG). This proof-of-concept system was developed as part of a Bachelor thesis at the University of Twente by Mihai Timoficiuc and demonstrates a RAG-based approach for generating legally grounded, citation-verifiable memos in Dutch social security law.
 
-*Live preview at: memo-generator.netlify.app*
+*Live preview: memo-generator.netlify.app*
+*Note: The platform may be temporarily unavailable due to hosting limitations.*
 
 ## Project Overview
 
@@ -162,11 +163,13 @@ If your goal is personal learning, research, or academic work, **you are free to
 
 ## Citation
 
-This system accompanies the thesis:
+This system accompanies the paper:
 
-**Legal Memorandum Generation Using Retrieval-Augmented Large Language Models and Dutch Case Law**
-*Mihai Timoficiuc, University of Twente, 2025*
-*TScIT 43 – Bachelor Thesis*
+**Legal Memorandum Generation Using Retrieval-Augmented Large
+Language Models: A Case Study for Dutch Law**
+*Mihai Timoficiuc, Hao Chen, Marcos R. Machado*
+*University of Twente, Faculty of Behavioural, Management and Social Sciences, Department of High-Tech Business and
+Entrepreneurship, AE Enschede, 7500, Netherlands*
 
 ---
 
@@ -174,7 +177,9 @@ This system accompanies the thesis:
 
 For academic inquiries, collaboration, or bug reports, reach out to:
 
-* 📧 \[[mihaitimoficiuc@gmail.com](mailto:mihaitimoficiuc@gmail.com)]
-* 🔗 [LinkedIn](https://www.linkedin.com/in/mihai-timoficiuc-50625b1a4/)
+*Corresponding author: Hao Chen (h.chen-3@utwente.nl, Tel. +31 534897784).
+*Email addresses: mihaitimoficiuc@gmail.com (Mihai Timoficiuc), h.chen-3@utwente.nl (Hao Chen),
+m.r.machado@utwente.nl (Marcos R. Machado)
+
 
 
