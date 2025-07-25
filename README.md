@@ -177,8 +177,8 @@ Entrepreneurship, AE Enschede, 7500, Netherlands*
 
 For academic inquiries, collaboration, or bug reports, reach out to:
 
-*Corresponding author: Hao Chen (h.chen-3@utwente.nl, Tel. +31 534897784).
-*Email addresses: mihaitimoficiuc@gmail.com (Mihai Timoficiuc), h.chen-3@utwente.nl (Hao Chen),
+* Corresponding author: Hao Chen (h.chen-3@utwente.nl, Tel. +31 534897784).
+* Email addresses: mihaitimoficiuc@gmail.com (Mihai Timoficiuc), h.chen-3@utwente.nl (Hao Chen),
 m.r.machado@utwente.nl (Marcos R. Machado)
 
 
